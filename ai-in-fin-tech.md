@@ -1,6 +1,6 @@
 # AI in FinTech
 
-## Requirements
+## _Requirements_
 - [IT in FinTech](it-in-fin-tech.md)
 
 ## Books
