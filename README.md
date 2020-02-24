@@ -1,5 +1,8 @@
 # AI in FinTech
 
+## Requirements
+- [IT in FinTech](it-in-fin-tech.md)
+
 ## Books
 - [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 - [Big Data and Machine Learning in Quantitative Investment](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-dp-1119522196/dp/1119522196)
