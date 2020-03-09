@@ -18,7 +18,7 @@
   - [Fundamentals of Machine Learning in Finance](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance)
   - [Reinforcement Learning in Finance](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   - [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
-- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
+- [Artificial Intelligence for Trading (WorldQuant)](https://www.udacity.com/course/ai-for-trading--nd880)
   - Preparation
     - [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
     - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
