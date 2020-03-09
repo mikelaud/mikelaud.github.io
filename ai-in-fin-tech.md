@@ -33,3 +33,4 @@
     - Advanced Natural Language Processing with Deep Learning
     - Combining Multiple Signals
     - Simulating Trades with Historical Data
+- [Машинное обучение в финансах (Сбербанк)](https://www.coursera.org/learn/machinnoe-obuchenie-v-finansah)
