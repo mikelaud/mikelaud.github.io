@@ -18,3 +18,13 @@
   - [Fundamentals of Machine Learning in Finance](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance)
   - [Reinforcement Learning in Finance](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   - [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
+- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
+  - [Quantitative Trading]
+    - [Basic Quantitative Trading]
+    - [Advanced Quantitative Trading]
+    - [Stocks, Indices, and ETFs]
+    - [Factor Investing and Alpha Research]
+    - [Sentiment Analysis with Natural Language Processing]
+    - [Advanced Natural Language Processing with Deep Learning]
+    - [Combining Multiple Signals]
+  - [Simulating Trades with Historical Data]
