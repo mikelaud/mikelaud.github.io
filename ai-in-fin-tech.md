@@ -19,12 +19,17 @@
   - [Reinforcement Learning in Finance](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   - [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
 - [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
-  - [Quantitative Trading]
-    - [Basic Quantitative Trading]
-    - [Advanced Quantitative Trading]
-    - [Stocks, Indices, and ETFs]
-    - [Factor Investing and Alpha Research]
-    - [Sentiment Analysis with Natural Language Processing]
-    - [Advanced Natural Language Processing with Deep Learning]
-    - [Combining Multiple Signals]
-  - [Simulating Trades with Historical Data]
+  - Preparation
+    - [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+    - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+    - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+    - [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+  - Quantitative Trading
+    - Basic Quantitative Trading
+    - Advanced Quantitative Trading
+    - Stocks, Indices, and ETFs
+    - Factor Investing and Alpha Research
+    - Sentiment Analysis with Natural Language Processing
+    - Advanced Natural Language Processing with Deep Learning
+    - Combining Multiple Signals
+    - Simulating Trades with Historical Data
