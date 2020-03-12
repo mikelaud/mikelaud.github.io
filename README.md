@@ -1,5 +1,6 @@
 # Notes
 - [Information Technology](it.md)
-  - [AI in FinTech](ai-in-fin-tech.md)
   - [IT in FinTech](it-in-fin-tech.md)
-  
+- Artificial Intelligence
+  - AI in IT
+  - [AI in FinTech](ai-in-fin-tech.md)
