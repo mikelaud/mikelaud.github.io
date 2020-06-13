@@ -3,7 +3,7 @@
 <details><summary>1) Strong AI Concept</summary><p>
   
 ## Strong AI Concept [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
-### Сontextual-Semantic Concept of AI
+### Сontextual-Meaning Concept of AI
 1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
 1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 1. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
