@@ -7,6 +7,8 @@
 1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
 1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 1. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
+1. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
+1. [Что такое сознание и какова его природа?](https://www.youtube.com/watch?v=FDYikQOKKKk) _(May 20, 2019)_
 
 </p></details>
 <details><summary>2) The Master Algorithm</summary><p>
