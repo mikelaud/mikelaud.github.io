@@ -9,6 +9,9 @@
 1. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
 1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 1. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
+### Ссылки
+1. [Сайт "www.aboutbrain.ru": Модель мозга от Алексея Редозубова](http://www.aboutbrain.ru/)
+1. [Сайт "truebraincomputing.com": Использование технологий мозга для создания сильного ИИ](http://truebraincomputing.com/)
 
 </p></details>
 <details><summary>2) The Master Algorithm</summary><p>
