@@ -9,6 +9,19 @@
 1. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
 1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 1. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
+### [Логика мышления](https://www.youtube.com/playlist?list=PLe0QmH-WDNYvTbx2EHPT7vuGkM5kaFb1e) _(2012)_
+1. [Часть 1](https://www.youtube.com/watch?v=0v5OwZxox7M)
+- Вступление о сильном ИИ.
+- Бихевиоризм.
+- Персептрон Розенблатта и его связь с идеями бихевиоризма.
+- Обучение с подкреплением.
+- Оценка качества ситуации как сигнал подкрепления.
+- Адаптивные критики. Q и V критики.
+- Мотивация. Модели явной и неявной мотивации.
+- Строение мозга. Кора.
+- Работа коры на примере первичной зрительной коры.
+- Неокогнитрон Фукушимы, как модель зрительной коры.
+- Обобщение. Аналогия с факторным анализом. Суть обобщения.
 ### Ссылки
 1. [Видео канал TrueBrainComputing на сайте "youtube.com"](https://www.youtube.com/channel/UCi7oVz-Vu7jp55Wua6ffyfg/videos)
 1. [Видео канал Редозубова на сайте "youtube.com"](https://www.youtube.com/channel/UCFRX06ud1laYdlbeBLe_pcA/videos)
