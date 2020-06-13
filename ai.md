@@ -4,7 +4,8 @@
   
 ## Strong AI Concept [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
 ### Сontextual-Semantic Concept of AI
-- [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
+1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
+1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 
 </p></details>
 <details><summary>2) The Master Algorithm</summary><p>
