@@ -10,6 +10,7 @@
 1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 1. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
 ### Ссылки
+1. [Видео канал Редозубова на сайте "youtube.com"](https://www.youtube.com/user/aldrd/videos)
 1. [Публикации Моржакова на сайте "habr.com"](https://habr.com/ru/users/vasyutka/posts/)
 1. [Публикации Редозубова на сайте "habr.com"](https://habr.com/ru/users/alexeyr/posts/)
 1. [Сайт "aboutbrain.ru": Модель мозга от Алексея Редозубова](http://www.aboutbrain.ru/)
