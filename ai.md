@@ -2,7 +2,7 @@
 
 <details><summary>1) Emotion Based Artificial Intelligence</summary><p>
   
-## Emotion Based Artificial Intelligence [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd)
+## Emotion Based Artificial Intelligence [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
 
 </p></details>
 <details><summary>2) The Master Algorithm</summary><p>
