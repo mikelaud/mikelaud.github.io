@@ -1,15 +1,20 @@
 # Artificial Intelligence
 <details><summary>1) The Master Algorithm</summary><p>
   
-## [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465094279) _(Pedro Domingos)_
+## [The Master Algorithm](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) _( Andreas Muller, Sarah Guido)_
 
 </p></details>
 <details><summary>2) Make Your Own Neural Network</summary><p>
+
+## [Introduction to Machine Learning with Python](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) _(Tariq Rashid)_
+
+</p></details>
+<details><summary>3) Make Your Own Neural Network</summary><p>
   
 ## [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) _(Tariq Rashid)_
 
 </p></details>
-<details><summary>3) Generative Deep Learning</summary><p>
+<details><summary>4) Generative Deep Learning</summary><p>
 
 ## [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) _(David Foster)_
 - [source code](https://github.com/davidADSP/GDL_code)
