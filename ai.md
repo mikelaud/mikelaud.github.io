@@ -4,7 +4,7 @@
 ## [The Master Algorithm](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) _( Andreas Muller, Sarah Guido)_
 
 </p></details>
-<details><summary>2) Make Your Own Neural Network</summary><p>
+<details><summary>2) Introduction to Machine Learning with Python</summary><p>
 
 ## [Introduction to Machine Learning with Python](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) _(Tariq Rashid)_
 
