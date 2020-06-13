@@ -3,7 +3,7 @@
 <details><summary>1) Strong AI Concept</summary><p>
   
 ## Strong AI Concept [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
-### Концепция сильного ИИ _(2019)_
+### [Концепция сильного ИИ](https://www.youtube.com/playlist?list=PLlXPdFJuBl9Mp1hv0-nRvNzc6iPL_-Vp9) _(2019)_
 1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
 1. [Что такое сознание и какова его природа?](https://www.youtube.com/watch?v=FDYikQOKKKk)
 1. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
