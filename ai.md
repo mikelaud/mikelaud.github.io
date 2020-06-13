@@ -2,7 +2,9 @@
 
 <details><summary>1) Emotion Based Artificial Intelligence</summary><p>
   
-## Emotion Based Artificial Intelligence [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
+## Сontextual-semantic concept of AI [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
+### Introduction to Strong AI
+- [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
 
 </p></details>
 <details><summary>2) The Master Algorithm</summary><p>
