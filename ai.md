@@ -1,9 +1,9 @@
 # Artificial Intelligence
 
-<details><summary>1) Emotion Based Artificial Intelligence</summary><p>
+<details><summary>1) Strong AI Concept</summary><p>
   
-## Сontextual-semantic concept of AI [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
-### Introduction to Strong AI
+## Strong AI Concept [_(Alexey Redozubov)_](https://www.youtube.com/user/aldrd/videos)
+### Сontextual-Semantic Concept of AI
 - [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
 
 </p></details>
