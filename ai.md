@@ -9,7 +9,7 @@
 1. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
 1. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
 1. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
-### [Логика мышления](https://www.youtube.com/playlist?list=PLW-zkiR1foiacsKeTjtDXJW9jh8JMDDdu) _(2018)_
+### [Логика сознания](https://www.youtube.com/playlist?list=PLW-zkiR1foiacsKeTjtDXJW9jh8JMDDdu) _(2018)_
 - [Часть 1: История изучения мозга](https://www.youtube.com/watch?v=fxM8DPx-tcE)
 - [Часть 2: Базовые сведения](https://www.youtube.com/watch?v=Hz47QPV-ubI)
 - [Часть 3: Новая модель памяти](https://www.youtube.com/watch?v=_JRd_mTYiCo)
