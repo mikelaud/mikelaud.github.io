@@ -32,6 +32,10 @@
 - [Часть 5: Любовь](https://www.youtube.com/watch?v=nxl63ak9VCo)
 - [Часть 6: Красота](https://www.youtube.com/watch?v=TVSMu9Po1D0)
 - [Часть 7: Юмор](https://www.youtube.com/watch?v=M3kr__FtZe8)
+### [Логика эмоций](http://www.aboutbrain.ru/%d0%bb%d0%be%d0%b3%d0%b8%d0%ba%d0%b0-%d1%8d%d0%bc%d0%be%d1%86%d0%b8%d0%b9/)
+- Часть 1. Эмоции
+- Часть 2. Красота
+- Часть 3. Юмор
 ### Ссылки
 1. [Видео канал TrueBrainComputing на сайте "youtube.com"](https://www.youtube.com/channel/UCi7oVz-Vu7jp55Wua6ffyfg/videos)
 1. [Видео канал Редозубова на сайте "youtube.com"](https://www.youtube.com/channel/UCFRX06ud1laYdlbeBLe_pcA/videos)
