@@ -12,7 +12,10 @@
 - Chapter 1. Preliminaries
   - 1.1 What Is This Book About?
     - What Kinds of Data?
-      - Tabular or spreadsheet-like data
-      - Multidimensional arrays (matrices)
-      - Multiple tables of data interrelated by key columns
-      - Evenly or unevenly spaced time series
+      - Structured data  
+        - Tabular or spreadsheet-like data
+        - Multidimensional arrays (matrices)
+        - Multiple tables of data interrelated by key columns
+        - Evenly or unevenly spaced time series
+      - Unstructured data 
+        - Extract features from a dataset into a structured form
