@@ -1,5 +1,5 @@
 ![Ptilocercus_lowii](01-python-for-data-analysis/cover/1_ptilocercus_lowii_160x240.jpg?raw=true "Python for Data Analysis")
-[Python for Data Analysis](README.md)
+[Python for Data Analysis](01-python-for-data-analysis/README.md)
 
 # Hi-Tech Notes
 - [Artificial Intelligence](ai.md)
