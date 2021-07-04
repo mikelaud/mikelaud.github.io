@@ -6,3 +6,4 @@
 
 ## Code
 - [http://github.com/wesm/pydata-book](http://github.com/wesm/pydata-book)
+- [https://github.com/mikelaud/pydata-book](https://github.com/mikelaud/pydata-book) (backup)
