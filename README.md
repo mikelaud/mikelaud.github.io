@@ -1,16 +1,18 @@
-# [Python for Data Analysis](01-python-for-data-analysis)
+# FinTech AI/ML/DL Notes
+
+## [Python for Data Analysis](01-python-for-data-analysis)
 [![Ptilocercus_lowii](01-python-for-data-analysis/cover/1_ptilocercus_lowii_160x240.jpg?raw=true "Ptilocercus lowii")](https://en.wikipedia.org/wiki/Pen-tailed_treeshrew)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
 
-# [Python for Finance](02-python-for-finance)
+## [Python for Finance](02-python-for-finance)
 [![Python for Finance](02-python-for-finance/cover/1_solenodon_cubanus_320x232.jpg?raw=true "Solenodon cubanus")](https://en.wikipedia.org/wiki/Cuban_solenodon)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Abhandlungen_der_K%C3%B6niglichen_Akademie_der_Wissenschaften_in_Berlin_(1863)_(16740609846).jpg)
 
-# [Python for Algorithmic Trading](03-python-for-algorithmic-trading)
+## [Python for Algorithmic Trading](03-python-for-algorithmic-trading)
 [![Python for Algorithmic Trading](03-python-for-algorithmic-trading/cover/2_coluber_natrix_480x334.jpg?raw=true "Coluber natrix")](https://en.wikipedia.org/wiki/Natrix)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Die_Schlangen_W%C3%BCrttembergs_(Plate-_Coluber_Natrix)_BHL4389908.jpg)
 
-# Hi-Tech Notes
+## Backlog
 - [Artificial Intelligence](ai.md)
   - [AI in FinTech](ai-in-fin-tech.md)
 - [Information Technology](it.md)
