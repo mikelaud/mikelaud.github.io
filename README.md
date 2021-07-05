@@ -4,6 +4,7 @@
 
 # [Python for Finance](02-python-for-finance)
 [![Python for Finance](02-python-for-finance/cover/1_solenodon_cubanus_320x232.jpg?raw=true "Solenodon cubanus")](https://en.wikipedia.org/wiki/Cuban_solenodon)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Abhandlungen_der_K%C3%B6niglichen_Akademie_der_Wissenschaften_in_Berlin_(1863)_(16740609846).jpg)
 
 # [Python for Algorithmic Trading](03-python-for-algorithmic-trading)
 [![Python for Algorithmic Trading](03-python-for-algorithmic-trading/cover/2_coluber_natrix_480x334.jpg?raw=true "Coluber natrix")](https://en.wikipedia.org/wiki/Natrix)
