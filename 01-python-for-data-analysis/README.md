@@ -1,5 +1,6 @@
 # Python for Data Analysis
 [![Ptilocercus_lowii](cover/1_ptilocercus_lowii_160x240.jpg?raw=true "Ptilocercus lowii")](https://en.wikipedia.org/wiki/Pen-tailed_treeshrew)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
 
 ## Book
 - [Python for Data Analysis by Wes McKinney (O’Reilly)](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
