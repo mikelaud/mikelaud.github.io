@@ -12,6 +12,10 @@
 [![Python for Algorithmic Trading](03-python-for-algorithmic-trading/cover/2_coluber_natrix_480x334.jpg?raw=true "Coluber natrix")](https://en.wikipedia.org/wiki/Natrix)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Die_Schlangen_W%C3%BCrttembergs_(Plate-_Coluber_Natrix)_BHL4389908.jpg)
 
+## [Artificial Intelligence in Finance](04-artificial-intelligence-in-finance)
+[![Artificial Intelligence in Finance](04-artificial-intelligence-in-finance/cover/arvicola_pratensis_320.jpg?raw=true "Arvicola pratensis")](04-artificial-intelligence-in-finance)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Arvicola_pratensis_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20500125.tif)
+
 ## Backlog
 - [Artificial Intelligence](ai.md)
   - [AI in FinTech](ai-in-fin-tech.md)
