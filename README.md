@@ -3,8 +3,8 @@
 <details><summary>1) Python for Data Analysis</summary><p>
 
 ## [Python for Data Analysis](01-python-for-data-analysis)
-[![Python for Data Analysis](01-python-for-data-analysis/cover/ptilocercus_lowii_320.jpg?raw=true "Python for Data Analysis")](01-python-for-data-analysis)
-[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
+[![Python for Data Analysis](01-python-for-data-analysis/cover/tupaia_tana_320.jpg?raw=true "Python for Data Analysis")](01-python-for-data-analysis)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Tupaia_tana_J_Smit.jpg)
 
 </p></details>
 <details><summary>2) Python for Finance</summary><p>
