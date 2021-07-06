@@ -1,7 +1,7 @@
 # FinTech AI/ML/DL Notes
 
 ## [Python for Data Analysis](01-python-for-data-analysis)
-[![Python for Data Analysis](01-python-for-data-analysis/cover/1_ptilocercus_lowii_160x240.jpg?raw=true "Python for Data Analysis")](01-python-for-data-analysis)
+[![Python for Data Analysis](01-python-for-data-analysis/cover/ptilocercus_lowii_320.jpg?raw=true "Python for Data Analysis")](01-python-for-data-analysis)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
 
 ## [Python for Finance](02-python-for-finance)
