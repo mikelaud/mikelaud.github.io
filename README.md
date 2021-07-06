@@ -1,4 +1,4 @@
-# FinTech AI/ML/DL Notes
+# FinTech ML Notes
 
 <details><summary>1) Python for Data Analysis</summary><p>
 
