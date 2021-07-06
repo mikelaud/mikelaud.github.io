@@ -1,6 +1,6 @@
 # Python for Data Analysis
-[![Ptilocercus_lowii](cover/ptilocercus_lowii_640.jpg?raw=true "Python for Data Analysis")](..)
-[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
+[![Python for Data Analysis](cover/tupaia_tana_640.jpg?raw=true "Python for Data Analysis")](..)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Tupaia_tana_J_Smit.jpg)
 
 ## Book
 - [Python for Data Analysis by Wes McKinney (O’Reilly)](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
