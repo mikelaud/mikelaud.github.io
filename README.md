@@ -9,7 +9,7 @@
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Abhandlungen_der_K%C3%B6niglichen_Akademie_der_Wissenschaften_in_Berlin_(1863)_(16740609846).jpg)
 
 ## [Python for Algorithmic Trading](03-python-for-algorithmic-trading)
-[![Python for Algorithmic Trading](03-python-for-algorithmic-trading/cover/2_coluber_natrix_480x334.jpg?raw=true "Python for Algorithmic Trading")](03-python-for-algorithmic-trading)
+[![Python for Algorithmic Trading](03-python-for-algorithmic-trading/cover/coluber_natrix_320.jpg?raw=true "Python for Algorithmic Trading")](03-python-for-algorithmic-trading)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Die_Schlangen_W%C3%BCrttembergs_(Plate-_Coluber_Natrix)_BHL4389908.jpg)
 
 ## [Artificial Intelligence in Finance](04-artificial-intelligence-in-finance)
