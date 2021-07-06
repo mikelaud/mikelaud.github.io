@@ -1,5 +1,5 @@
 # Python for Data Analysis
-[![Ptilocercus_lowii](cover/1_ptilocercus_lowii_160x240.jpg?raw=true "Ptilocercus lowii")](https://en.wikipedia.org/wiki/Pen-tailed_treeshrew)
+[![Ptilocercus_lowii](cover/ptilocercus_lowii_640.jpg?raw=true "Python for Data Analysis")](..)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
 
 ## Book
