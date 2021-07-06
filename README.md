@@ -28,7 +28,14 @@
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Arvicola_pratensis_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20500125.tif)
 
 </p></details>
-  
+<details><summary>5) Machine Learning and Data Science Blueprints for Finance</summary><p>
+
+## [Machine Learning and Data Science Blueprints for Finance](05-ml-and-ds-blueprints-for-finance)
+[![Machine Learning and Data Science Blueprints for Finance](05-ml-and-ds-blueprints-for-finance/cover/coturnix_coturnix_320.jpg?raw=true "Machine Learning and Data Science Blueprints for Finance")](05-ml-and-ds-blueprints-for-finance)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Coturnix_coturnix_1873.jpg)
+
+</p></details>
+
 ## ML Track
 
 ## Backlog
