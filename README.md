@@ -5,7 +5,7 @@
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Ptilocercus_lowii_2.jpg)
 
 ## [Python for Finance](02-python-for-finance)
-[![Python for Finance](02-python-for-finance/cover/1_solenodon_cubanus_320x232.jpg?raw=true "Python for Finance")](02-python-for-finance)
+[![Python for Finance](02-python-for-finance/cover/solenodon_cubanus_320.jpg?raw=true "Python for Finance")](02-python-for-finance)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Abhandlungen_der_K%C3%B6niglichen_Akademie_der_Wissenschaften_in_Berlin_(1863)_(16740609846).jpg)
 
 ## [Python for Algorithmic Trading](03-python-for-algorithmic-trading)
