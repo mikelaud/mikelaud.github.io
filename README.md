@@ -1,4 +1,4 @@
-# FinTech ML Notes
+# [FinTech ML Notes](https://mikelaud.github.io)
 
 <details><summary>1) Quantitative Trading</summary><p>
 
