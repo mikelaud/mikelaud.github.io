@@ -42,5 +42,26 @@
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Coturnix_coturnix_1873.jpg)
 
 </p></details>
+<details><summary>7) Advances in Financial Machine Learning</summary><p>
+
+## [Advances in Financial Machine Learning](07-advances-in-financial-ml)
+[![Advances in Financial Machine Learning](07-advances-in-financial-ml/cover/altair_320.jpg?raw=true "Advances in Financial Machine Learning")](07-advances-in-financial-ml)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Altair_8800_(RetroMadrid_2018)_b.jpg)
+
+</p></details>
+<details><summary>8) Machine Learning for Asset Managers</summary><p>
+
+## [Machine Learning for Asset Managers](08-ml-for-asset-managers)
+[![Machine Learning for Asset Managers](08-ml-for-asset-managers/cover/sombrero_320.jpg?raw=true "Machine Learning for Asset Managers")](08-ml-for-asset-managers)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:M104_ngc4594_sombrero_galaxy_hi-res.jpg)
+
+</p></details>
+<details><summary>9) Marcos Lopez de Prado</summary><p>
+
+## [Marcos Lopez de Prado](09-marcos-lopez-de-prado)
+[![Marcos Lopez de Prado](09-marcos-lopez-de-prado/cover/black_hole_320.jpg?raw=true "Marcos Lopez de Prado")](09-marcos-lopez-de-prado)
+[<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Black_Holes_-_Monsters_in_Space.jpg)
+
+</p></details>
 
 ## ML Track
