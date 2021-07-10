@@ -64,4 +64,10 @@
 
 </p></details>
 
+## ML Intro Track
+1. [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook-dp-B012271YB2/dp/B012271YB2/) _(Pedro Domingos)_
+2. [Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G/) _(Tariq Rashid)_
+3. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-ebook/dp/B07TWT9VN6/) _(David Foster)_
+4. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Kevin Ferguson, Max Pumperla)_
+
 ## ML Track
