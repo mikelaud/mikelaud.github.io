@@ -1,9 +1,6 @@
-# Python for Data Analysis
+# [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K) _(Wes McKinney)_
 [![Python for Data Analysis](cover/tupaia_tana_640.jpg?raw=true "Python for Data Analysis")](..)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Tupaia_tana_J_Smit.jpg)
-
-## Book
-- [Python for Data Analysis by Wes McKinney (O’Reilly)](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 ## Code
 - [https://github.com/wesm/pydata-book](http://github.com/wesm/pydata-book)
