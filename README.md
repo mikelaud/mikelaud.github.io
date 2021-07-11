@@ -64,14 +64,14 @@
 
 </p></details>
 
-## ML Intro Track
+## ML Intro
 1. [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook-dp-B012271YB2/dp/B012271YB2) _(Pedro Domingos)_
 2. [Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G) _(Tariq Rashid)_
 3. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-ebook/dp/B07XL53Y4C) _(Seth Weidman)_
 4. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-ebook/dp/B07TWT9VN6) _(David Foster)_
 5. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Kevin Ferguson, Max Pumperla)_
 
-## ML Track
+## ML Practice
 1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Muller, Sarah Guido)_
 2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87) _(Aurelien Geron)_
 3. [Python Machine Learning](https://www.amazon.com/gp/product/B07VBLX2W7) _(Sebastian Raschka)_
