@@ -81,7 +81,7 @@
 
 <details><summary>Jürgen Schmidhuber</summary><p>
 
-### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen)
+### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen) [_(LSTM inventor)_](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
 1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) [_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)
 2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ) [_(Глубокие нейросети с прямой связью)_](https://www.youtube.com/watch?v=ZJ-zT4-mIm8)
 3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY) [_(Долгая краткосрочная память)_](https://www.youtube.com/watch?v=D2yW1UK8uC8)
