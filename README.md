@@ -76,3 +76,16 @@
 2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87) _(Aurelien Geron)_
 3. [Python Machine Learning](https://www.amazon.com/gp/product/B07VBLX2W7) _(Sebastian Raschka)_
 4. [Machine Learning in Finance](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice-ebook/dp/B08C4WLYM2) _(Matthew F. Dixon, Igor Halperin, Paul Bilokon)_
+
+## ML Video Lectures
+
+<details><summary>Jürgen Schmidhuber</summary><p>
+
+### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen)
+1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA)
+2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ)
+3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY)
+4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ)
+5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI)
+
+</p></details>
