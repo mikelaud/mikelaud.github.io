@@ -58,8 +58,8 @@
 </p></details>
 <details><summary>9) Marcos Lopez de Prado</summary><p>
 
-## [Marcos Lopez de Prado](https://www.quantresearch.org)
-[![Marcos Lopez de Prado](09-marcos-lopez-de-prado/cover/black_hole_320.jpg?raw=true "Marcos Lopez de Prado")](09-marcos-lopez-de-prado)
+## [Marcos López de Prado](https://www.quantresearch.org)
+[![Marcos López de Prado](09-marcos-lopez-de-prado/cover/black_hole_320.jpg?raw=true "Marcos López de Prado")](09-marcos-lopez-de-prado)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Black_Holes_-_Monsters_in_Space.jpg)
 
 </p></details>
@@ -72,8 +72,8 @@
 5. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Kevin Ferguson, Max Pumperla)_
 
 ## ML Practice
-1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Muller, Sarah Guido)_
-2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87) _(Aurelien Geron)_
+1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller, Sarah Guido)_
+2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87) _(Aurélien Géron)_
 3. [Python Machine Learning](https://www.amazon.com/gp/product/B07VBLX2W7) _(Sebastian Raschka)_
 4. [Machine Learning in Finance](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice-ebook/dp/B08C4WLYM2) _(Matthew F. Dixon, Igor Halperin, Paul Bilokon)_
 
