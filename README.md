@@ -82,10 +82,11 @@
 <details><summary>Jürgen Schmidhuber</summary><p>
 
 ### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen)
-1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA)
-2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ)
-3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY)
-4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ)
-5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI)
+1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) [_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)
+2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ) [_(Глубокие нейросети с прямой связью)_](https://www.youtube.com/watch?v=ZJ-zT4-mIm8)
+3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY) [_(Долгая краткосрочная память)_](https://www.youtube.com/watch?v=D2yW1UK8uC8)
+4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ) [_(Машина Гёделя)_](https://www.youtube.com/watch?v=YNCxfFIIrB8)
+5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI) [_Скоростная вероятность_](https://www.youtube.com/watch?v=xwQmrZR8K58)
+6. [True Artificial Intelligence will change everything](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
 
 </p></details>
