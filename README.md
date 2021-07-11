@@ -90,7 +90,54 @@
 6. [True Artificial Intelligence will change everything](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
 
 </p></details>
-<details><summary>2) Alexey Redozubov</summary><p>
+<details><summary>2) Sebastian Raschka</summary><p>
+
+### [Sebastian Raschka](https://sebastianraschka.com/)
+#### Introduction to Machine Learning
+- Part I: Introduction
+  - L01: What is Machine Learning
+  - L02: Nearest Neighbor Methods
+- Part II: Computational Foundations
+  - L03: (Optional) Python Programming
+  - L04: Scientific Computing in Python
+  - L05: Machine Learning with Scikit-Learn
+- Part III: Tree-Based Methods
+  - L06: Decision Trees
+  - L07: Ensemble Methods
+- Part IV: Evaluation
+  - L08: Model Evaluation Part 1 – Basics: Underfitting & Overfitting
+  - L09: Model Evaluation Part 2 – Resampling Methods
+  - L10: Model Evaluation Part 3 – Cross Valdiation
+  - L11: Model Evaluation Part 4 – Statistical Tests and Algorithm Selection
+  - L12: Model Evaluation Part 5 – Evaluation Metrics
+#### Introduction to Deep Learning
+- Part 1: Introduction
+  - L01: Introduction to deep learning
+  - L02: The brief history of deep learning
+  - L03: Single-layer neural networks: The perceptron algorithm
+- Part 2: Mathematical and computational foundations
+  - L04: Linear algebra and calculus for deep learning
+  - L05: Parameter optimization with gradient descent
+  - L06: Automatic differentiation with PyTorch
+  - L07: Cluster and cloud computing resources
+- Part 3: Introduction to neural networks
+  - L08: Multinomial logistic regression / Softmax regression
+  - L09: Multilayer perceptrons and backpropration
+  - L10: Regularization to avoid overfitting
+  - L11: Input normalization and weight initialization
+  - L12: Learning rates and advanced optimization algorithms
+- Part 4: Deep learning for computer vision and language modeling
+  - L13: Introduction to convolutional neural networks
+  - L14: Convolutional neural networks architectures
+  - L15: Introduction to recurrent neural networks
+- Part 5: Deep generative models
+  - L16: Autoencoders
+  - L17: Variational autoencoders
+  - L18: Introduction to generative adversarial networks
+  - L19: Self-attention and transformer networks
+
+</p></details>
+<details><summary>3) Alexey Redozubov</summary><p>
 
 ### [Alexey Redozubov](https://www.youtube.com/user/aldrd)
 1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
