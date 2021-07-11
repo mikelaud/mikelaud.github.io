@@ -44,19 +44,19 @@
 </p></details>
 <details><summary>7) Advances in Financial Machine Learning</summary><p>
 
-## [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos Lopez de Prado)_
+## [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 [![Advances in Financial Machine Learning](07-advances-in-financial-ml/cover/altair_320.jpg?raw=true "Advances in Financial Machine Learning")](07-advances-in-financial-ml)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Altair_8800_(RetroMadrid_2018)_b.jpg)
 
 </p></details>
 <details><summary>8) Machine Learning for Asset Managers</summary><p>
 
-## [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R) _(Marcos Lopez de Prado)_
+## [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R) _(Marcos López de Prado)_
 [![Machine Learning for Asset Managers](08-ml-for-asset-managers/cover/sombrero_320.jpg?raw=true "Machine Learning for Asset Managers")](08-ml-for-asset-managers)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:M104_ngc4594_sombrero_galaxy_hi-res.jpg)
 
 </p></details>
-<details><summary>9) Marcos Lopez de Prado</summary><p>
+<details><summary>9) Marcos López de Prado</summary><p>
 
 ## [Marcos López de Prado](https://www.quantresearch.org)
 [![Marcos López de Prado](09-marcos-lopez-de-prado/cover/black_hole_320.jpg?raw=true "Marcos López de Prado")](09-marcos-lopez-de-prado)
