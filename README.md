@@ -79,7 +79,7 @@
 
 ## ML Video Lectures
 
-<details><summary>Jürgen Schmidhuber</summary><p>
+<details><summary>1) Jürgen Schmidhuber</summary><p>
 
 ### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen) [_(LSTM inventor)_](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
 1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) [_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)
@@ -88,5 +88,15 @@
 4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ) [_(Машина Гёделя)_](https://www.youtube.com/watch?v=YNCxfFIIrB8)
 5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI) [_(Скоростная вероятность)_](https://www.youtube.com/watch?v=xwQmrZR8K58)
 6. [True Artificial Intelligence will change everything](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
+
+</p></details>
+<details><summary>2) Alexey Redozubov</summary><p>
+
+### [Alexey Redozubov](https://www.youtube.com/user/aldrd)
+1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
+2. [Что такое сознание и какова его природа?](https://www.youtube.com/watch?v=FDYikQOKKKk)
+3. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
+4. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
+5. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
 
 </p></details>
