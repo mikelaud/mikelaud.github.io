@@ -95,8 +95,12 @@
 ### [Sebastian Raschka](https://sebastianraschka.com/)
 #### Introduction to Machine Learning
 - Part I: Introduction
-  - L01: What is Machine Learning
-  - L02: Nearest Neighbor Methods
+  <details><summary>L01: What is Machine Learning</summary><p>
+  xxx
+  </p></details>
+  <details><summary>L02: Nearest Neighbor Methods</summary><p>
+  xxx
+  </p></details>
 - Part II: Computational Foundations
   - L03: (Optional) Python Programming
   - L04: Scientific Computing in Python
