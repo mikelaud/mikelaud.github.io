@@ -96,7 +96,13 @@
 #### Introduction to Machine Learning
 - Part I: Introduction
   <details><summary>L01: What is Machine Learning</summary><p>
-    xxx
+    
+    1.1. [Course overview](https://www.youtube.com/watch?v=OgK8JFjkSto)
+    1.2. [What is Machine Learning](https://www.youtube.com/watch?v=z7RT6aAt_10)
+    1.3. [Categories of Machine Learning](https://www.youtube.com/watch?v=07Qum_mpEL0)
+    1.4. [Notation](https://www.youtube.com/watch?v=fBEEplblFlg)
+    1.5. [ML application](https://www.youtube.com/watch?v=3j87BZCqF2c)
+    1.6. [ML motivation](https://www.youtube.com/watch?v=WW0U3tFhzes)
   </p></details>
   <details><summary>L02: Nearest Neighbor Methods</summary><p>
     xxx
