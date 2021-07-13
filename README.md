@@ -96,24 +96,44 @@
 #### Introduction to Machine Learning
 - Part I: Introduction
   <details><summary>L01: What is Machine Learning</summary><p>
-  xxx
+    xxx
   </p></details>
   <details><summary>L02: Nearest Neighbor Methods</summary><p>
-  xxx
+    xxx
   </p></details>
 - Part II: Computational Foundations
-  - L03: (Optional) Python Programming
-  - L04: Scientific Computing in Python
-  - L05: Machine Learning with Scikit-Learn
+  <details><summary>L03: (Optional) Python Programming</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L04: Scientific Computing in Python</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L05: Machine Learning with Scikit-Learn</summary><p>
+    xxx
+  </p></details>
 - Part III: Tree-Based Methods
-  - L06: Decision Trees
-  - L07: Ensemble Methods
+  <details><summary>L06: Decision Trees</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L07: Ensemble Methods</summary><p>
+    xxx
+  </p></details>
 - Part IV: Evaluation
-  - L08: Model Evaluation Part 1 – Basics: Underfitting & Overfitting
-  - L09: Model Evaluation Part 2 – Resampling Methods
-  - L10: Model Evaluation Part 3 – Cross Valdiation
-  - L11: Model Evaluation Part 4 – Statistical Tests and Algorithm Selection
-  - L12: Model Evaluation Part 5 – Evaluation Metrics
+  <details><summary>L08: Model Evaluation Part 1 – Basics: Underfitting & Overfitting</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L09: Model Evaluation Part 2 – Resampling Methods</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L10: Model Evaluation Part 3 – Cross Valdiation</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L11: Model Evaluation Part 4 – Statistical Tests and Algorithm Selection</summary><p>
+    xxx
+  </p></details>
+  <details><summary>L12: Model Evaluation Part 5 – Evaluation Metrics</summary><p>
+    xxx
+  </p></details>
 #### Introduction to Deep Learning
 - Part 1: Introduction
   - L01: Introduction to deep learning
