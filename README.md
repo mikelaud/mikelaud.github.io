@@ -105,7 +105,13 @@
     - 1.6 [ML motivation](https://www.youtube.com/watch?v=WW0U3tFhzes)
   </p></details>
   <details><summary>L02: Nearest Neighbor Methods</summary><p>
-    xxx
+    
+    - 2.1 [Introduction to NN](https://www.youtube.com/watch?v=-8ok7PuQEAk)
+    - 2.2 [Nearest neighbor decision boundary](https://www.youtube.com/watch?v=zJH0qmrU-rA)
+    - 2.3 [K-nearest neighbors](https://www.youtube.com/watch?v=9dawNcG_ue8)
+    - 2.4 [Big O of K-nearest neighbors](https://www.youtube.com/watch?v=563R7CUxNzA)
+    - 2.5 [Improving k-nearest neighbors](https://www.youtube.com/watch?v=nPFvo6T_O1w)
+    - 2.6 [K-nearest neighbors in Python](https://www.youtube.com/watch?v=PtjeiDpHss8)
   </p></details>
 - Part II: Computational Foundations
   <details><summary>L03: (Optional) Python Programming</summary><p>
