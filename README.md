@@ -121,7 +121,17 @@
     - 3.3 [Running Python code](https://www.youtube.com/watch?v=CiEYCQ4pFJs)
   </p></details>
   <details><summary>L04: Scientific Computing in Python</summary><p>
-    xxx
+    
+    - 4.1 [Intro to NumPy](https://www.youtube.com/watch?v=I8vRP4GVs_E)
+    - 4.2 [NumPy Array Construction and Indexing](https://www.youtube.com/watch?v=X9Ioj6BUT38)
+    - 4.3 [NumPy Array Math and Universal Functions](https://www.youtube.com/watch?v=VuaQKtygva4)
+    - 4.4 [NumPy Broadcasting](https://www.youtube.com/watch?v=FQ-IhRHZ_fA)
+    - 4.5 [NumPy Advanced Indexing – Memory Views and Copies](https://www.youtube.com/watch?v=2tP_Hn5uw9I)
+    - 4.6 [NumPy Random Number Generators](https://www.youtube.com/watch?v=gVlLnQU9pPc)
+    - 4.7 [Reshaping NumPy Arrays](https://www.youtube.com/watch?v=4fqPkg1jYVs)
+    - 4.8 [NumPy Comparison Operators and Masks](https://www.youtube.com/watch?v=ff0R9rR-yDI)
+    - 4.9 [NumPy Linear Algebra Basics](https://www.youtube.com/watch?v=JgXLoBvRALA)
+    - 4.10 [Matplotlib](https://www.youtube.com/watch?v=VmU8XBht1-U)
   </p></details>
   <details><summary>L05: Machine Learning with Scikit-Learn</summary><p>
     xxx
