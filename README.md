@@ -115,7 +115,10 @@
   </p></details>
 - Part II: Computational Foundations
   <details><summary>L03: (Optional) Python Programming</summary><p>
-    xxx
+    
+    - 3.1 [Python overview](https://www.youtube.com/watch?v=MIvB1ZUDA-o)
+    - 3.2 [Python setup](https://www.youtube.com/watch?v=DCvIUzW4154)
+    - 3.3 [Running Python code](https://www.youtube.com/watch?v=CiEYCQ4pFJs)
   </p></details>
   <details><summary>L04: Scientific Computing in Python</summary><p>
     xxx
