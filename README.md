@@ -134,7 +134,13 @@
     - 4.10 [Matplotlib](https://www.youtube.com/watch?v=VmU8XBht1-U)
   </p></details>
   <details><summary>L05: Machine Learning with Scikit-Learn</summary><p>
-    xxx
+    
+    - 5.1 [Reading a Dataset from a Tabular Text File](https://www.youtube.com/watch?v=Vj3OnmufdjA)
+    - 5.2 [Basic data handling](https://www.youtube.com/watch?v=a1JrNuLsmh4)
+    - 5.3 [Object Oriented Programming & Python Classes](https://www.youtube.com/watch?v=Zrb-xhqPZF4)
+    - 5.4 [Intro to Scikit-learn](https://www.youtube.com/watch?v=dpoN3eJgROM)
+    - 5.5 [Scikit-learn Transformer API](https://www.youtube.com/watch?v=gQvVlkEn1hk)
+    - 5.6 [Scikit-learn Pipelines](https://www.youtube.com/watch?v=MuPmbW0ln6g)
   </p></details>
 - Part III: Tree-Based Methods
   <details><summary>L06: Decision Trees</summary><p>
