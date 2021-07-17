@@ -185,14 +185,14 @@
   </p></details>
   <details><summary>L10: Model Evaluation Part 3 – Cross Valdiation</summary><p>
     
-    - 10.1 []()
-    - 10.2 []()
-    - 10.3 []()
-    - 10.4 []()
-    - 10.5 []()
-    - 10.6 []()
-    - 10.7 []()
-    - 10.8 []()
+    - 10.1 [Cross-validation lecture overview](https://www.youtube.com/watch?v=bcpWY251pkM)
+    - 10.2 [Hyperparameters](https://www.youtube.com/watch?v=4zuIPwnQVdM)
+    - 10.3 [k-fold CV for model evaluation](https://www.youtube.com/watch?v=ivVeqv4oShk)
+    - 10.4 [k-fold CV for model eval. code examples](https://www.youtube.com/watch?v=GkqJLZKGFWU)
+    - 10.5 [k-fold CV for model selection](https://www.youtube.com/watch?v=0fueKIB76Rk)
+    - 10.6 [k-fold CV for model evaluation code examples](https://www.youtube.com/watch?v=EqQ-Sb15CT8)
+    - 10.7 [k-fold CV 1-standard error method](https://www.youtube.com/watch?v=eODaLDEPtxY)
+    - 10.8 [k-fold CV 1-standard error method code example](https://www.youtube.com/watch?v=bs1rvv4B-ck)
   </p></details>
   <details><summary>L11: Model Evaluation Part 4 – Statistical Tests and Algorithm Selection</summary><p>
     
