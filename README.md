@@ -294,10 +294,9 @@
 ### Practice
   - xxx
 ### Bonus Ideas
-  - xxx
-#### West Ideas
+#### Bonus Ideas: West
   - xxx 
-#### East Ideas
+#### Bonus Ideas: East
   - xxx
-#### DSP Ideas
+#### Bonus Ideas: DSP
   - xxx
