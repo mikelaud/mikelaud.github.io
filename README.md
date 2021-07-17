@@ -287,3 +287,17 @@
 5. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
 
 </p></details>
+
+## ML Feature Ideas: Classic Trading Techniques
+### Intro
+  - xxx
+### Practice
+  - xxx
+### Bonus Ideas
+  - xxx
+#### West Ideas
+  - xxx 
+#### East Ideas
+  - xxx
+#### DSP Ideas
+  - xxx
