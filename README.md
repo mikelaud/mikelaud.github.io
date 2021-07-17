@@ -165,19 +165,52 @@
   </p></details>
 - Part IV: Evaluation
   <details><summary>L08: Model Evaluation Part 1 – Basics: Underfitting & Overfitting</summary><p>
-    xxx
+    
+    - 8.1 []()
+    - 8.2 []()
+    - 8.3 []()
+    - 8.4 []()
+    - 8.5 []()
+    - 8.6 []()
   </p></details>
   <details><summary>L09: Model Evaluation Part 2 – Resampling Methods</summary><p>
-    xxx
+    
+    - 9.1 []()
+    - 9.2 []()
+    - 9.3 []()
+    - 9.4 []()
+    - 9.5 []()
+    - 9.6 []()
+    - 9.7 []()
   </p></details>
   <details><summary>L10: Model Evaluation Part 3 – Cross Valdiation</summary><p>
-    xxx
+    
+    - 10.1 []()
+    - 10.2 []()
+    - 10.3 []()
+    - 10.4 []()
+    - 10.5 []()
+    - 10.6 []()
+    - 10.7 []()
+    - 10.8 []()
   </p></details>
   <details><summary>L11: Model Evaluation Part 4 – Statistical Tests and Algorithm Selection</summary><p>
-    xxx
+    
+    - 11.1 [Lecture Overview](https://www.youtube.com/watch?v=oTSVEWC1-E0)
+    - 11.2 [McNemar’s Test for Pairwise Classifier Comparison](https://www.youtube.com/watch?v=nzznkiW8ulk)
+    - 11.3 [Multiple Pairwise Comparisons](https://www.youtube.com/watch?v=cMILHEJ6JN4)
+    - 11.4 [Statistical Tests for Algorithm Comparison](https://www.youtube.com/watch?v=hh3CR64otvE)
+    - 11.5 [Nested CV for Algorithm Selection](https://www.youtube.com/watch?v=XXFLFWHP9Nc)
+    - 11.6 [Nested CV for Algorithm Selection Code Example](https://www.youtube.com/watch?v=nuIqwnsrnH0)
   </p></details>
   <details><summary>L12: Model Evaluation Part 5 – Evaluation Metrics</summary><p>
-    xxx
+    
+    - 12.0 [Lecture Overview](https://www.youtube.com/watch?v=pGc0Ow0RpOM)
+    - 12.1 [Lecture Overview](https://www.youtube.com/watch?v=07dtryhNGms)
+    - 12.2 [Precision, Recall, and F1 Score](https://www.youtube.com/watch?v=yEw9oDdJkT0)
+    - 12.3 [Balanced Accuracy](https://www.youtube.com/watch?v=GdSEkiArM3k)
+    - 12.4 [Receiver Operating Characteristic](https://www.youtube.com/watch?v=GdSEkiArM3k)
+    - 12.5 [Extending Binary Metric to Multiclass Problems](https://www.youtube.com/watch?v=K8-GOT_RtuA)
   </p></details>
 #### Introduction to Deep Learning
 - Part 1: Introduction
