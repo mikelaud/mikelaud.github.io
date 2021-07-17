@@ -166,12 +166,12 @@
 - Part IV: Evaluation
   <details><summary>L08: Model Evaluation Part 1 – Basics: Underfitting & Overfitting</summary><p>
     
-    - 8.1 []()
-    - 8.2 []()
-    - 8.3 []()
-    - 8.4 []()
-    - 8.5 []()
-    - 8.6 []()
+    - 8.1 [Intro to overfitting and underfitting](https://www.youtube.com/watch?v=v-7w6hWQ3FM)
+    - 8.2 [Intuition behind bias and variance](https://www.youtube.com/watch?v=DCk-p6MsiWA)
+    - 8.3 [Bias-Variance Decomposition of the Squared Error](https://www.youtube.com/watch?v=r25dWiyDPQA)
+    - 8.4 [Bias and Variance vs Overfitting and Underfitting](https://www.youtube.com/watch?v=R13lpnXVtXo)
+    - 8.5 [Bias-Variance Decomposition of the 0/1 Loss](https://www.youtube.com/watch?v=IvHZ4-yd5is)
+    - 8.6 [Different Uses of the Term "Bias"](https://www.youtube.com/watch?v=AzKP6gQVoTI)
   </p></details>
   <details><summary>L09: Model Evaluation Part 2 – Resampling Methods</summary><p>
     
