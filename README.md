@@ -290,7 +290,9 @@
 
 ## ML Feature Ideas: Classic Trading Techniques
 ### Intro
-  - xxx
+  - [The New Trading for a Living](https://www.amazon.com/gp/product/B00MFPZAWG) _(Alexander Elder)_
+  - [Come Into My Trading Room](https://www.amazon.com/gp/product/B000VIBV3Q) _(Alexander Elder)_
+  - [The New Sell and Sell Short](https://www.amazon.com/gp/product/B004PGMI14) _(Alexander Elder)_
 ### Practice
   - [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook-dp-B001KAM6U6/dp/B001KAM6U6) _(Robert C. Miner)_
   - [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
