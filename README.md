@@ -289,14 +289,25 @@
 </p></details>
 
 ## ML Feature Ideas: Classic Trading Techniques
-### Intro
+
+<details><summary>1) Trading Intro</summary><p>
+
+### 1) Trading Intro
   - [The New Trading for a Living](https://www.amazon.com/gp/product/B00MFPZAWG) _(Alexander Elder)_
   - [Come Into My Trading Room](https://www.amazon.com/gp/product/B000VIBV3Q) _(Alexander Elder)_
   - [The New Sell and Sell Short](https://www.amazon.com/gp/product/B004PGMI14) _(Alexander Elder)_
-### Practice
+
+</p></details>
+<details><summary>2) Trading Practice</summary><p>
+  
+### 2) Trading Practice
   - [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook-dp-B001KAM6U6/dp/B001KAM6U6) _(Robert C. Miner)_
   - [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
-### Bonus Ideas
+
+</p></details>
+<details><summary>3) Bonus Ideas</summary><p>
+
+### 3) Bonus Ideas
 #### Bonus Ideas: West
   - [The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
   - [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
@@ -309,3 +320,4 @@
   - [Cybernetic Analysis for Stocks and Futures](https://www.amazon.com/gp/product/B0096CCRG8) _(John F. Ehlers)_
   - [Cycle Analytics for Traders](https://www.amazon.com/gp/product/B00H9D2DE2) _(John F. Ehlers)_
  
+</p></details>
