@@ -301,4 +301,7 @@
 #### Bonus Ideas: East
   - xxx
 #### Bonus Ideas: DSP
-  - xxx
+  - [Rocket Science for Traders](https://www.amazon.com/gp/product/B000VXHCMU) _(John F. Ehlers)_
+  - [Cybernetic Analysis for Stocks and Futures](https://www.amazon.com/gp/product/B0096CCRG8) _(John F. Ehlers)_
+  - [Cycle Analytics for Traders](https://www.amazon.com/gp/product/B00H9D2DE2) _(John F. Ehlers)_
+ 
