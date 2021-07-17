@@ -144,10 +144,24 @@
   </p></details>
 - Part III: Tree-Based Methods
   <details><summary>L06: Decision Trees</summary><p>
-    xxx
+    
+    - 6.1 [Intro to Decision Trees](https://www.youtube.com/watch?v=3vZo0ApLz0A)
+    - 6.2 [Recursive algorithms & Big-O](https://www.youtube.com/watch?v=hA43n9w0ImQ)
+    - 6.3 [Types of decision trees](https://www.youtube.com/watch?v=z2n8kHXkwtM)
+    - 6.4 [Splitting criteria](https://www.youtube.com/watch?v=a-SIt_X0_oY)
+    - 6.5 [Gini & Entropy versus misclassification error](https://www.youtube.com/watch?v=cLWZVinpAu0)
+    - 6.6 [Improvements & dealing with overfitting](https://www.youtube.com/watch?v=Joxm04J1Cqg)
+    - 6.7 [Code Example](https://www.youtube.com/watch?v=z9FfOo9qDh4)
   </p></details>
   <details><summary>L07: Ensemble Methods</summary><p>
-    xxx
+    
+    - 7.1 [Intro to ensemble methods](https://www.youtube.com/watch?v=wVRidHbwLB0)
+    - 7.2 [Majority Voting](https://www.youtube.com/watch?v=EFk21H6Q1ew)
+    - 7.3 [Bagging](https://www.youtube.com/watch?v=pWSULhaZlQM)
+    - 7.4 [Boosting and AdaBoost](https://www.youtube.com/watch?v=LxcGKNV5-p4)
+    - 7.5 [Gradient Boosting](https://www.youtube.com/watch?v=zblsrxc7XpM)
+    - 7.6 [Random Forests](https://www.youtube.com/watch?v=r5C3TUIw6Zk)
+    - 7.7 [Stacking](https://www.youtube.com/watch?v=8T2emza6g80)
   </p></details>
 - Part IV: Evaluation
   <details><summary>L08: Model Evaluation Part 1 – Basics: Underfitting & Overfitting</summary><p>
