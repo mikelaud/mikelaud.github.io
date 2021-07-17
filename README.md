@@ -299,8 +299,8 @@
   - [The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
   - [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
 #### Bonus Ideas: East
-  - [Candlestick Charting Explained](https://www.amazon.com/gp/product/B003WJR5PE) _(Gregory L. Morris)_
   - [Japanese Candlestick Charting Techniques](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Contemporary-ebook-dp-B00CS74GBM/dp/B00CS74GBM) _(Steve Nison)_
+  - [Candlestick Charting Explained](https://www.amazon.com/gp/product/B003WJR5PE) _(Gregory L. Morris)_
   - [Beyond Candlesticks](https://www.amazon.com/gp/product/B001GAOSGU) _(Steve Nison)_
 #### Bonus Ideas: DSP
   - [Rocket Science for Traders](https://www.amazon.com/gp/product/B000VXHCMU) _(John F. Ehlers)_
