@@ -296,7 +296,8 @@
   - [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
 ### Bonus Ideas
 #### Bonus Ideas: West
-  - xxx 
+  - [The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
+  - [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
 #### Bonus Ideas: East
   - xxx
 #### Bonus Ideas: DSP
