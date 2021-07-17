@@ -82,11 +82,11 @@
 <details><summary>1) Jürgen Schmidhuber</summary><p>
 
 ### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen) [_(LSTM inventor)_](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
-1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) [_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)
-2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ) [_(Глубокие нейросети с прямой связью)_](https://www.youtube.com/watch?v=ZJ-zT4-mIm8)
-3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY) [_(Долгая краткосрочная память)_](https://www.youtube.com/watch?v=D2yW1UK8uC8)
-4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ) [_(Машина Гёделя)_](https://www.youtube.com/watch?v=YNCxfFIIrB8)
-5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI) [_(Скоростная вероятность)_](https://www.youtube.com/watch?v=xwQmrZR8K58)
+1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) <sub><sup>[_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)</sup></sub>
+2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ) <sub><sup>[_(Глубокие нейросети с прямой связью)_](https://www.youtube.com/watch?v=ZJ-zT4-mIm8)</sup></sub>
+3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY) <sub><sup>[_(Долгая краткосрочная память)_](https://www.youtube.com/watch?v=D2yW1UK8uC8)</sup></sub>
+4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ) <sub><sup>[_(Машина Гёделя)_](https://www.youtube.com/watch?v=YNCxfFIIrB8)</sup></sub>
+5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI) <sub><sup>[_(Скоростная вероятность)_](https://www.youtube.com/watch?v=xwQmrZR8K58)</sup></sub>
 6. [True Artificial Intelligence will change everything](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
 
 </p></details>
