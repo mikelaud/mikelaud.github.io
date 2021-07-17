@@ -292,7 +292,8 @@
 ### Intro
   - xxx
 ### Practice
-  - xxx
+  - [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook-dp-B001KAM6U6/dp/B001KAM6U6) _(Robert C. Miner)_
+  - [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
 ### Bonus Ideas
 #### Bonus Ideas: West
   - xxx 
