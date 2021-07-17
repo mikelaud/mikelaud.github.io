@@ -175,13 +175,13 @@
   </p></details>
   <details><summary>L09: Model Evaluation Part 2 – Resampling Methods</summary><p>
     
-    - 9.1 []()
-    - 9.2 []()
-    - 9.3 []()
-    - 9.4 []()
-    - 9.5 []()
-    - 9.6 []()
-    - 9.7 []()
+    - 9.1 [Introduction](https://www.youtube.com/watch?v=77V4VJJDPWw)
+    - 9.2 [Holdout Evaluation](https://www.youtube.com/watch?v=miq_7lZgguE)
+    - 9.3 [Holdout Model Selection](https://www.youtube.com/watch?v=KKErl_UtF2M)
+    - 9.4 [ML Confidence Intervals via Normal Approximation](https://www.youtube.com/watch?v=jsvBxkvTyQg)
+    - 9.5 [Resampling and Repeated Holdout](https://www.youtube.com/watch?v=1whfIOoPTlk)
+    - 9.6 [Bootstrap Confidence Intervals](https://www.youtube.com/watch?v=jTva3x3Rd0s)
+    - 9.7 [The .632 and .632+ Bootstrap methods](https://www.youtube.com/watch?v=wb4_dEmhhgU)
   </p></details>
   <details><summary>L10: Model Evaluation Part 3 – Cross Valdiation</summary><p>
     
