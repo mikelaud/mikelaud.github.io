@@ -288,7 +288,7 @@
 
 </p></details>
 
-## ML Feature Ideas: Classic Trading Techniques
+## ML Feature Ideas: Technical Analysis (Trading)
 
 <details><summary>1) Trading Intro</summary><p>
 
