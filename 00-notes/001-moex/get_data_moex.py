@@ -120,9 +120,9 @@ def get_data(symbol):
         'start'   : 500
     }
     resp = requests.get(url=url, params=params)
-    data = resp.json()
+    #data = resp.json()
     #print(json.dumps(data, indent=4))
-    print(data)
+    print(resp.text)
 
 
 def main():
