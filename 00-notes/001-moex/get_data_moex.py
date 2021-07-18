@@ -1,4 +1,5 @@
-from enum import Enum, IntEnum, auto, unique
+from enum import Enum, IntEnum, unique
+import json
 import requests
 
 
@@ -23,7 +24,6 @@ class DataInterval(Enum):
 
 @unique
 class Symbol(IntEnum):
-    # SymbolTop
     AFLT  = 1,
     ALRS  = 2,
     CHMF  = 3,
@@ -49,7 +49,6 @@ class Symbol(IntEnum):
     TATNP = 23,
     VTBR  = 24,
     YNDX  = 25
-    # Others
 
 
 @unique
@@ -122,7 +121,8 @@ def get_data(symbol):
     }
     resp = requests.get(url=url, params=params)
     data = resp.json()
-    print('{data}'.format(data=data))
+    #print(json.dumps(data, indent=4))
+    print(data)
 
 
 def main():
