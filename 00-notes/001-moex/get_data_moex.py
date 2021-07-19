@@ -152,7 +152,12 @@ class SymbolNight(IntEnum):
 
 def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
     url_template = 'https://iss.moex.com/iss/engines/{engine}/markets/{market}/boards/{board}/securities/{symbol}/candles.{data_format}'
-    return url_template.format(symbol=symbol.name, data_format=data_format.value, engine=engine.value, market=market.value, board=board.name)
+    return url_template.format(
+        symbol=symbol.name,
+        data_format=data_format.value,
+        engine=engine.value,
+        market=market.value,
+        board=board.name)
 
 
 def get_data(symbol):
