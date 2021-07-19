@@ -1,7 +1,10 @@
 """
 MOEX data downloader based on:
     Programming interface to ISS
-    https://www.moex.com/a2193
+    - https://www.moex.com/a2193
+    - https://fs.moex.com/files/6523
+    - https://fs.moex.com/files/6524
+    - http://iss.moex.com/iss/reference/
 """
 
 from enum import Enum, IntEnum, unique
