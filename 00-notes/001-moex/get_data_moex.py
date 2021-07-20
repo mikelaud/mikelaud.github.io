@@ -106,44 +106,6 @@ class Symbol(IntEnum):
 
 
 @unique
-class SymbolBlue(IntEnum):
-    """ MOEXBC [June 18, 2021 ... April 24, 2009]
-    https://www.moex.com/en/index/MOEXBC
-    Excluded by manual: -FIVE
-    Included by manual: +TATNP
-    """
-    AFKS  = Symbol.AFKS
-    ALRS  = Symbol.ALRS
-    CHMF  = Symbol.CHMF
-    FEES  = Symbol.FEES
-    GAZP  = Symbol.GAZP
-    GMKN  = Symbol.GMKN
-    HYDR  = Symbol.HYDR
-    IRAO  = Symbol.IRAO
-    LKOH  = Symbol.LKOH
-    MAIL  = Symbol.MAIL
-    MGNT  = Symbol.MGNT
-    MOEX  = Symbol.MOEX
-    MTSS  = Symbol.MTSS
-    NLMK  = Symbol.NLMK
-    NVTK  = Symbol.NVTK
-    PLZL  = Symbol.PLZL
-    POLY  = Symbol.POLY
-    ROSN  = Symbol.ROSN
-    RTKM  = Symbol.RTKM
-    SBER  = Symbol.SBER
-    SBERP = Symbol.SBERP
-    SNGS  = Symbol.SNGS
-    SNGSP = Symbol.SNGSP
-    TATN  = Symbol.TATN
-    TATNP = Symbol.TATNP
-    TRNFP = Symbol.TRNFP
-    URKA  = Symbol.URKA
-    VTBR  = Symbol.VTBR
-    YNDX  = Symbol.YNDX
-
-
-@unique
 class SymbolNight(IntEnum):
     """ On June 22, 2020, the following shares are allowed to trade at the evening trading session:
     https://www.moex.com/n28495
@@ -176,7 +138,87 @@ class SymbolNight(IntEnum):
     YNDX  = Symbol.YNDX
 
 
+@unique
+class SymbolBig(IntEnum):
+    """
+    Symbols (from SymbolBlue) with history candles starting from 2011.
+    """
+    AFLT  = Symbol.AFLT
+    HYDR  = Symbol.HYDR
+    IRAO  = Symbol.IRAO
+    LKOH  = Symbol.LKOH
+    MGNT  = Symbol.MGNT
+    MTSS  = Symbol.MTSS
+    NVTK  = Symbol.NVTK
+    RTKM  = Symbol.RTKM
+    SBER  = Symbol.SBER
+    SBERP = Symbol.SBERP
+    TATN  = Symbol.TATN
+    TATNP = Symbol.TATNP
+    URKA  = Symbol.URKA
+
+
+@unique
+class SymbolSmall(IntEnum):
+    """
+    Symbols (from SymbolMoex minus SymbolBlue) with history candles starting from 2011.
+    """
+    pass
+
+
+@unique
+class SymbolBlue(IntEnum):
+    """ MOEXBC [June 18, 2021 ... April 24, 2009]
+    https://www.moex.com/en/index/MOEXBC
+    Excluded by manual: -FIVE
+    Included by manual (from SymbolNight): +AFLT, +TATNP
+    """
+    AFKS  = Symbol.AFKS
+    AFLT  = Symbol.AFLT
+    ALRS  = Symbol.ALRS
+    CHMF  = Symbol.CHMF
+    FEES  = Symbol.FEES
+    GAZP  = Symbol.GAZP
+    GMKN  = Symbol.GMKN
+    HYDR  = Symbol.HYDR
+    IRAO  = Symbol.IRAO
+    LKOH  = Symbol.LKOH
+    MAIL  = Symbol.MAIL
+    MGNT  = Symbol.MGNT
+    MOEX  = Symbol.MOEX
+    MTSS  = Symbol.MTSS
+    NLMK  = Symbol.NLMK
+    NVTK  = Symbol.NVTK
+    PLZL  = Symbol.PLZL
+    POLY  = Symbol.POLY
+    ROSN  = Symbol.ROSN
+    RTKM  = Symbol.RTKM
+    SBER  = Symbol.SBER
+    SBERP = Symbol.SBERP
+    SNGS  = Symbol.SNGS
+    SNGSP = Symbol.SNGSP
+    TATN  = Symbol.TATN
+    TATNP = Symbol.TATNP
+    TRNFP = Symbol.TRNFP
+    URKA  = Symbol.URKA
+    VTBR  = Symbol.VTBR
+    YNDX  = Symbol.YNDX
+
+
+@unique
+class SymbolMoex(IntEnum):
+    """ IMOEX [June 18, 2021 ... December 18, 2012]
+    https://www.moex.com/en/index/IMOEX
+    """
+    pass
+
+
 def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
+    """ Example:
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.xml
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.json
+    """
     url_template = 'https://iss.moex.com/iss/engines/{engine}/markets/{market}/boards/{board}/securities/{symbol}/candles.{data_format}'
     return url_template.format(
         symbol=symbol.name,
@@ -187,6 +229,11 @@ def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Mar
 
 
 def get_data(symbol):
+    """ Example:
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles?from=1992-01-01&till=2021-12-31&interval=1&start=0
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.xml?from=1992-01-01&till=2021-12-31&interval=1&start=0
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.json?from=1992-01-01&till=2021-12-31&interval=1&start=0
+    """
     url = get_url(symbol)
     print('URL: {url}'.format(url=url))
     params = {
@@ -203,7 +250,7 @@ def get_data(symbol):
 
 def main():
     print('Get data from MOEX...')
-    get_data(SymbolBlue.SBER)
+    get_data(SymbolBig.SBER)
     print('Done.')
 
 
