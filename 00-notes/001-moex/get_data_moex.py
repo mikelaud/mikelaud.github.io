@@ -155,7 +155,6 @@ class SymbolBig(IntEnum):
     SBERP = Symbol.SBERP
     TATN  = Symbol.TATN
     TATNP = Symbol.TATNP
-    URKA  = Symbol.URKA
 
 
 @unique
@@ -170,7 +169,7 @@ class SymbolSmall(IntEnum):
 class SymbolBlue(IntEnum):
     """ MOEXBC [June 18, 2021 ... April 24, 2009]
     https://www.moex.com/en/index/MOEXBC
-    Excluded by manual: -FIVE
+    Excluded by manual: -FIVE, -URKA
     Included by manual (from SymbolNight): +AFLT, +TATNP
     """
     AFKS  = Symbol.AFKS
@@ -200,7 +199,6 @@ class SymbolBlue(IntEnum):
     TATN  = Symbol.TATN
     TATNP = Symbol.TATNP
     TRNFP = Symbol.TRNFP
-    URKA  = Symbol.URKA
     VTBR  = Symbol.VTBR
     YNDX  = Symbol.YNDX
 
