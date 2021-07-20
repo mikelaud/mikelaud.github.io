@@ -2,9 +2,9 @@
 MOEX data downloader based on:
     Programming interface to ISS
     - https://www.moex.com/a2193
+    - http://iss.moex.com/iss/reference/
     - https://fs.moex.com/files/6523
     - https://fs.moex.com/files/6524
-    - http://iss.moex.com/iss/reference/
 """
 
 from enum import Enum, IntEnum, unique
@@ -28,7 +28,7 @@ class DataInterval(Enum):
     D1   = '24' # 1 day
     W1   = '7'  # 1 week
     MON1 = '31' # 1 month
-    MON3 = '4'   # 3 months
+    MON3 = '4'  # 3 months
 
 
 @unique
@@ -72,52 +72,75 @@ class Symbol(IntEnum):
     https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities.xml
     https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities.json
     """
-    AFLT  = 1
-    ALRS  = 2
-    CHMF  = 3
-    FEES  = 4
-    GAZP  = 5
-    GMKN  = 6
-    HYDR  = 7
-    IRAO  = 8
-    LKOH  = 9
-    MGNT  = 10
-    MOEX  = 11
-    MTSS  = 12
-    NLMK  = 13
-    NVTK  = 14
-    PLZL  = 15
-    POLY  = 16
-    ROSN  = 17
-    SBER  = 18
-    SBERP = 19
-    SNGS  = 20
-    SNGSP = 21
-    TATN  = 22
-    TATNP = 23
-    VTBR  = 24
-    YNDX  = 25
+    AFKS  = 1
+    AFLT  = 2
+    ALRS  = 3
+    CHMF  = 4
+    FEES  = 5
+    FIVE  = 6
+    GAZP  = 7
+    GMKN  = 8
+    HYDR  = 9
+    IRAO  = 10
+    LKOH  = 11
+    MAIL  = 12
+    MGNT  = 13
+    MOEX  = 14
+    MTSS  = 15
+    NLMK  = 16
+    NVTK  = 17
+    PLZL  = 18
+    POLY  = 19
+    ROSN  = 20
+    RTKM  = 21
+    SBER  = 22
+    SBERP = 23
+    SNGS  = 24
+    SNGSP = 25
+    TATN  = 26
+    TATNP = 27
+    TRNFP = 28
+    URKA  = 29
+    VTBR  = 30
+    YNDX  = 31
 
 
 @unique
 class SymbolBlue(IntEnum):
-    """ MOEXBC June 18, 2021 (-FIVE)
+    """ MOEXBC [June 18, 2021 ... April 24, 2009]
     https://www.moex.com/en/index/MOEXBC
+    Excluded by manual: -FIVE
+    Included by manual: +TATNP
     """
+    AFKS  = Symbol.AFKS
+    ALRS  = Symbol.ALRS
+    CHMF  = Symbol.CHMF
+    FEES  = Symbol.FEES
     GAZP  = Symbol.GAZP
     GMKN  = Symbol.GMKN
+    HYDR  = Symbol.HYDR
+    IRAO  = Symbol.IRAO
     LKOH  = Symbol.LKOH
+    MAIL  = Symbol.MAIL
     MGNT  = Symbol.MGNT
+    MOEX  = Symbol.MOEX
     MTSS  = Symbol.MTSS
     NLMK  = Symbol.NLMK
     NVTK  = Symbol.NVTK
     PLZL  = Symbol.PLZL
     POLY  = Symbol.POLY
     ROSN  = Symbol.ROSN
+    RTKM  = Symbol.RTKM
     SBER  = Symbol.SBER
+    SBERP = Symbol.SBERP
     SNGS  = Symbol.SNGS
+    SNGSP = Symbol.SNGSP
     TATN  = Symbol.TATN
-    YNDX  = Symbol.YNDX 
+    TATNP = Symbol.TATNP
+    TRNFP = Symbol.TRNFP
+    URKA  = Symbol.URKA
+    VTBR  = Symbol.VTBR
+    YNDX  = Symbol.YNDX
 
 
 @unique
