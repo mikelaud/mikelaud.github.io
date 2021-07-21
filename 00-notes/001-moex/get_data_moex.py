@@ -215,6 +215,31 @@ class SymbolSmall(IntEnum):
 
 
 @unique
+class SymbolDelta(IntEnum):
+    """
+    Symbols: SymbolBlue minus SymbolBig minus SymbolSmall
+    """
+    AFKS  = Symbol.AFKS
+    ALRS  = Symbol.ALRS
+    CHMF  = Symbol.CHMF
+    FEES  = Symbol.FEES
+    FIVE  = Symbol.FIVE
+    GAZP  = Symbol.GAZP
+    GMKN  = Symbol.GMKN
+    MAIL  = Symbol.MAIL
+    MOEX  = Symbol.MOEX
+    NLMK  = Symbol.NLMK
+    PLZL  = Symbol.PLZL
+    POLY  = Symbol.POLY
+    ROSN  = Symbol.ROSN
+    SNGS  = Symbol.SNGS
+    SNGSP = Symbol.SNGSP
+    TRNFP = Symbol.TRNFP
+    VTBR  = Symbol.VTBR
+    YNDX  = Symbol.YNDX
+
+
+@unique
 class SymbolBlue(IntEnum):
     """ MOEXBC [June 18, 2021 ... April 24, 2009]
     https://www.moex.com/en/index/MOEXBC
