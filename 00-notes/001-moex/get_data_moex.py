@@ -372,7 +372,7 @@ def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Mar
         board=board.name)
 
 
-def get_data(symbol):
+def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interval=DataInterval.M1, cursor_start=0):
     """ Example:
     https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles?from=1992-01-01&till=2021-12-31&interval=1&start=0
     https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.xml?from=1992-01-01&till=2021-12-31&interval=1&start=0
@@ -381,12 +381,16 @@ def get_data(symbol):
     url = get_url(symbol)
     print('URL: {url}'.format(url=url))
     params = {
-        'from'    : '2021-07-16',
-        'till'    : '2021-07-16',
-        'interval': DataInterval.M1.value,
-        'start'   : 500
+        'from'    : from_date,
+        'till'    : till_date,
+        'interval': data_interval.value,
+        'start'   : cursor_start
     }
-    resp = requests.get(url=url, params=params)
+    return requests.get(url=url, params=params)
+
+
+def print_data(symbol):
+    resp = get_data(symbol)
     #data = resp.json()
     #print(json.dumps(data, indent=4))
     print(resp.text)
@@ -394,7 +398,7 @@ def get_data(symbol):
 
 def main():
     print('Get data from MOEX...')
-    get_data(SymbolBig.SBER)
+    print_data(SymbolBig.SBER)
     print('Done.')
 
 
