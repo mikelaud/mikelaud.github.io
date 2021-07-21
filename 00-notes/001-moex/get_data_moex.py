@@ -245,7 +245,7 @@ class SymbolBlue(IntEnum):
     https://www.moex.com/en/index/MOEXBC
     Excluded by manual: -URKA
     Included by manual (from SymbolNight): +AFLT, +TATNP
-    Included by manual: +AFKS, +MAIL, +RTKM, +RTKMP, +TRNFP
+    Included by manual (from MOEXBC history): +AFKS, +MAIL, +RTKM, +RTKMP, +TRNFP
     """
     AFKS  = Symbol.AFKS
     AFLT  = Symbol.AFLT
