@@ -74,35 +74,77 @@ class Symbol(IntEnum):
     """
     AFKS  = 1
     AFLT  = 2
-    ALRS  = 3
-    CHMF  = 4
-    FEES  = 5
-    FIVE  = 6
-    GAZP  = 7
-    GMKN  = 8
-    HYDR  = 9
-    IRAO  = 10
-    LKOH  = 11
-    MAIL  = 12
-    MGNT  = 13
-    MOEX  = 14
-    MTSS  = 15
-    NLMK  = 16
-    NVTK  = 17
-    PLZL  = 18
-    POLY  = 19
-    ROSN  = 20
-    RTKM  = 21
-    SBER  = 22
-    SBERP = 23
-    SNGS  = 24
-    SNGSP = 25
-    TATN  = 26
-    TATNP = 27
-    TRNFP = 28
-    URKA  = 29
-    VTBR  = 30
-    YNDX  = 31
+    AGRO  = 3
+    AKRN  = 4
+    ALRS  = 5
+    BANE  = 6
+    BANEP = 7
+    BSPB  = 8
+    BSPBP = 9
+    CBOM  = 10
+    CHMF  = 11
+    DSKY  = 12
+    FEES  = 13
+    FIVE  = 14
+    FIXP  = 15
+    GAZP  = 16
+    GCHE  = 17
+    GLTR  = 18
+    GMKN  = 19
+    HHRU  = 20
+    HYDR  = 21
+    IRAO  = 22
+    KMAZ  = 23
+    LKOH  = 24
+    LNTA  = 25
+    LSRG  = 26
+    MAGN  = 27
+    MAIL  = 28
+    MGNT  = 29
+    MOEX  = 30
+    MSNG  = 31
+    MSRS  = 32
+    MSTT  = 33
+    MTLR  = 34
+    MTLRP = 35
+    MTSS  = 36
+    MVID  = 37
+    NKNC  = 38
+    NLMK  = 39
+    NMTP  = 40
+    NVTK  = 41
+    OGKB  = 42
+    OZON  = 43
+    PHOR  = 44
+    PIKK  = 45
+    PLZL  = 46
+    POGR  = 47
+    POLY  = 48
+    QIWI  = 49
+    RASP  = 50
+    RNFT  = 51
+    ROSN  = 52
+    RSTI  = 53
+    RTKM  = 54
+    RTKMP = 55
+    RUAL  = 56
+    SBER  = 57
+    SBERP = 58
+    SFIN  = 59
+    SNGS  = 60
+    SNGSP = 61
+    SVAV  = 62
+    TATN  = 63
+    TATNP = 64
+    TCSG  = 65
+    TRMK  = 66
+    TRNFP = 67
+    UPRO  = 68
+    URKA  = 69
+    UWGN  = 70
+    VSMO  = 71
+    VTBR  = 72
+    YNDX  = 73
 
 
 @unique
@@ -141,7 +183,7 @@ class SymbolNight(IntEnum):
 @unique
 class SymbolBig(IntEnum):
     """
-    Symbols (from SymbolBlue) with history candles starting from 2011.
+    Symbols (from SymbolNight) with history candles starting from 2011.
     """
     AFLT  = Symbol.AFLT
     HYDR  = Symbol.HYDR
@@ -150,7 +192,6 @@ class SymbolBig(IntEnum):
     MGNT  = Symbol.MGNT
     MTSS  = Symbol.MTSS
     NVTK  = Symbol.NVTK
-    RTKM  = Symbol.RTKM
     SBER  = Symbol.SBER
     SBERP = Symbol.SBERP
     TATN  = Symbol.TATN
@@ -160,23 +201,33 @@ class SymbolBig(IntEnum):
 @unique
 class SymbolSmall(IntEnum):
     """
-    Symbols (from SymbolMoex minus SymbolBlue) with history candles starting from 2011.
+    Symbols (from SymbolMoex minus SymbolNight) with history candles starting from 2011.
     """
-    pass
+    LSRG  = Symbol.LSRG
+    MSNG  = Symbol.MSNG
+    MSRS  = Symbol.MSRS
+    MTLR  = Symbol.MTLR
+    MTLRP = Symbol.MTLRP
+    OGKB  = Symbol.OGKB
+    PIKK  = Symbol.PIKK
+    RTKM  = Symbol.RTKM
+    RTKMP = Symbol.RTKMP
 
 
 @unique
 class SymbolBlue(IntEnum):
     """ MOEXBC [June 18, 2021 ... April 24, 2009]
     https://www.moex.com/en/index/MOEXBC
-    Excluded by manual: -FIVE, -URKA
+    Excluded by manual: -URKA
     Included by manual (from SymbolNight): +AFLT, +TATNP
+    Included by manual: +AFKS, +MAIL, +RTKM, +RTKMP, +TRNFP
     """
     AFKS  = Symbol.AFKS
     AFLT  = Symbol.AFLT
     ALRS  = Symbol.ALRS
     CHMF  = Symbol.CHMF
     FEES  = Symbol.FEES
+    FIVE  = Symbol.FIVE
     GAZP  = Symbol.GAZP
     GMKN  = Symbol.GMKN
     HYDR  = Symbol.HYDR
@@ -192,6 +243,7 @@ class SymbolBlue(IntEnum):
     POLY  = Symbol.POLY
     ROSN  = Symbol.ROSN
     RTKM  = Symbol.RTKM
+    RTKMP = Symbol.RTKMP
     SBER  = Symbol.SBER
     SBERP = Symbol.SBERP
     SNGS  = Symbol.SNGS
@@ -208,7 +260,76 @@ class SymbolMoex(IntEnum):
     """ IMOEX [June 18, 2021 ... December 18, 2012]
     https://www.moex.com/en/index/IMOEX
     """
-    pass
+    AFKS  = Symbol.AFKS
+    AFLT  = Symbol.AFLT
+    AGRO  = Symbol.AGRO
+    AKRN  = Symbol.AKRN
+    ALRS  = Symbol.ALRS
+    BANE  = Symbol.BANE
+    BANEP = Symbol.BANEP
+    CBOM  = Symbol.CBOM
+    CHMF  = Symbol.CHMF
+    DSKY  = Symbol.DSKY
+    FEES  = Symbol.FEES
+    FIVE  = Symbol.FIVE
+    FIXP  = Symbol.FIXP
+    GAZP  = Symbol.GAZP
+    GCHE  = Symbol.GCHE
+    GLTR  = Symbol.GLTR
+    GMKN  = Symbol.GMKN
+    HHRU  = Symbol.HHRU
+    HYDR  = Symbol.HYDR
+    IRAO  = Symbol.IRAO
+    KMAZ  = Symbol.KMAZ
+    LKOH  = Symbol.LKOH
+    LNTA  = Symbol.LNTA
+    LSRG  = Symbol.LSRG
+    MAGN  = Symbol.MAGN
+    MAIL  = Symbol.MAIL
+    MGNT  = Symbol.MGNT
+    MOEX  = Symbol.MOEX
+    MSNG  = Symbol.MSNG
+    MSRS  = Symbol.MSRS
+    MSTT  = Symbol.MSTT
+    MTLR  = Symbol.MTLR
+    MTLRP = Symbol.MTLRP
+    MTSS  = Symbol.MTSS
+    MVID  = Symbol.MVID
+    NKNC  = Symbol.NKNC
+    NLMK  = Symbol.NLMK
+    NMTP  = Symbol.NMTP
+    NVTK  = Symbol.NVTK
+    OGKB  = Symbol.OGKB
+    OZON  = Symbol.OZON
+    PHOR  = Symbol.PHOR
+    PIKK  = Symbol.PIKK
+    PLZL  = Symbol.PLZL
+    POGR  = Symbol.POGR
+    POLY  = Symbol.POLY
+    QIWI  = Symbol.QIWI
+    RASP  = Symbol.RASP
+    RNFT  = Symbol.RNFT
+    ROSN  = Symbol.ROSN
+    RSTI  = Symbol.RSTI
+    RTKM  = Symbol.RTKM
+    RTKMP = Symbol.RTKMP
+    RUAL  = Symbol.RUAL
+    SBER  = Symbol.SBER
+    SBERP = Symbol.SBERP
+    SFIN  = Symbol.SFIN
+    SNGS  = Symbol.SNGS
+    SNGSP = Symbol.SNGSP
+    SVAV  = Symbol.SVAV
+    TATN  = Symbol.TATN
+    TATNP = Symbol.TATNP
+    TCSG  = Symbol.TCSG
+    TRMK  = Symbol.TRMK
+    TRNFP = Symbol.TRNFP
+    UPRO  = Symbol.UPRO
+    UWGN  = Symbol.UWGN
+    VSMO  = Symbol.VSMO
+    VTBR  = Symbol.VTBR
+    YNDX  = Symbol.YNDX
 
 
 def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
