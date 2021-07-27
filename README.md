@@ -215,7 +215,19 @@
 #### Introduction to Deep Learning
 - Part 1: Introduction
   <details><summary>L01: Introduction to deep learning</summary><p>
-    xxx
+    
+    - 1.0 [Introduction (04:26)](https://www.youtube.com/watch?v=1nqCZqDYPp0)
+    - 1.1.1 [Course Overview Part 1: Motivation and Topics (16:26)](https://www.youtube.com/watch?v=6VbtJ9nn5ng)
+    - 1.1.2 [Course Overview Part 2: Organization (17:34)](https://www.youtube.com/watch?v=s7ZCbKI5Exw)
+    - 1.2 [What is Machine Learning? (17:42)](https://www.youtube.com/watch?v=d6oQzE4kst0)
+    - 1.3.1 [Broad Categories of ML Part 1: Supervised Learning (10:55)](https://www.youtube.com/watch?v=UadzJLHJB50)
+    - 1.3.2 [Broad Categories of ML Part 2: Unsupervised Learning (7:29)](https://www.youtube.com/watch?v=nHhuuUwd05g)
+    - 1.3.3 [Broad Categories of ML Part 3: Reinforcement Learning (3:48)](https://www.youtube.com/watch?v=EQCZUOxGrOo)
+    - 1.3.4 [Broad Categories of ML Part 4: Special Cases of Supervised Learning (10:46)](https://www.youtube.com/watch?v=B59lK5yo57M)
+    - 1.4 [The Supervised Learning Workflow (17:46)](https://www.youtube.com/watch?v=nd9dhrvtIA0)
+    - 1.5 [Necessary Machine Learning Notation and Jargon (22:02)](https://www.youtube.com/watch?v=o-yHLOvuh2o)
+    - 1.6 [About the Practical Aspects and Tools Used in This Course (11:26)](https://www.youtube.com/watch?v=R16VmI2ZhR0)
+    - 1.news [Deep Learning News #1 (15:28)](https://www.youtube.com/watch?v=UAjfVRicYBM)
   </p></details>
   <details><summary>L02: The brief history of deep learning</summary><p>
     xxx
