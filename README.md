@@ -227,13 +227,26 @@
     - 1.4 [The Supervised Learning Workflow (17:46)](https://www.youtube.com/watch?v=nd9dhrvtIA0)
     - 1.5 [Necessary Machine Learning Notation and Jargon (22:02)](https://www.youtube.com/watch?v=o-yHLOvuh2o)
     - 1.6 [About the Practical Aspects and Tools Used in This Course (11:26)](https://www.youtube.com/watch?v=R16VmI2ZhR0)
-    - 1.news [Deep Learning News #1 (15:28)](https://www.youtube.com/watch?v=UAjfVRicYBM)
+    - 1.7 [Deep Learning News #1 (15:28)](https://www.youtube.com/watch?v=UAjfVRicYBM)
   </p></details>
   <details><summary>L02: The brief history of deep learning</summary><p>
-    xxx
+    
+    - 2.0 [A Brief History of Deep Learning – Lecture Overview (02:57)](https://www.youtube.com/watch?v=Ezig00nypvU)
+    - 2.1 [Artificial Neurons (16:49)](https://www.youtube.com/watch?v=gbLasjwAGik)
+    - 2.2 [Multilayer Networks (15:11)](https://www.youtube.com/watch?v=G7oqVqU5qsQ)
+    - 2.3 [The Origins of Deep Learning (20:11)](https://www.youtube.com/watch?v=tkUCMtJd43Y)
+    - 2.4 [The Deep Learning Hardware & Software Landscape (7:20)](https://www.youtube.com/watch?v=TMCNkeJGIfg)
+    - 2.5 [Current Trends in Deep Learning (8:21)](https://www.youtube.com/watch?v=FpOpb-BMIH8)
   </p></details>
   <details><summary>L03: Single-layer neural networks: The perceptron algorithm</summary><p>
-    xxx
+    
+    - 3.0 [Perceptron Lecture Overview (05:02)](https://www.youtube.com/watch?v=cm_wv2QpTgc)
+    - 3.1 [About Brains and Neurons (12:50)](https://www.youtube.com/watch?v=AnSDPcvtRLo)
+    - 3.2 [The Perceptron Learning Rule (31:38)](https://www.youtube.com/watch?v=C8Uns9HEVXI)
+    - 3.3 [Vectorization in Python (14:54)](https://www.youtube.com/watch?v=OnG2NfuC5aY)
+    - 3.4 [Perceptron in Python using NumPy and PyTorch (28:42)](https://www.youtube.com/watch?v=TMCNkeJGIfg)
+    - 3.5 [The Geometric Intuition Behind the Perceptron (18:43)](https://www.youtube.com/watch?v=Fj7BgxI73TA)
+    - 3.6 [Deep Learning News #2 (25:01)](https://www.youtube.com/watch?v=TgbI3LeB1bg)
   </p></details>
 - Part 2: Mathematical and computational foundations
   <details><summary>L04: Linear algebra and calculus for deep learning</summary><p>
