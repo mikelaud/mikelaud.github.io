@@ -250,7 +250,13 @@
   </p></details>
 - Part 2: Mathematical and computational foundations
   <details><summary>L04: Linear algebra and calculus for deep learning</summary><p>
-    xxx
+    
+    - 4.0 [Linear Algebra for Deep Learning – Lecture Overview (02:11)](https://www.youtube.com/watch?v=3mjJxu3B0zA)
+    - 4.1 [Tensors in Deep Learning (13:02)](https://www.youtube.com/watch?v=JXfDlgrfOBY)
+    - 4.2 [Tensors in PyTorch (28:32)](https://www.youtube.com/watch?v=zk_asBov8QI)
+    - 4.3 [Vectors, Matrices, and Broadcasting (16:15)](https://www.youtube.com/watch?v=4Ehb_is-MFU)
+    - 4.4 [Notational Conventions for Neural Networks (11:52)](https://www.youtube.com/watch?v=4pnoymfFiYM)
+    - 4.5 [A Fully Connected (Linear) Layer in PyTorch (12:41)](https://www.youtube.com/watch?v=XswEBzNgIYc)
   </p></details>
   <details><summary>L05: Parameter optimization with gradient descent</summary><p>
     xxx
