@@ -6,17 +6,14 @@
 
 ### Урок 1. Порядок слов в английском предложении, общие сведения
 #### Словарь
-  
-| English | Русский |
-| --- | --- |
-| car | машина |
-| have | иметь |
-| look good | выглядеть хорошо |
-| new | новый |
-| pretty old | довольно старый |
-| still | всё ещё |
-| was | был |
-| what kind (of) | какой (какого вида) |
+- car <sub><sup>машина</sup></sub>
+- have <sub><sup>иметь</sup></sub>
+- look good <sub><sup>выглядеть хорошо</sup></sub>
+- new <sub><sup>новый</sup></sub>
+- pretty old <sub><sup>довольно старый</sup></sub>
+- still <sub><sup>всё ещё</sup></sub>
+- was <sub><sup>был</sup></sub>
+- what kind (of) <sub><sup>какой (какого вида)</sup></sub>
 
 #### Диалог
 - A: Do you have a car?
