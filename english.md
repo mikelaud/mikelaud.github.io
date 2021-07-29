@@ -5,6 +5,37 @@
 <details><summary>Урок 1. Порядок слов в английском предложении, общие сведения</summary><p>
 
 ### Урок 1. Порядок слов в английском предложении, общие сведения
+#### Теория
+Порядок слов в английском утвердительном и отрицательном предложении
+- Подлежащее (субъект) >
+  - Сказуемое (дейтсвие) >
+    - Дополнение (объект) >
+      - Обстоятельство (как, где, когда)
+
+Типы предложений по **глаголу** (сказуемому)
+1. Глагол-**действие**
+   - субъект > действие > объект
+2. Глагол-**состояние**
+   - субъект > является/есть > каким-то/где-то
+
+Местоимение как **субъект**
+- I <sub><sup>я</sup></sub>
+- you <sub><sup>ты, вы</sup></sub>
+- he <sub><sup>он</sup></sub>
+- she <sub><sup>она</sup></sub>
+- it <sub><sup>он, она, оно, это (неодушевленные, животные, явления)</sup></sub>
+- we <sub><sup>мы</sup></sub>
+- they <sub><sup>они</sup></sub>
+
+Измененное местоимение как **объект**
+- me <sub><sup>мне, меня, мной</sup></sub>
+- you <sub><sup>тебе, тебя, тобой; вас, вам, вами</sup></sub>
+- him <sub><sup>его, ему, им</sup></sub>
+- her <sub><sup>её, ей, ею</sup></sub>
+- it <sub><sup>его, ему; её, её; этому</sup></sub>
+- us <sub><sup>нас, нам, нами</sup></sub>
+- them <sub><sup>их, им, ими</sup></sub>
+  
 #### Словарь
 - car <sub><sup>машина</sup></sub>
 - have <sub><sup>иметь</sup></sub>
@@ -54,8 +85,37 @@
 - Yes, it is. But it still looks good.
   
 </p></details>
+<details><summary>Урок 2. Самое важное об английских временах</summary><p>
 
-### Урок 2.
+### Урок 2. Самое важное об английских временах
+#### Словарь
+- also <sub><sup>также</sup></sub>
+- country <sub><sup>страна</sup></sub>
+- man <sub><sup>мужчина</sup></sub>
+- name <sub><sup>имя</sup></sub>
+- parents <sub><sup>родители</sup></sub>
+- tired <sub><sup>уставший</sup></sub>
+- yesterday <sub><sup>вчера</sup></sub>
+- very <sub><sup>очень</sup></sub>
+- woman <sub><sup>женщина</sup></sub>
+
+#### Текст 1
+- I **am** a man.
+- My name **is** John.
+- I **am** 30 years old.
+- I **am** from Russia.
+- My parents' names **are** Peter and Marta.
+
+#### Текст 2
+- John was in London yesterday.
+- He was with his wife.
+- They were in Hyde Park.
+- They also were at Buckingham Palace.
+- John was not tired.
+- His wife was very tired.
+  
+</p></details>
+
 ### Урок 3.
 ### Урок 4.
 ### Урок 5.
