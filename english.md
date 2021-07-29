@@ -13,7 +13,14 @@
 | was | был |
 | what kind (of) | какой (какого вида) |
 #### Диалог
-
+- A: Do you have a car?
+- B: Yes, I do.
+- A: What kind of car do you have?
+- B: I have a Honda.
+- A: Is it new?
+- B: It isn't new. It was new in 2004.
+- A: So, it's pretty old now.
+- B: Yes, it is. But it still looks good.
 ### Урок 2.
 ### Урок 3.
 ### Урок 4.
