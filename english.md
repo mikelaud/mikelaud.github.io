@@ -18,9 +18,32 @@
 - A: What kind of car do you have?
 - B: I have a Honda.
 - A: Is it new?
-- B: It isn't new. It was new in 2004.
+- B: It isn't new. It was new in 2003.
 - A: So, it's pretty old now.
 - B: Yes, it is. But it still looks good.
+#### Утверждение
+- Yes, I do.
+- I have a Honda.
+- It was new in 2003.
+- So, it's pretty old now.
+- Yes, it is.
+- But it still looks good.
+#### Отрицание
+- It isn't new.
+#### Вопрос
+- Do you have a car?
+- What kind of car do you have?
+- Is it new?
+#### Тип 1 (с глаголом действия)
+- Do you have a car?
+- Yes, I do.
+- What kind of car do you have?
+- I have a Honda.
+#### Тип 2 (с глаголом состояния be в варианте is, was)
+- Is it new?
+- It isn't new. It was new in 2003.
+- So, it's pretty old now.
+- Yes, it is. But it still looks good.
 ### Урок 2.
 ### Урок 3.
 ### Урок 4.
