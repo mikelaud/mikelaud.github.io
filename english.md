@@ -103,16 +103,18 @@
 - Perfect
 - Perfect Continuous
   
-#### Словарь
-- also <sub><sup>также</sup></sub>
+#### Словарь 1
 - country <sub><sup>страна</sup></sub>
 - man <sub><sup>мужчина</sup></sub>
 - name <sub><sup>имя</sup></sub>
 - parents <sub><sup>родители</sup></sub>
+- woman <sub><sup>женщина</sup></sub>
+
+#### Словарь 2
+- also <sub><sup>также</sup></sub>
 - tired <sub><sup>уставший</sup></sub>
 - yesterday <sub><sup>вчера</sup></sub>
 - very <sub><sup>очень</sup></sub>
-- woman <sub><sup>женщина</sup></sub>
 
 #### Текст 1
 - I **am** a man.
