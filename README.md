@@ -259,7 +259,17 @@
     - 4.5 [A Fully Connected (Linear) Layer in PyTorch (12:41)](https://www.youtube.com/watch?v=XswEBzNgIYc)
   </p></details>
   <details><summary>L05: Parameter optimization with gradient descent</summary><p>
-    xxx
+    
+    - 5.0 [Gradient Descent – Lecture Overview (06:28)](https://www.youtube.com/watch?v=VBOxg62CwCg)
+    - 5.1 [Online, Batch, and Minibatch Mode (21:04)](https://www.youtube.com/watch?v=b4DXHd3RwqA)
+    - 5.2 [Relation Between Perceptron and Linear Regression (05:20)](https://www.youtube.com/watch?v=4JB1j8eIGzI)
+    - 5.3 [An Iterative Training Algorithm for Linear Regression (11:10)](https://www.youtube.com/watch?v=1QH2bVuV98A)
+    - 5.4 [(Optional) Calculus Refresher I: Derivatives (17:36)](https://www.youtube.com/watch?v=tL1THESrXgI)
+    - 5.5 [(Optional) Calculus Refresher II: Gradients (17:34)](https://www.youtube.com/watch?v=YPZVGSRmjLk)
+    - 5.6 [Understanding Gradient Descent (26:34)](https://www.youtube.com/watch?v=L4xzybIa-bo)
+    - 5.7 [Training an Adaptive Linear Neuron (Adaline)h (06:43)](https://www.youtube.com/watch?v=iLCT0i-lCsw)
+    - 5.8 [Adaline Code Example (33:26)](https://www.youtube.com/watch?v=GGcaqzhKzLc)
+    - 5.9 [Deep Learning News #3 (20:24)](https://www.youtube.com/watch?v=2I8SqKLt-Nk)
   </p></details>
   <details><summary>L06: Automatic differentiation with PyTorch</summary><p>
     xxx
