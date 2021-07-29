@@ -36,6 +36,15 @@
 - us <sub><sup>нас, нам, нами</sup></sub>
 - them <sub><sup>их, им, ими</sup></sub>
   
+Примеры предложения типа 1
+ - You know me.
+ - I know you.
+ - She knows him.
+ - He knows her.
+ - You know it.
+ - They know us.
+ - We know them.
+  
 #### Словарь
 - car <sub><sup>машина</sup></sub>
 - have <sub><sup>иметь</sup></sub>
