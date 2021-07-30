@@ -143,8 +143,113 @@
 - His wife was very tired.
   
 </p></details>
+<details><summary>Урок 3. Настоящее время и слова _am_, _is_, _are_</summary><p>
 
-### Урок 3.
+### Урок 3. Настоящее время и слова _am_, _is_, _are_
+#### Словарь 1
+- artist <sub><sup>художник</sup></sub>
+- blue <sub><sup>синий</sup></sub>
+- doctor <sub><sup>доктор</sup></sub>
+- lawyer <sub><sup>юрист</sup></sub>
+- policeman <sub><sup>полицейский</sup></sub>
+- teacher <sub><sup>учитель</sup></sub>
+- waiter <sub><sup>официант</sup></sub>
+
+#### Словарь 2
+- Australia <sub><sup>Австралия</sup></sub>
+- Canada <sub><sup>Канада</sup></sub>
+- Belgium <sub><sup>Бельгия</sup></sub>
+- England <sub><sup>Англия</sup></sub>
+- Finland <sub><sup>Финляндия</sup></sub>
+- France <sub><sup>Франция</sup></sub>
+- Russia <sub><sup>Россия</sup></sub>
+- Sweden <sub><sup>Швеция</sup></sub>
+- the USA <sub><sup>США</sup></sub>
+
+#### Словарь 3
+- Brussels <sub><sup>Брюссель</sup></sub>
+- London <sub><sup>Лондон</sup></sub>
+- Lyon <sub><sup>Лион</sup></sub>
+- Melbourne <sub><sup>Мельбурн</sup></sub>
+- Moscow <sub><sup>Москва</sup></sub>
+- New York <sub><sup>Нью-Йорк</sup></sub>
+- Ottawa <sub><sup>Оттава</sup></sub>
+- Paris <sub><sup>Париж</sup></sub>
+- Shanghai <sub><sup>Шанхай</sup></sub>
+- Sydney <sub><sup>Сидней</sup></sub>
+
+#### Словарь 4
+- Africa <sub><sup>Африка</sup></sub>
+- capital <sub><sup>столица</sup></sub>
+- cold <sub><sup>холодно</sup></sub>
+- hot <sub><sup>жарко</sup></sub>
+- most <sub><sup>много, наиболее</sup></sub>
+- populated <sub><sup>населенный</sup></sub>
+- world <sub><sup>мир</sup></sub>
+
+#### Словарь 5
+- winter <sub><sup>зима</sup></sub>
+- spring <sub><sup>весна</sup></sub>
+- summer <sub><sup>лето</sup></sub>
+- autumn <sub><sup>осень</sup></sub>
+
+#### Словарь 6
+- December <sub><sup>декабрь</sup></sub>
+- January <sub><sup>январь</sup></sub>
+- February <sub><sup>февраль</sup></sub>
+- March <sub><sup>март</sup></sub>
+- April <sub><sup>апрель</sup></sub>
+- May <sub><sup>май</sup></sub>
+- June <sub><sup>июнь</sup></sub>
+- July <sub><sup>июль</sup></sub>
+- August <sub><sup>август</sup></sub>
+- September <sub><sup>сентябрь</sup></sub>
+- October <sub><sup>октябрь</sup></sub>
+- November <sub><sup>ноябрь</sup></sub>
+
+#### Словарь 7
+- bright <sub><sup>яркий</sup></sub>
+- green <sub><sup>зеленый</sup></sub>
+- white <sub><sup>белый</sup></sub>
+- yellow <sub><sup>желтый</sup></sub>
+
+#### Вставьте _is_ или _are_
+1. London is in England.
+2. Moscow is in Russia.
+3. New York is in the USA.
+4. Paris and Lyon are in France.
+5. Melbourne and Sydney are in Australia.
+6. Ottawa is the capital of Canada
+7. Brussels is the capital of Belgium.
+8. Shanghai is the most populated city in the world.
+9. It is hot in Africa.
+10. It is cold in Sweden and Finland.
+
+#### Переведите предложения на английский, используя _am_, _is_, _are_
+1. I am in London.
+2. He is in Canada.
+3. We are in Russia.
+4. They are in New York.
+5. Jan is in Paris.
+6. Maria is in the USA.
+7. Denis is in Belgium.
+8. Tom is in Melbourne.
+9. I am in Shanghai.
+10. You are is in Australia.
+11. She is in Moscow.
+12. You are in France.
+  
+#### Вставьте _is_ или _are_
+1. The summer is hot.
+2. It is cold in winter.
+3. September, October and November are in autumn.
+4. The sun is hot in July.
+5. March, April and May are in spring.
+6. June, July and August are summer months.
+7. It is not hot in autumn.
+  
+</p></details>
+
 ### Урок 4.
 ### Урок 5.
 ### Урок 6.
