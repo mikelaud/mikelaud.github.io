@@ -230,12 +230,12 @@
 2. He is in Canada.
 3. We are in Russia.
 4. They are in New York.
-5. Jan is in Paris.
+5. Jean is in Paris.
 6. Maria is in the USA.
 7. Denis is in Belgium.
 8. Tom is in Melbourne.
 9. I am in Shanghai.
-10. You are is in Australia.
+10. You are in Australia.
 11. She is in Moscow.
 12. You are in France.
   
@@ -247,6 +247,8 @@
 5. March, April and May are in spring.
 6. June, July and August are summer months.
 7. It is not hot in autumn.
+8. December, January and February are winter months.
+9. Spring is green, summer is bright, autumn is yellow, winter is white.
   
 </p></details>
 
