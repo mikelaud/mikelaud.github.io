@@ -272,10 +272,18 @@
     - 5.9 [Deep Learning News #3 (20:24)](https://www.youtube.com/watch?v=2I8SqKLt-Nk)
   </p></details>
   <details><summary>L06: Automatic differentiation with PyTorch</summary><p>
-    xxx
+    
+    - 6.0 [Automatic Differentiation in PyTorch – Lecture Overview (04:09)](https://www.youtube.com/watch?v=j1-r1vO2a_o)
+    - 6.1 [Learning More About PyTorch (15:47)](https://www.youtube.com/watch?v=LjdiVPQ45GE)
+    - 6.2 [Understanding Automatic Differentiation via Computation Graphs (22:47)](https://www.youtube.com/watch?v=oY6-i2Ybin4)
+    - 6.3 [Automatic Differentiation in PyTorch (09:02)](https://www.youtube.com/watch?v=VvUz0Q9e09g)
+    - 6.4 [Training ADALINE with PyTorch (23:29)](https://www.youtube.com/watch?v=00KgeJwNaZA)
+    - 6.5 [A Closer Look at the PyTorch API (25:02)](https://www.youtube.com/watch?v=klc79sZ1yVc)
   </p></details>
   <details><summary>L07: Cluster and cloud computing resources</summary><p>
-    xxx
+    
+    - 7.0 [GPU resources & Google Colab (19:17)](https://www.youtube.com/watch?v=5pew4YEa1ww)
+    - 7.1 [Deep Learning News #4 (28:09)](https://www.youtube.com/watch?v=mPC14fIO4SY)
   </p></details>
 - Part 3: Introduction to neural networks
   <details><summary>L08: Multinomial logistic regression / Softmax regression</summary><p>
