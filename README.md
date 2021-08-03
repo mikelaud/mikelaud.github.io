@@ -287,7 +287,19 @@
   </p></details>
 - Part 3: Introduction to neural networks
   <details><summary>L08: Multinomial logistic regression / Softmax regression</summary><p>
-    xxx
+    
+    - 8.0 [Logistic Regression – Lecture Overview (06:28)](https://www.youtube.com/watch?v=10PTpRRpRk0)
+    - 8.1 [Logistic Regression as a Single-Layer Neural Network (09:15)](https://www.youtube.com/watch?v=ncZ5iSZekVQ)
+    - 8.2 [Logistic Regression Loss Function (12:57)](https://www.youtube.com/watch?v=GxJe0DZvydM)
+    - 8.3 [Logistic Regression Loss Derivative and Training (19:57)](https://www.youtube.com/watch?v=7rR1L7t2EnA)
+    - 8.4 [Logits and Cross Entropy (06:47)](https://www.youtube.com/watch?v=icQaFxKa_J0)
+    - 8.5 [Logistic Regression in PyTorch – Code Example (19:02)](https://www.youtube.com/watch?v=6igMArA6k3A)
+    - 8.6 [Multinomial Logistic Regression / Softmax Regression (17:31)](https://www.youtube.com/watch?v=L0FU8NFpx4E)
+    - 8.7.1 [OneHot Encoding and Multi-category Cross Entropy (15:34)](https://www.youtube.com/watch?v=4n71-tZ94yk)
+    - 8.7.2 [OneHot Encoding and Multi-category Cross Entropy Code Example (15:04)](https://www.youtube.com/watch?v=5bW0vn4ISqs)
+    - 8.8 [Softmax Regression Derivatives for Gradient Descent (19:38)](https://www.youtube.com/watch?v=aeM-fmcdkXU)
+    - 8.9 [Softmax Regression Code Example Using PyTorch (25:39)](https://www.youtube.com/watch?v=mM6apVBXGEA)
+    - 8.10 [Deep Learning News #5, Feb 27 2021 (30:59)](https://www.youtube.com/watch?v=ZjZ6Yph5c2E)
   </p></details>
   <details><summary>L09: Multilayer perceptrons and backpropration</summary><p>
     xxx
