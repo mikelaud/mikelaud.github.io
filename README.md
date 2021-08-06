@@ -327,7 +327,16 @@
     - 10.5.4 [Dropout in PyTorch (12:04)](https://www.youtube.com/watch?v=kma-4wqp_-k)
   </p></details>
   <details><summary>L11: Input normalization and weight initialization</summary><p>
-    xxx
+    
+    - 11.0 [Input Normalization and Weight Initialization – Lecture Overview (02:52)](https://www.youtube.com/watch?v=xk6qb2IePaE)
+    - 11.1 [Input Normalization (08:03)](https://www.youtube.com/watch?v=jzJactQXFDk)
+    - 11.2 [How BatchNorm Works (15:14)](https://www.youtube.com/watch?v=34PDIFvvESc)
+    - 11.3 [BatchNorm in PyTorch (08:44)](https://www.youtube.com/watch?v=8AUDn7iF2DY)
+    - 11.4 [Why BatchNorm Works (23:37)](https://www.youtube.com/watch?v=uI19wIdzh9M)
+    - 11.5 [Weight Initialization – Why Do We Care? (06:00)](https://www.youtube.com/watch?v=RsX01aYbQdI)
+    - 11.6 [Xavier Glorot and Kaiming He Initialization (12:21)](https://www.youtube.com/watch?v=ScWTYHQra5E)
+    - 11.7 [Weight Initialization in PyTorch (07:36)](https://www.youtube.com/watch?v=nA6oEAE9IVc)
+    - 11.8 [Deep Learning News #7 (23:33)](https://www.youtube.com/watch?v=X5cEwDRh0Lk)
   </p></details>
   <details><summary>L12: Learning rates and advanced optimization algorithms</summary><p>
     xxx
