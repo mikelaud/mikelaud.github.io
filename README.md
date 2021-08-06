@@ -227,7 +227,7 @@
     - 1.4 [The Supervised Learning Workflow (17:46)](https://www.youtube.com/watch?v=nd9dhrvtIA0)
     - 1.5 [Necessary Machine Learning Notation and Jargon (22:02)](https://www.youtube.com/watch?v=o-yHLOvuh2o)
     - 1.6 [About the Practical Aspects and Tools Used in This Course (11:26)](https://www.youtube.com/watch?v=R16VmI2ZhR0)
-    - 1.news1 [Deep Learning News #1 (15:28)](https://www.youtube.com/watch?v=UAjfVRicYBM)
+    - 1.news-1 [Deep Learning News #1 (15:28)](https://www.youtube.com/watch?v=UAjfVRicYBM)
   </p></details>
   <details><summary>L02: The brief history of deep learning</summary><p>
     
@@ -246,7 +246,7 @@
     - 3.3 [Vectorization in Python (14:54)](https://www.youtube.com/watch?v=OnG2NfuC5aY)
     - 3.4 [Perceptron in Python using NumPy and PyTorch (28:42)](https://www.youtube.com/watch?v=TMCNkeJGIfg)
     - 3.5 [The Geometric Intuition Behind the Perceptron (18:43)](https://www.youtube.com/watch?v=Fj7BgxI73TA)
-    - 3.news2 [Deep Learning News #2 (25:01)](https://www.youtube.com/watch?v=TgbI3LeB1bg)
+    - 3.news-2 [Deep Learning News #2 (25:01)](https://www.youtube.com/watch?v=TgbI3LeB1bg)
   </p></details>
 - Part 2: Mathematical and computational foundations
   <details><summary>L04: Linear algebra and calculus for deep learning</summary><p>
@@ -269,7 +269,7 @@
     - 5.6 [Understanding Gradient Descent (26:34)](https://www.youtube.com/watch?v=L4xzybIa-bo)
     - 5.7 [Training an Adaptive Linear Neuron (Adaline)h (06:43)](https://www.youtube.com/watch?v=iLCT0i-lCsw)
     - 5.8 [Adaline Code Example (33:26)](https://www.youtube.com/watch?v=GGcaqzhKzLc)
-    - 5.news3 [Deep Learning News #3 (20:24)](https://www.youtube.com/watch?v=2I8SqKLt-Nk)
+    - 5.news-3 [Deep Learning News #3 (20:24)](https://www.youtube.com/watch?v=2I8SqKLt-Nk)
   </p></details>
   <details><summary>L06: Automatic differentiation with PyTorch</summary><p>
     
@@ -283,7 +283,7 @@
   <details><summary>L07: Cluster and cloud computing resources</summary><p>
     
     - 7.0 [GPU resources & Google Colab (19:17)](https://www.youtube.com/watch?v=5pew4YEa1ww)
-    - 7.news4 [Deep Learning News #4 (28:09)](https://www.youtube.com/watch?v=mPC14fIO4SY)
+    - 7.news-4 [Deep Learning News #4 (28:09)](https://www.youtube.com/watch?v=mPC14fIO4SY)
   </p></details>
 - Part 3: Introduction to neural networks
   <details><summary>L08: Multinomial logistic regression / Softmax regression</summary><p>
@@ -299,7 +299,7 @@
     - 8.7.2 [OneHot Encoding and Multi-category Cross Entropy Code Example (15:04)](https://www.youtube.com/watch?v=5bW0vn4ISqs)
     - 8.8 [Softmax Regression Derivatives for Gradient Descent (19:38)](https://www.youtube.com/watch?v=aeM-fmcdkXU)
     - 8.9 [Softmax Regression Code Example Using PyTorch (25:39)](https://www.youtube.com/watch?v=mM6apVBXGEA)
-    - 8.news5 [Deep Learning News #5, Feb 27 2021 (30:59)](https://www.youtube.com/watch?v=ZjZ6Yph5c2E)
+    - 8.news-5 [Deep Learning News #5, Feb 27 2021 (30:59)](https://www.youtube.com/watch?v=ZjZ6Yph5c2E)
   </p></details>
   <details><summary>L09: Multilayer perceptrons and backpropration</summary><p>
     
@@ -312,7 +312,7 @@
     - 9.4 [Overfitting and Underfitting (31:09)](https://www.youtube.com/watch?v=hFGZyDVNgS4)
     - 9.5.1 [Cats & Dogs and Custom Data Loaders (16:48)](https://www.youtube.com/watch?v=RQIAmvElu1g)
     - 9.5.2 [Custom DataLoaders in PyTorch (Code Example) (29:29)](https://www.youtube.com/watch?v=hPzJ8H0Jtew)
-    - 9.news6 [Deep Learning News #6 (36:13)](https://www.youtube.com/watch?v=0J2b31KIIXs)
+    - 9.news-6 [Deep Learning News #6 (36:13)](https://www.youtube.com/watch?v=0J2b31KIIXs)
   </p></details>
   <details><summary>L10: Regularization to avoid overfitting</summary><p>
     
@@ -336,7 +336,7 @@
     - 11.5 [Weight Initialization – Why Do We Care? (06:00)](https://www.youtube.com/watch?v=RsX01aYbQdI)
     - 11.6 [Xavier Glorot and Kaiming He Initialization (12:21)](https://www.youtube.com/watch?v=ScWTYHQra5E)
     - 11.7 [Weight Initialization in PyTorch (07:36)](https://www.youtube.com/watch?v=nA6oEAE9IVc)
-    - 11.news7 [Deep Learning News #7 (23:33)](https://www.youtube.com/watch?v=X5cEwDRh0Lk)
+    - 11.news-7 [Deep Learning News #7 (23:33)](https://www.youtube.com/watch?v=X5cEwDRh0Lk)
   </p></details>
   <details><summary>L12: Learning rates and advanced optimization algorithms</summary><p>
     
@@ -357,14 +357,14 @@
     - 13.3 [Convolutional Neural Network Basics (18:39)](https://www.youtube.com/watch?v=7fWOE-z8YgY)
     - 13.4 [Convolutional Filters and Weight-Sharing (20:19)](https://www.youtube.com/watch?v=ryJ6Bna-ZNU)
     - 13.5 [Cross-correlation vs. Convolution (10:37)](https://www.youtube.com/watch?v=ICWHhxox1ho)
-    - 13.news8 [Deep Learning News #8 (18:02)](https://www.youtube.com/watch?v=AxKPjkBP2t4)
+    - 13.news-8 [Deep Learning News #8 (18:02)](https://www.youtube.com/watch?v=AxKPjkBP2t4)
     - 13.6 [CNNs & Backpropagation (05:54)](https://www.youtube.com/watch?v=-SwKNK9MIUU)
     - 13.7 [CNN Architectures & AlexNet (20:17)](https://www.youtube.com/watch?v=-IHxe4-09e4)
     - 13.8 [What a CNN Can See (13:42)](https://www.youtube.com/watch?v=PRFP5YC3u7g)
     - 13.9.1 [LeNet-5 in PyTorch (13:11)](https://www.youtube.com/watch?v=ye5k82FQC7I)
     - 13.9.2 [Saving and Loading Models in PyTorch (05:44)](https://www.youtube.com/watch?v=vB_Y04gsyBI)
     - 13.9.3 [AlexNet in PyTorch (15:15)](https://www.youtube.com/watch?v=mlXRVuD_HEg)
-    - 13.news9 [Deep Learning News #9 (28:09)](https://www.youtube.com/watch?v=Nm4Y4Pd1mg0)
+    - 13.news-9 [Deep Learning News #9 (28:09)](https://www.youtube.com/watch?v=Nm4Y4Pd1mg0)
   </p></details>
   <details><summary>L14: Convolutional neural networks architectures</summary><p>
     xxx
