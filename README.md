@@ -367,7 +367,21 @@
     - 13.news-9 [Deep Learning News #9 (28:09)](https://www.youtube.com/watch?v=Nm4Y4Pd1mg0)
   </p></details>
   <details><summary>L14: Convolutional neural networks architectures</summary><p>
-    xxx
+    
+    - 14.0 [Convolutional Neural Networks Architectures – Lecture Overview (06:18)](https://www.youtube.com/watch?v=1A6HViSXaqQ)
+    - 14.1 [Convolutions and Padding (11:14)](https://www.youtube.com/watch?v=I5B7pgSEMhE)
+    - 14.2 [Spatial Dropout and BatchNorm (06:46)](https://www.youtube.com/watch?v=TGqqTgn4cAg)
+    - 14.3 [Architecture Overview (03:23)](https://www.youtube.com/watch?v=WyXO762G2_A)
+    - 14.3.1.1 [VGG16 Overview (06:05)](https://www.youtube.com/watch?v=YcmNIOyfdZQ)
+    - 14.3.1.2 [VGG16 in PyTorch (15:52)](https://www.youtube.com/watch?v=PlFiRPdBEAo)
+    - 14.3.2.1 [ResNet Overview (14:41)](https://www.youtube.com/watch?v=q_IlqYlYhlo)
+    - 14.3.2.2 [ResNet-34 in PyTorch (18:47)](https://www.youtube.com/watch?v=JG_ODvnlgjY)
+    - 14.4.1 [Replacing Max-Pooling with Convolutional Layers (08:19)](https://www.youtube.com/watch?v=Lq83NFkkJCk)
+    - 14.4.2 [All-Convolutional Network in PyTorch (08:17)](https://www.youtube.com/watch?v=A5dC5yuPXwo)
+    - 14.5 [Convolutional Instead of Fully Connected Layers (14:33)](https://www.youtube.com/watch?v=rqLjZ8k4va8)
+    - 14.6.1 [Transfer Learning (07:38)](https://www.youtube.com/watch?v=OkQRtm9JY1k)
+    - 14.6.2 [Transfer Learning in PyTorch (11:35)](https://www.youtube.com/watch?v=FaW9JCSJn2s)
+    - 14.news-10 [Deep Learning News #10 (20:55)](https://www.youtube.com/watch?v=sZT4XZkptP8)
   </p></details>
   <details><summary>L15: Introduction to recurrent neural networks</summary><p>
     xxx
