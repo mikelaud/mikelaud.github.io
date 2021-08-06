@@ -384,7 +384,15 @@
     - 14.news-10 [Deep Learning News #10 (20:55)](https://www.youtube.com/watch?v=sZT4XZkptP8)
   </p></details>
   <details><summary>L15: Introduction to recurrent neural networks</summary><p>
-    xxx
+    
+    - 15.0 [Introduction to Recurrent Neural Networks – Lecture Overview (03:58)](https://www.youtube.com/watch?v=q5YxK17tRm0)
+    - 15.1 [Different Methods for Working With Text Data (15:57)](https://www.youtube.com/watch?v=kwmZtkzB4e0)
+    - 15.2 [Sequence Modeling with RNNs (13:39)](https://www.youtube.com/watch?v=5fdy-hBeWCI)
+    - 15.3 [Different Types of Sequence Modeling Tasks (04:31)](https://www.youtube.com/watch?v=Ed8GTvkzkZE)
+    - 15.4 [Backpropagation Through Time Overview (09:33)](https://www.youtube.com/watch?v=0XdPIqi0qpg)
+    - 15.5 [Long Short-Term Memory (16:58)](https://www.youtube.com/watch?v=k6fSgUaWUF8)
+    - 15.6 [RNNs for Classification: A Many-to-One Word RNN (29:06)](https://www.youtube.com/watch?v=TI4HRR3Hd9A)
+    - 15.7 [An RNN Sentiment Classifier in PyTorch (40:00)](https://www.youtube.com/watch?v=KgrdifrlDxg)
   </p></details>
 - Part 5: Deep generative models
   <details><summary>L16: Autoencoders</summary><p>
