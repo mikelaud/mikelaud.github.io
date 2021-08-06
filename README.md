@@ -396,10 +396,24 @@
   </p></details>
 - Part 5: Deep generative models
   <details><summary>L16: Autoencoders</summary><p>
-    xxx
+    
+    - 16.0 [Introduction to Autoencoders – Lecture Overview (04:45)](https://www.youtube.com/watch?v=9Ujv_IoBtF4)
+    - 16.1 [Dimensionality Reduction (09:39)](https://www.youtube.com/watch?v=UgOHupaIfcA)
+    - 16.2 [A Fully-Connected Autoencoder (16:34)](https://www.youtube.com/watch?v=8O_FDPIlj1s)
+    - 16.3 [Convolutional Autoencoders & Transposed Convolutions (16:07)](https://www.youtube.com/watch?v=ilkSwsggSNM)
+    - 16.4 [A Convolutional Autoencoder in PyTorch (15:20)](https://www.youtube.com/watch?v=345wRyqKkQ0)
+    - 16.5 [Other Types of Autoencoders (5:33)](https://www.youtube.com/watch?v=k6fSgUaWUF8)
   </p></details>
   <details><summary>L17: Variational autoencoders</summary><p>
-    xxx
+    
+    - 17.0 [Intro to Varaiational Autoencoders – Lecture Overview (03:16)](https://www.youtube.com/watch?v=UnImUYOdWgk)
+    - 17.1 [Variational Autoencoder Overview (05:23)](https://www.youtube.com/watch?v=H2XgdND0DV4)
+    - 17.2 [Sampling from a Variational Autoencoder (09:26)](https://www.youtube.com/watch?v=YgSWrafXI8U)
+    - 17.3 [The Log-Var Trick (07:34)](https://www.youtube.com/watch?v=pmvo0S3-G-I)
+    - 17.4 [Variational Autoencoder Loss Function (12:16)](https://www.youtube.com/watch?v=ywYuZrLENH0)
+    - 17.5 [A Variational Autoencoder for Handwritten Digits in PyTorch (23:12)](https://www.youtube.com/watch?v=afNuE5z2CQ8)
+    - 17.6 [A Variational Autoencoder for Face Images in PyTorch (10:05)](https://www.youtube.com/watch?v=sul2ExoUrnw)
+    - 17.7 [VAE Latent Space Arithmetic in PyTorch – Making People Smile (11:54)](https://www.youtube.com/watch?v=EfFr87ARDF0)
   </p></details>
   <details><summary>L18: Introduction to generative adversarial networks</summary><p>
     xxx
