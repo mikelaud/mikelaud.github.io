@@ -426,7 +426,24 @@
     - 18.6 [A DCGAN for Generating Face Images in PyTorch (12:42)](https://www.youtube.com/watch?v=5fs9PMzrVig)
   </p></details>
   <details><summary>L19: Self-attention and transformer networks</summary><p>
-    xxx
+    
+    - 19.0 [RNNs & Transformers for Sequence-to-Sequence Modeling – Lecture Overview (03:05)](https://www.youtube.com/watch?v=DlWTTrHa8bI)
+    - 19.1 [Sequence Generation with Word and Character RNNs (17:43)](https://www.youtube.com/watch?v=fSBw6TrePPg)
+    - 19.2.1 [Implementing a Character RNN in PyTorch (Concepts) (09:19)](https://www.youtube.com/watch?v=PFcWQkGP4lU)
+    - 19.2.2 [Implementing a Character RNN in PyTorch (Code Example) (25:56)](https://www.youtube.com/watch?v=tL5puCeDr-o)
+    - 19.3 [RNNs with an Attention Mechanism (22:18)](https://www.youtube.com/watch?v=mDZil99CtSU)
+    - 19.4.1 [Using Attention Without the RNN – A Basic Form of Self-Attention (16:10)](https://www.youtube.com/watch?v=i_pfHD4P_wg)
+    - 19.4.2 [Self-Attention and Scaled Dot-Product Attention (16:08)](https://www.youtube.com/watch?v=0PjHri8tc1c)
+    - 19.4.3 [Multi-Head Attention (07:36)](https://www.youtube.com/watch?v=A1eUVxscNq8)
+    - 19.5.1 [The Transformer Architecture (22:36)](https://www.youtube.com/watch?v=tstbZXNCfLY)
+    - 19.5.2.1 [Some Popular Transformer Models: BERT, GPT, and BART – Overview (08:40)](https://www.youtube.com/watch?v=iFhYwEi03Ew)
+    - 19.5.2.2 [GPT-v1: Generative Pre-Trained Transformer (09:53)](https://www.youtube.com/watch?v=LOCzBgSV4tQ)
+    - 19.5.2.3 [BERT: Bidirectional Encoder Representations from Transformers (18:30)](https://www.youtube.com/watch?v=_BFp4kjSB-I)
+    - 19.5.2.4 [GPT-v2: Language Models are Unsupervised Multitask Learners (09:02)](https://www.youtube.com/watch?v=BXv1m9Asl7I)
+    - 19.5.2.5 [GPT-v3: Language Models are Few-Shot Learners (06:40)](https://www.youtube.com/watch?v=wYdKn-X4MhY)
+    - 19.5.2.6 [BART: Combining Bidirectional and Auto-Regressive Transformers (10:15)](https://www.youtube.com/watch?v=1JBMCG8rW18)
+    - 19.5.2.7 [Closing Words – The Recent Growth of Language Transformers (06:09)](https://www.youtube.com/watch?v=OyqIuxMmLRg)
+    - 19.6 [DistilBert Movie Review Classifier in PyTorch (17:57)](https://www.youtube.com/watch?v=emDmznRlsWw)
   </p></details>
 
 </p></details>
