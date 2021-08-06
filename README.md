@@ -339,7 +339,14 @@
     - 11.8 [Deep Learning News #7 (23:33)](https://www.youtube.com/watch?v=X5cEwDRh0Lk)
   </p></details>
   <details><summary>L12: Learning rates and advanced optimization algorithms</summary><p>
-    xxx
+    
+    - 12.0 [Improving Gradient Descent-based Optimization – Lecture Overview (06:19)](https://www.youtube.com/watch?v=7RhNXYqDBfU)
+    - 12.1 [Learning Rate Decay (17:07)](https://www.youtube.com/watch?v=Owm1H0ukjS4)
+    - 12.2 [Learning Rate Schedulers in PyTorch (14:38)](https://www.youtube.com/watch?v=tB1rz4L93JA)
+    - 12.3 [SGD with Momentum (09:05)](https://www.youtube.com/watch?v=gMxvefj0YAM)
+    - 12.4 [Adam: Combining Adaptive Learning Rates and Momentum (15:33)](https://www.youtube.com/watch?v=eUOvUIRPSX8)
+    - 12.5 [Choosing Different Optimizers in PyTorch (06:01)](https://www.youtube.com/watch?v=RsX01aYbQdI)
+    - 12.6 [Additional Topics and Research on Optimization Algorithms (12:04)](https://www.youtube.com/watch?v=7yoAocFiUh8)
   </p></details>
 - Part 4: Deep learning for computer vision and language modeling
   <details><summary>L13: Introduction to convolutional neural networks</summary><p>
