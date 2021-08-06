@@ -302,7 +302,17 @@
     - 8.10 [Deep Learning News #5, Feb 27 2021 (30:59)](https://www.youtube.com/watch?v=ZjZ6Yph5c2E)
   </p></details>
   <details><summary>L09: Multilayer perceptrons and backpropration</summary><p>
-    xxx
+    
+    - 9.0 [Multilayer Perceptrons – Lecture Overview (03:54)](https://www.youtube.com/watch?v=jD6IKpqSJM4)
+    - 9.1 [Multilayer Perceptron Architecture (24:24)](https://www.youtube.com/watch?v=IUylp47hNA0)
+    - 9.2 [Nonlinear Activation Functions (22:50)](https://www.youtube.com/watch?v=-_7W0KE8Ykg)
+    - 9.3.1 [Multilayer Perceptron Code Part 1/3 (10:00)](https://www.youtube.com/watch?v=zNyEzACInRg)
+    - 9.3.2 [Multilayer Perceptron in PyTorch Part 2/3 (Jupyter Notebook) (08:31)](https://www.youtube.com/watch?v=Ycp4Si89s5Q)
+    - 9.3.3 [Multilayer Perceptron in PyTorch Part 3/3 (Script Setup) (13:36)](https://www.youtube.com/watch?v=cDbQgQv_Yz0)
+    - 9.4 [Overfitting and Underfitting (31:09)](https://www.youtube.com/watch?v=hFGZyDVNgS4)
+    - 9.5.1 [Cats & Dogs and Custom Data Loaders (16:48)](https://www.youtube.com/watch?v=RQIAmvElu1g)
+    - 9.5.2 [Custom DataLoaders in PyTorch (Code Example) (29:29)](https://www.youtube.com/watch?v=hPzJ8H0Jtew)
+    - 9.6 [Deep Learning News #6 (36:13)](https://www.youtube.com/watch?v=0J2b31KIIXs)
   </p></details>
   <details><summary>L10: Regularization to avoid overfitting</summary><p>
     xxx
