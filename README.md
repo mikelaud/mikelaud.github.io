@@ -315,7 +315,16 @@
     - 9.6 [Deep Learning News #6 (36:13)](https://www.youtube.com/watch?v=0J2b31KIIXs)
   </p></details>
   <details><summary>L10: Regularization to avoid overfitting</summary><p>
-    xxx
+    
+    - 10.0 [Regularization Methods for Neural Networks – Lecture Overview (11:09)](https://www.youtube.com/watch?v=Va4K-wYh_p8)
+    - 10.1 [Techniques for Reducing Overfitting (12:17)](https://www.youtube.com/watch?v=KOBmBjlMVAE)
+    - 10.2 [Data Augmentation in PyTorch (14:31)](https://www.youtube.com/watch?v=qLIosWyrh9Q)
+    - 10.3 [Early Stopping (04:07)](https://www.youtube.com/watch?v=YA1OdkiHJBY)
+    - 10.4 [L2 Regularization for Neural Nets (15:48)](https://www.youtube.com/watch?v=uu2X47cSLmM)
+    - 10.5.1 [The Main Concept Behind Dropout (11:07)](https://www.youtube.com/watch?v=IHrZNBsgtwU)
+    - 10.5.2 [Dropout Co-Adaptation Interpretation (03:50)](https://www.youtube.com/watch?v=GAE8dpDWo6E)
+    - 10.5.3 [(Optional) Dropout Ensemble Interpretation (09:10)](https://www.youtube.com/watch?v=4We9G5jgKvI)
+    - 10.5.4 [Dropout in PyTorch (12:04)](https://www.youtube.com/watch?v=kma-4wqp_-k)
   </p></details>
   <details><summary>L11: Input normalization and weight initialization</summary><p>
     xxx
