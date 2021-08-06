@@ -416,7 +416,14 @@
     - 17.7 [VAE Latent Space Arithmetic in PyTorch – Making People Smile (11:54)](https://www.youtube.com/watch?v=EfFr87ARDF0)
   </p></details>
   <details><summary>L18: Introduction to generative adversarial networks</summary><p>
-    xxx
+    
+    - 18.0 [Introduction to Generative Adversarial Networks – Lecture Overview (05:14)](https://www.youtube.com/watch?v=OnoPaZaKoS8)
+    - 18.1 [The Main Idea Behind GANs (10:42)](https://www.youtube.com/watch?v=-Zi5SReze6U)
+    - 18.2 [The GAN Objective (26:25)](https://www.youtube.com/watch?v=m_H6viKCTEE)
+    - 18.3 [Modifying the GAN Loss Function for Practical Use (18:45)](https://www.youtube.com/watch?v=ILpC3b-819Q)
+    - 18.4 [A GAN for Generating Handwritten Digits in PyTorch (22:45)](https://www.youtube.com/watch?v=cTlxZ1FO1mY)
+    - 18.5 [Tips and Tricks to Make GANs Work (17:13)](https://www.youtube.com/watch?v=_cUdjPdbldQ)
+    - 18.6 [A DCGAN for Generating Face Images in PyTorch (12:42)](https://www.youtube.com/watch?v=5fs9PMzrVig)
   </p></details>
   <details><summary>L19: Self-attention and transformer networks</summary><p>
     xxx
