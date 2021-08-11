@@ -7,6 +7,7 @@ MOEX data downloader based on:
     - https://fs.moex.com/files/6524
 """
 
+from datetime import datetime
 from enum import Enum, IntEnum, unique
 import json
 import requests
@@ -389,11 +390,23 @@ def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interv
     return requests.get(url=url, params=params)
 
 
+def parse_datetime(datetime_string):
+    """ Example: '2012-01-03 18:19:59'
+    """
+    return datetime.strptime(datetime_string, '%Y-%m-%d %H:%M:%S')
+
+
 def print_data(symbol):
     resp = get_data(symbol)
     #data = resp.json()
     #print(json.dumps(data, indent=4))
     print(resp.text)
+    json = resp.json()
+    candles = json['candles']['data']
+    last_candle = candles[-1]
+    last_datetime_string = last_candle[7]
+    last_datetime = parse_datetime(last_datetime_string)
+    print('last_datetime: {}'.format(last_datetime))
 
 
 def main():
