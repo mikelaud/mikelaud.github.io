@@ -5,6 +5,21 @@ MOEX data downloader based on:
     - http://iss.moex.com/iss/reference/
     - https://fs.moex.com/files/6523
     - https://fs.moex.com/files/6524
+=============================================
+Run program:
+---------------------------------------------
+python3 get_data_moex.py
+=============================================
+Git help:
+---------------------------------------------
+user.name
+user.password
+git config --global --edit
+git config --global credential.helper store
+git add get_data_moex.py
+git commit -m "message"
+git push
+=============================================
 """
 
 from datetime import datetime
