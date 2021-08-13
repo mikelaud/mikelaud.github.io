@@ -9,7 +9,9 @@ MOEX data downloader based on:
 
 from datetime import datetime
 from enum import Enum, IntEnum, unique
+import inspect
 import json
+import os
 import requests
 
 
@@ -409,9 +411,15 @@ def print_data(symbol):
     print('last_datetime: {}'.format(last_datetime))
 
 
+def get_current_dir():
+    filename = inspect.getframeinfo(inspect.currentframe()).filename
+    return os.path.dirname(os.path.abspath(filename))
+
+
 def main():
     print('Get data from MOEX...')
     print_data(SymbolBig.SBER)
+    print('Current dir: {}'.format(get_current_dir()))
     print('Done.')
 
 
