@@ -186,6 +186,10 @@ class SymbolNight(IntEnum):
     VTBR  = Symbol.VTBR
     YNDX  = Symbol.YNDX
 
+    @classmethod
+    def list(clazz):
+        return list(map(lambda s: s.name, clazz))
+
 
 @unique
 class SymbolBig(IntEnum):
@@ -204,6 +208,10 @@ class SymbolBig(IntEnum):
     TATN  = Symbol.TATN
     TATNP = Symbol.TATNP
 
+    @classmethod
+    def list(clazz):
+        return list(map(lambda s: s.name, clazz))
+
 
 @unique
 class SymbolSmall(IntEnum):
@@ -219,6 +227,10 @@ class SymbolSmall(IntEnum):
     PIKK  = Symbol.PIKK
     RTKM  = Symbol.RTKM
     RTKMP = Symbol.RTKMP
+
+    @classmethod
+    def list(clazz):
+        return list(map(lambda s: s.name, clazz))
 
 
 @unique
@@ -244,6 +256,10 @@ class SymbolDelta(IntEnum):
     TRNFP = Symbol.TRNFP
     VTBR  = Symbol.VTBR
     YNDX  = Symbol.YNDX
+
+    @classmethod
+    def list(clazz):
+        return list(map(lambda s: s.name, clazz))
 
 
 @unique
@@ -285,6 +301,10 @@ class SymbolBlue(IntEnum):
     TRNFP = Symbol.TRNFP
     VTBR  = Symbol.VTBR
     YNDX  = Symbol.YNDX
+
+    @classmethod
+    def list(clazz):
+        return list(map(lambda s: s.name, clazz))
 
 
 @unique
@@ -363,6 +383,10 @@ class SymbolMoex(IntEnum):
     VTBR  = Symbol.VTBR
     YNDX  = Symbol.YNDX
 
+    @classmethod
+    def list(clazz):
+        return list(map(lambda s: s.name, clazz))
+
 
 def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
     """ Example:
@@ -430,9 +454,17 @@ def main():
     home_location = get_home_location()
     data_dir = Const.DATA_DIR
     data_location = get_data_location()
+    symbols_big = SymbolBig.list()
+    symbols_small = SymbolSmall.list()
+    symbols_delta = SymbolDelta.list()
+    symbols = symbols_big + symbols_small + symbols_delta
     print('Home location: {}'.format(home_location))
     print('Data dir     : {}'.format(data_dir))
     print('Data location: {}'.format(data_location))
+    print('Symbols Big  : {}'.format(symbols_big))
+    print('Symbols Small: {}'.format(symbols_small))
+    print('Symbols Delta: {}'.format(symbols_delta))
+    print('Symbols Total: {}'.format(len(symbols)))
     print('Done.')
 
 
