@@ -15,6 +15,10 @@ import os
 import requests
 
 
+class Const(object):
+    DATA_DIR = 'data_moex'
+
+
 @unique
 class DataFormat(Enum):
     CSV  = 'csv'
@@ -411,15 +415,24 @@ def print_data(symbol):
     print('last_datetime: {}'.format(last_datetime))
 
 
-def get_current_dir():
+def get_home_location():
     filename = inspect.getframeinfo(inspect.currentframe()).filename
     return os.path.dirname(os.path.abspath(filename))
+
+
+def get_data_location():
+    return os.path.join(get_home_location(), Const.DATA_DIR)
 
 
 def main():
     print('Get data from MOEX...')
     print_data(SymbolBig.SBER)
-    print('Current dir: {}'.format(get_current_dir()))
+    home_location = get_home_location()
+    data_dir = Const.DATA_DIR
+    data_location = get_data_location()
+    print('Home location: {}'.format(home_location))
+    print('Data dir     : {}'.format(data_dir))
+    print('Data location: {}'.format(data_location))
     print('Done.')
 
 
