@@ -24,6 +24,7 @@ git push
 
 from datetime import datetime
 from enum import Enum, IntEnum, unique
+from pathlib import Path
 import inspect
 import json
 import os
@@ -584,8 +585,16 @@ def print_data(symbol):
     print('last_datetime: {}'.format(last_datetime))
 
 
+def create_location_dirs(location):
+    path = Path(location)
+    if not path.exists():
+        print('Create location: {location}'.format(location=path))
+        path.mkdir(parents=True, exist_ok=True)
+
+
 def download_data_symbol(symbol_location, symbol):
     print('Symbol location: {location}'.format(location=symbol_location))
+    create_location_dirs(symbol_location)
 
 
 def download_data_symbols(data_location, symbols):
