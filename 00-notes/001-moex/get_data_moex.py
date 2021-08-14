@@ -34,11 +34,11 @@ import requests
 
 class Const(object):
     DATA_DIR = 'data_moex'
-    DATA_FILE_PATTERN = '^{name}\.\d\d\d\d-\d\d-\d\d\.json$'
+    DATA_FILE_NAME_PATTERN = '^{name}\.\d\d\d\d-\d\d-\d\d\.json$'
 
     @classmethod
-    def get_data_file_pattern(clazz, symbol_name):
-        return clazz.DATA_FILE_PATTERN.format(name=symbol_name)
+    def get_data_file_name_pattern(clazz, symbol_name):
+        return clazz.DATA_FILE_NAME_PATTERN.format(name=symbol_name)
 
 
 @unique
@@ -592,7 +592,7 @@ def print_data(symbol):
 
 
 def get_data_files(location, symbol_name):
-    data_file_pattern = Const.get_data_file_pattern(symbol_name)
+    data_file_pattern = Const.get_data_file_name_pattern(symbol_name)
     r = re.compile(data_file_pattern)
     return sorted([f for f in os.listdir(location) if r.match(f)])
 
