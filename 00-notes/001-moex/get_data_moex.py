@@ -168,6 +168,10 @@ class Symbol(IntEnum):
     VTBR  = 72
     YNDX  = 73
 
+    @classmethod
+    def to_string(_, symbols):
+        return '{symbols}; ({count})'.format(symbols=','.join([s.name for s in symbols]), count=len(symbols))
+
 
 @unique
 class SymbolNight(IntEnum):
@@ -202,8 +206,12 @@ class SymbolNight(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
+    def len(clazz):
+        return len(clazz)
+
+    @classmethod
     def list(clazz):
-        return list(map(lambda s: s.name, clazz))
+        return list(clazz)
 
 
 @unique
@@ -224,8 +232,12 @@ class SymbolBig(IntEnum):
     TATNP = Symbol.TATNP
 
     @classmethod
+    def len(clazz):
+        return len(clazz)
+
+    @classmethod
     def list(clazz):
-        return list(map(lambda s: s.name, clazz))
+        return list(clazz)
 
 
 @unique
@@ -244,12 +256,16 @@ class SymbolSmall(IntEnum):
     RTKMP = Symbol.RTKMP
 
     @classmethod
+    def len(clazz):
+        return len(clazz)
+
+    @classmethod
     def list(clazz):
-        return list(map(lambda s: s.name, clazz))
+        return list(clazz)
 
 
 @unique
-class SymbolDelta(IntEnum):
+class SymbolMix(IntEnum):
     """
     Symbols: SymbolBlue minus SymbolBig minus SymbolSmall
     """
@@ -273,8 +289,12 @@ class SymbolDelta(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
+    def len(clazz):
+        return len(clazz)
+
+    @classmethod
     def list(clazz):
-        return list(map(lambda s: s.name, clazz))
+        return list(clazz)
 
 
 @unique
@@ -318,8 +338,12 @@ class SymbolBlue(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
+    def len(clazz):
+        return len(clazz)
+
+    @classmethod
     def list(clazz):
-        return list(map(lambda s: s.name, clazz))
+        return list(clazz)
 
 
 @unique
@@ -399,8 +423,12 @@ class SymbolMoex(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
+    def len(clazz):
+        return len(clazz)
+
+    @classmethod
     def list(clazz):
-        return list(map(lambda s: s.name, clazz))
+        return list(clazz)
 
 
 def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
@@ -484,17 +512,17 @@ def main():
     data_location = get_data_location()
     symbols_big = SymbolBig.list()
     symbols_small = SymbolSmall.list()
-    symbols_delta = SymbolDelta.list()
-    symbols = symbols_big + symbols_small + symbols_delta
+    symbols_mix = SymbolMix.list()
+    symbols = symbols_big + symbols_small + symbols_mix
     print('MOEX data downloader')
     print('Home location: {}'.format(home_location))
     print('Data dir     : {}'.format(data_dir))
     print('Data location: {}'.format(data_location))
-    print('Symbols Big  : {}'.format(symbols_big))
-    print('Symbols Small: {}'.format(symbols_small))
-    print('Symbols Delta: {}'.format(symbols_delta))
+    print('Symbols BIG  : {}'.format(Symbol.to_string(symbols_big)))
+    print('Symbols SMALL: {}'.format(Symbol.to_string(symbols_small)))
+    print('Symbols MIX  : {}'.format(Symbol.to_string(symbols_mix)))
     print('Symbols Total: {}'.format(len(symbols)))
-    download_data_symbols(data_location, symbols)
+    #download_data_symbols(data_location, symbols)
     print('Done.')
 
 
