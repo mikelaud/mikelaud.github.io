@@ -454,6 +454,20 @@ def print_data(symbol):
     print('last_datetime: {}'.format(last_datetime))
 
 
+def download_data_symbol(symbol_location, symbol):
+    print('Symbol location: {}'.format(symbol_location))
+
+
+def download_data_symbols(data_location, symbols):
+    symbols_total = len(symbols)
+    for index in range(symbols_total):
+        symbol = symbols[index]
+        symbol_location = os.path.join(data_location, symbol)
+        symbol_number = index + 1
+        print('Download symbol: {} ({} of {})'.format(symbol, symbol_number, symbols_total))
+        download_data_symbol(symbol_location, symbol)
+
+
 def get_home_location():
     filename = inspect.getframeinfo(inspect.currentframe()).filename
     return os.path.dirname(os.path.abspath(filename))
@@ -464,7 +478,6 @@ def get_data_location():
 
 
 def main():
-    print('Get data from MOEX...')
     print_data(SymbolBig.SBER)
     home_location = get_home_location()
     data_dir = Const.DATA_DIR
@@ -473,6 +486,7 @@ def main():
     symbols_small = SymbolSmall.list()
     symbols_delta = SymbolDelta.list()
     symbols = symbols_big + symbols_small + symbols_delta
+    print('MOEX data downloader')
     print('Home location: {}'.format(home_location))
     print('Data dir     : {}'.format(data_dir))
     print('Data location: {}'.format(data_location))
@@ -480,6 +494,7 @@ def main():
     print('Symbols Small: {}'.format(symbols_small))
     print('Symbols Delta: {}'.format(symbols_delta))
     print('Symbols Total: {}'.format(len(symbols)))
+    download_data_symbols(data_location, symbols)
     print('Done.')
 
 
