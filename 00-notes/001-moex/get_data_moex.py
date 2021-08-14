@@ -28,11 +28,17 @@ from pathlib import Path
 import inspect
 import json
 import os
+import re
 import requests
 
 
 class Const(object):
     DATA_DIR = 'data_moex'
+    DATA_FILE_PATTERN = '^{name}\.\d\d\d\d-\d\d-\d\d\.json$'
+
+    @classmethod
+    def get_data_file_pattern(clazz, symbol_name):
+        return clazz.DATA_FILE_PATTERN.format(name=symbol_name)
 
 
 @unique
@@ -585,6 +591,20 @@ def print_data(symbol):
     print('last_datetime: {}'.format(last_datetime))
 
 
+def get_data_files(location, symbol_name):
+    data_file_pattern = Const.get_data_file_pattern(symbol_name)
+    r = re.compile(data_file_pattern)
+    return sorted([f for f in os.listdir(location) if r.match(f)])
+
+
+def get_latest_data_file(location, symbol_name):
+    files = get_data_files(location, symbol_name)
+    file_name = files[-1] if files else ''
+    if file_name:
+        print('Latest data file: {file_name}'.format(file_name=file_name))
+    return file_name
+
+
 def create_location_dirs(location):
     path = Path(location)
     if not path.exists():
@@ -595,6 +615,7 @@ def create_location_dirs(location):
 def download_data_symbol(symbol_location, symbol):
     print('Symbol location: {location}'.format(location=symbol_location))
     create_location_dirs(symbol_location)
+    get_latest_data_file(symbol_location, symbol.name)
 
 
 def download_data_symbols(data_location, symbols):
