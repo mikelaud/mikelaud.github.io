@@ -86,6 +86,23 @@ class Market(Enum):
 class Board(IntEnum):
     TQBR = 1
 
+    def __str__(self):
+        return self.name
+
+
+@unique
+class SymbolsGroup(IntEnum):
+    ALL   = 0
+    BIG   = 1
+    SMALL = 2
+    MIX   = 3
+    NIGHT = 4
+    BLUE  = 5
+    MOEX  = 6
+
+    def __str__(self):
+        return self.name
+
 
 @unique
 class Symbol(IntEnum):
@@ -169,8 +186,27 @@ class Symbol(IntEnum):
     YNDX  = 73
 
     @classmethod
+    def group(_):
+        return SymbolsGroup.ALL
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
+        return len(clazz)
+
+    @classmethod
+    def group_list(clazz):
+        return list(clazz)
+
+    @classmethod
     def to_string(_, symbols):
         return '{symbols}; ({count})'.format(symbols=','.join([s.name for s in symbols]), count=len(symbols))
+
+    def __str__(self):
+        return self.name
 
 
 @unique
@@ -206,12 +242,23 @@ class SymbolNight(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
-    def len(clazz):
+    def group(_):
+        return SymbolsGroup.NIGHT
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
         return len(clazz)
 
     @classmethod
-    def list(clazz):
+    def group_list(clazz):
         return list(clazz)
+
+    def __str__(self):
+        return self.name
 
 
 @unique
@@ -232,12 +279,23 @@ class SymbolBig(IntEnum):
     TATNP = Symbol.TATNP
 
     @classmethod
-    def len(clazz):
+    def group(_):
+        return SymbolsGroup.BIG
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
         return len(clazz)
 
     @classmethod
-    def list(clazz):
+    def group_list(clazz):
         return list(clazz)
+
+    def __str__(self):
+        return self.name
 
 
 @unique
@@ -256,12 +314,23 @@ class SymbolSmall(IntEnum):
     RTKMP = Symbol.RTKMP
 
     @classmethod
-    def len(clazz):
+    def group(_):
+        return SymbolsGroup.SMALL
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
         return len(clazz)
 
     @classmethod
-    def list(clazz):
+    def group_list(clazz):
         return list(clazz)
+
+    def __str__(self):
+        return self.name
 
 
 @unique
@@ -289,12 +358,23 @@ class SymbolMix(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
-    def len(clazz):
+    def group(_):
+        return SymbolsGroup.MIX
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
         return len(clazz)
 
     @classmethod
-    def list(clazz):
+    def group_list(clazz):
         return list(clazz)
+
+    def __str__(self):
+        return self.name
 
 
 @unique
@@ -338,12 +418,23 @@ class SymbolBlue(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
-    def len(clazz):
+    def group(_):
+        return SymbolsGroup.BLUE
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
         return len(clazz)
 
     @classmethod
-    def list(clazz):
+    def group_list(clazz):
         return list(clazz)
+
+    def __str__(self):
+        return self.name
 
 
 @unique
@@ -423,12 +514,23 @@ class SymbolMoex(IntEnum):
     YNDX  = Symbol.YNDX
 
     @classmethod
-    def len(clazz):
+    def group(_):
+        return SymbolsGroup.MOEX
+
+    @classmethod
+    def group_name(clazz):
+        return str(clazz.group())
+
+    @classmethod
+    def group_len(clazz):
         return len(clazz)
 
     @classmethod
-    def list(clazz):
+    def group_list(clazz):
         return list(clazz)
+
+    def __str__(self):
+        return self.name
 
 
 def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
@@ -483,16 +585,34 @@ def print_data(symbol):
 
 
 def download_data_symbol(symbol_location, symbol):
-    print('Symbol location: {}'.format(symbol_location))
+    print('Symbol location: {location}'.format(location=symbol_location))
 
 
 def download_data_symbols(data_location, symbols):
     symbols_total = len(symbols)
+    current_group_name = 'unknown'
+    current_number_in_group = 0
+    current_total_in_group = 0
     for index in range(symbols_total):
         symbol = symbols[index]
-        symbol_location = os.path.join(data_location, symbol)
+        symbol_name = symbol.name
+        symbol_group_name = symbol.group_name()
+        symbol_location = os.path.join(data_location, symbol_group_name, symbol_name)
         symbol_number = index + 1
-        print('Download symbol: {} ({} of {})'.format(symbol, symbol_number, symbols_total))
+        if current_group_name != symbol_group_name:
+            current_group_name = symbol_group_name
+            current_total_in_group = symbol.group_len()
+            current_number_in_group = 1
+        else:
+            current_number_in_group += 1
+        print('Download symbol: {symbol} ({number} of {total}) of group {group} ({number_in_group} of {total_in_group})'.format(
+            symbol=symbol_name,
+            number=symbol_number,
+            total=symbols_total,
+            group=symbol_group_name,
+            number_in_group=current_number_in_group,
+            total_in_group=current_total_in_group
+        ))
         download_data_symbol(symbol_location, symbol)
 
 
@@ -510,19 +630,19 @@ def main():
     home_location = get_home_location()
     data_dir = Const.DATA_DIR
     data_location = get_data_location()
-    symbols_big = SymbolBig.list()
-    symbols_small = SymbolSmall.list()
-    symbols_mix = SymbolMix.list()
+    symbols_big = SymbolBig.group_list()
+    symbols_small = SymbolSmall.group_list()
+    symbols_mix = SymbolMix.group_list()
     symbols = symbols_big + symbols_small + symbols_mix
     print('MOEX data downloader')
-    print('Home location: {}'.format(home_location))
-    print('Data dir     : {}'.format(data_dir))
-    print('Data location: {}'.format(data_location))
-    print('Symbols BIG  : {}'.format(Symbol.to_string(symbols_big)))
-    print('Symbols SMALL: {}'.format(Symbol.to_string(symbols_small)))
-    print('Symbols MIX  : {}'.format(Symbol.to_string(symbols_mix)))
-    print('Symbols Total: {}'.format(len(symbols)))
-    #download_data_symbols(data_location, symbols)
+    print('Home location: {location}'.format(location=home_location))
+    print('Data dir     : {data_dir}'.format(data_dir=data_dir))
+    print('Data location: {location}'.format(location=data_location))
+    print('Symbols BIG  : {symbols}'.format(symbols=Symbol.to_string(symbols_big)))
+    print('Symbols SMALL: {symbols}'.format(symbols=Symbol.to_string(symbols_small)))
+    print('Symbols MIX  : {symbols}'.format(symbols=Symbol.to_string(symbols_mix)))
+    print('Symbols Total: {count}'.format(count=len(symbols)))
+    download_data_symbols(data_location, symbols)
     print('Done.')
 
 
