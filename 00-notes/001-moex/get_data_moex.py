@@ -34,11 +34,16 @@ import requests
 
 class Const(object):
     DATA_DIR = 'data_moex'
-    DATA_FILE_NAME_PATTERN = '^{name}\.\d\d\d\d-\d\d-\d\d\.json$'
+    DATA_FILE_PATTERN = '^{name}\.(?P<date>\d\d\d\d-\d\d-\d\d)\.json$'
+    DATE_PATTERN = '%Y-%m-%d'
 
     @classmethod
-    def get_data_file_name_pattern(clazz, symbol_name):
-        return clazz.DATA_FILE_NAME_PATTERN.format(name=symbol_name)
+    def get_data_file_pattern(clazz, symbol_name):
+        return clazz.DATA_FILE_PATTERN.format(name=symbol_name)
+
+    @classmethod
+    def to_date(clazz, date_string):
+        return datetime.strptime(date_string, clazz.DATE_PATTERN).date()
 
 
 @unique
@@ -592,17 +597,23 @@ def print_data(symbol):
 
 
 def get_data_files(location, symbol_name):
-    data_file_pattern = Const.get_data_file_name_pattern(symbol_name)
+    data_file_pattern = Const.get_data_file_pattern(symbol_name)
     r = re.compile(data_file_pattern)
-    return sorted([f for f in os.listdir(location) if r.match(f)])
+    return sorted([(f, r.match(f).group('date'))
+        for f in os.listdir(location) if r.match(f)])
 
 
 def get_latest_data_file(location, symbol_name):
     files = get_data_files(location, symbol_name)
-    file_name = files[-1] if files else ''
-    if file_name:
-        print('Latest data file: {file_name}'.format(file_name=file_name))
-    return file_name
+    latest_file = files[-1] if files else None
+    if latest_file:
+        latest_location = os.path.join(location, latest_file[0])
+        latest_date = Const.to_date(latest_file[1])
+        print('Latest data file: {location}'.format(location=latest_location))
+        print('Latest data file date: {date} ({symbol})'.format(date=str(latest_date), symbol=symbol_name))
+        return (latest_location, latest_date)
+    else:
+        return (None, None)
 
 
 def create_location_dirs(location):
@@ -615,7 +626,7 @@ def create_location_dirs(location):
 def download_data_symbol(symbol_location, symbol):
     print('Symbol location: {location}'.format(location=symbol_location))
     create_location_dirs(symbol_location)
-    get_latest_data_file(symbol_location, symbol.name)
+    latest_file_location, latest_file_date = get_latest_data_file(symbol_location, symbol.name)
 
 
 def download_data_symbols(data_location, symbols):
