@@ -614,19 +614,6 @@ def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interv
     return requests.get(url=url, params=params)
 
 
-def print_data(symbol):
-    resp = get_data(symbol)
-    #data = resp.json()
-    #print(json.dumps(data, indent=4))
-    print(resp.text)
-    json = resp.json()
-    candles = json['candles']['data']
-    last_candle = candles[-1]
-    last_datetime_string = last_candle[7]
-    last_datetime = Const.to_datetime(last_datetime_string)
-    print('last_datetime: {}'.format(last_datetime))
-
-
 def get_data_files(location, symbol_name):
     data_file_pattern = Const.get_data_file_pattern(symbol_name)
     r = re.compile(data_file_pattern)
@@ -657,16 +644,70 @@ def create_location_dirs(location):
         path.mkdir(parents=True, exist_ok=True)
 
 
+def clean_day_candles(candles, first_date):
+    day_candles = []
+    for candle in candles:
+        candle_date = Const.to_datetime(candle[7]).date()
+        if not (first_date == candle_date):
+            break
+        day_candles += [ candle ]
+    return day_candles
+
+
+def download_day_candles(symbol, latest_datetime_string):
+    from_date_string = latest_datetime_string
+    to_date_string = Const.from_date(Const.get_max_date())
+    candles = []
+    while True:
+        candles_cursor = len(candles)
+        json_data = get_data(
+            symbol=symbol,
+            from_date=from_date_string,
+            till_date=to_date_string,
+            data_interval=DataInterval.M1,
+            cursor_start=candles_cursor
+        ).json()
+        new_candles = json_data['candles']['data']
+        if not new_candles:
+            break
+        candles += new_candles
+        first_date = Const.to_datetime(candles[0][6]).date()
+        last_date = Const.to_datetime(candles[-1][7]).date()
+        if not (first_date == last_date):
+            break
+    if not candles:
+        return (None, None)
+    day_candles = clean_day_candles(candles, first_date)
+    json_data['candles']['data'] = day_candles
+    day_date = first_date
+    print('Symbol {symbol} candles count: {count} ({date})'.format(
+        symbol=symbol.name,
+        count=len(day_candles), date=Const.from_date(day_date)
+    ))
+    return (json_data, day_date)
+
+
 def download_data_symbol(symbol_location, symbol):
     print('Symbol location: {location}'.format(location=symbol_location))
     create_location_dirs(symbol_location)
     symbol_name = symbol.name
     latest_file_location, latest_date = get_latest_data_file(symbol_location, symbol_name)
     latest_datetime = Const.date_to_datetime(latest_date)
+    latest_datetime_string = Const.from_datetime(latest_datetime)
     print('Latest datetime: {latest} ({symbol})'.format(
-        latest=Const.from_datetime(latest_datetime),
+        latest=latest_datetime,
         symbol=symbol_name
     ))
+    while True:
+        json_data, day_date = download_day_candles(symbol, latest_datetime_string)
+        if not day_date:
+            break
+        file_name = '{name}.{date}.json'.format(name=symbol_name, date=Const.from_date(day_date))
+        file_location = os.path.join(symbol_location, file_name)
+        print('Create new data file: {location}'.format(location=file_location))
+        with open(file_location, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, ensure_ascii=False, indent=4)
+        latest_datetime_string = Const.date_to_datetime(day_date)
 
 
 def download_data_symbols(data_location, symbols):
@@ -707,7 +748,6 @@ def get_data_location():
 
 
 def main():
-    print_data(SymbolBig.SBER)
     home_location = get_home_location()
     data_dir = Const.DATA_DIR
     data_location = get_data_location()
@@ -715,6 +755,7 @@ def main():
     symbols_small = SymbolSmall.group_list()
     symbols_mix = SymbolMix.group_list()
     symbols = symbols_big + symbols_small + symbols_mix
+    #symbols = [ SymbolBig.SBER ] # DEBUG
     print('MOEX data downloader')
     print('Home location: {location}'.format(location=home_location))
     print('Data dir     : {data_dir}'.format(data_dir=data_dir))
