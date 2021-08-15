@@ -35,7 +35,8 @@ import requests
 class Const(object):
     DATA_DIR = 'data_moex'
     DATA_FILE_PATTERN = '^{name}\.(?P<date>\d\d\d\d-\d\d-\d\d)\.json$'
-    DATE_PATTERN = '%Y-%m-%d'
+    DATE_FORMAT = '%Y-%m-%d'
+    DATETIME_FORMAT = '%Y-%m-%d %H:%M:%S'
 
     @classmethod
     def get_data_file_pattern(clazz, symbol_name):
@@ -43,7 +44,23 @@ class Const(object):
 
     @classmethod
     def to_date(clazz, date_string):
-        return datetime.strptime(date_string, clazz.DATE_PATTERN).date()
+        return datetime.strptime(date_string, clazz.DATE_FORMAT).date()
+
+    @classmethod
+    def to_datetime(clazz, datetime_string):
+        return datetime.strptime(datetime_string, clazz.DATETIME_FORMAT)
+
+    @classmethod
+    def from_date(clazz, date):
+        return date.strftime(clazz.DATE_FORMAT)
+
+    @classmethod
+    def from_datetime(clazz, datetime):
+        return datetime.strftime(clazz.DATETIME_FORMAT)
+
+    @classmethod
+    def date_to_datetime(_, date):
+        return datetime.combine(date, time.max)
 
 
 @unique
@@ -577,12 +594,6 @@ def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interv
     return requests.get(url=url, params=params)
 
 
-def parse_datetime(datetime_string):
-    """ Example: '2012-01-03 18:19:59'
-    """
-    return datetime.strptime(datetime_string, '%Y-%m-%d %H:%M:%S')
-
-
 def print_data(symbol):
     resp = get_data(symbol)
     #data = resp.json()
@@ -592,7 +603,7 @@ def print_data(symbol):
     candles = json['candles']['data']
     last_candle = candles[-1]
     last_datetime_string = last_candle[7]
-    last_datetime = parse_datetime(last_datetime_string)
+    last_datetime = Const.to_datetime(last_datetime_string)
     print('last_datetime: {}'.format(last_datetime))
 
 
@@ -626,9 +637,13 @@ def create_location_dirs(location):
 def download_data_symbol(symbol_location, symbol):
     print('Symbol location: {location}'.format(location=symbol_location))
     create_location_dirs(symbol_location)
-    latest_file_location, latest_date = get_latest_data_file(symbol_location, symbol.name)
-    latest_datetime = datetime.combine(latest_date, time.max)
-    print('Latest datetime: {latest}'.format(latest=str(latest_datetime)))
+    symbol_name = symbol.name
+    latest_file_location, latest_date = get_latest_data_file(symbol_location, symbol_name)
+    latest_datetime = Const.date_to_datetime(latest_date)
+    print('Latest datetime: {latest} ({symbol})'.format(
+        latest=Const.from_datetime(latest_datetime),
+        symbol=symbol_name
+    ))
 
 
 def download_data_symbols(data_location, symbols):
