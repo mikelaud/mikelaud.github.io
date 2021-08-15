@@ -604,14 +604,19 @@ def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interv
     https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.json?from=1992-01-01&till=2021-12-31&interval=1&start=0
     """
     url = get_url(symbol)
-    print('URL: {url}'.format(url=url))
     params = {
         'from'    : from_date,
         'till'    : till_date,
         'interval': data_interval.value,
         'start'   : cursor_start
     }
-    return requests.get(url=url, params=params)
+    print('URL: {url}; params: {params}'.format(url=url, params=params))
+    while True:
+        try:
+            return requests.get(url=url, params=params, timeout=5)
+        except timeout:
+            print('Retry after timeout...')
+            continue
 
 
 def get_data_files(location, symbol_name):
