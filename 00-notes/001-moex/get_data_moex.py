@@ -22,7 +22,7 @@ git push
 =============================================
 """
 
-from datetime import datetime
+from datetime import date, datetime, time
 from enum import Enum, IntEnum, unique
 from pathlib import Path
 import inspect
@@ -613,7 +613,7 @@ def get_latest_data_file(location, symbol_name):
         print('Latest data file date: {date} ({symbol})'.format(date=str(latest_date), symbol=symbol_name))
         return (latest_location, latest_date)
     else:
-        return (None, None)
+        return ('', date.min)
 
 
 def create_location_dirs(location):
@@ -626,7 +626,9 @@ def create_location_dirs(location):
 def download_data_symbol(symbol_location, symbol):
     print('Symbol location: {location}'.format(location=symbol_location))
     create_location_dirs(symbol_location)
-    latest_file_location, latest_file_date = get_latest_data_file(symbol_location, symbol.name)
+    latest_file_location, latest_date = get_latest_data_file(symbol_location, symbol.name)
+    latest_datetime = datetime.combine(latest_date, time.max)
+    print('Latest datetime: {latest}'.format(latest=str(latest_datetime)))
 
 
 def download_data_symbols(data_location, symbols):
