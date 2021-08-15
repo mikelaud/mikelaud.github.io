@@ -614,7 +614,7 @@ def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interv
     while True:
         try:
             return requests.get(url=url, params=params, timeout=5)
-        except timeout:
+        except requests.exceptions.ConnectTimeout:
             print('Retry after timeout...')
             continue
 
