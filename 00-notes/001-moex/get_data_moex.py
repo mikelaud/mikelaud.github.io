@@ -43,6 +43,12 @@ class Const(object):
         return clazz.DATA_FILE_PATTERN.format(name=symbol_name)
 
     @classmethod
+    def get_min_date(_):
+        """MICEX opened in 1992
+        """
+        return date(1992, 1, 1)
+
+    @classmethod
     def to_date(clazz, date_string):
         return datetime.strptime(date_string, clazz.DATE_FORMAT).date()
 
@@ -621,10 +627,13 @@ def get_latest_data_file(location, symbol_name):
         latest_location = os.path.join(location, latest_file[0])
         latest_date = Const.to_date(latest_file[1])
         print('Latest data file: {location}'.format(location=latest_location))
-        print('Latest data file date: {date} ({symbol})'.format(date=str(latest_date), symbol=symbol_name))
+        print('Latest data file date: {date} ({symbol})'.format(
+            date=Const.from_date(latest_date),
+            symbol=symbol_name
+        ))
         return (latest_location, latest_date)
     else:
-        return ('', date.min)
+        return ('', Const.get_min_date())
 
 
 def create_location_dirs(location):
