@@ -43,10 +43,24 @@ class Const(object):
         return clazz.DATA_FILE_PATTERN.format(name=symbol_name)
 
     @classmethod
-    def get_min_date(_):
+    def get_min_datetime(_):
         """MICEX opened in 1992
         """
-        return date(1992, 1, 1)
+        return datetime(1992, 1, 1)
+
+    @classmethod
+    def get_min_date(clazz):
+        """MICEX opened in 1992
+        """
+        return clazz.get_min_datetime().date()
+
+    @classmethod
+    def get_max_datetime(_):
+        return datetime.max
+
+    @classmethod
+    def get_max_date(clazz):
+        return clazz.get_max_datetime().date()
 
     @classmethod
     def to_date(clazz, date_string):
