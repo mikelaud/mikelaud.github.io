@@ -447,8 +447,13 @@
   </p></details>
 
 </p></details>
-<details><summary>3) Alexey Redozubov</summary><p>
+<details><summary>3) Yann LeCun</summary><p>
+</p></details>
 
+</p></details>
+<details><summary>4) Alexey Redozubov</summary><p>
+
+  
 ### [Alexey Redozubov](https://www.youtube.com/user/aldrd)
 1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
 2. [Что такое сознание и какова его природа?](https://www.youtube.com/watch?v=FDYikQOKKKk)
