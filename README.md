@@ -448,7 +448,9 @@
 
 </p></details>
 <details><summary>3) Yann LeCun</summary><p>
-</p></details>
+  
+### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+### [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 </p></details>
 <details><summary>4) Alexey Redozubov</summary><p>
