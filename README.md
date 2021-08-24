@@ -451,6 +451,35 @@
   
 ### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 - 01 – History and resources
+- 01L – Gradient descent and the backpropagation algorithm
+- 02 – Neural nets: rotation and squashing
+- 02L – Modules and architectures
+- 03 – Tools, classification with neural nets, PyTorch implementation
+- 03L – Parameter sharing: recurrent and convolutional nets
+- 04L – ConvNet in practice
+- 04.1 – Natural signals properties and the convolution
+- 04.2 – Recurrent neural networks, vanilla and gated (LSTM)
+- 05L – Joint embedding method and latent variable energy based models (LV-EBMs)
+- 05.1 – Latent Variable Energy Based Models (LV-EBMs), inference
+- 05.2 – But what are these EBMs used for?
+- 06L – Latent variable EBMs for structured prediction
+- 06 – Latent Variable Energy Based Models (LV-EBMs), training
+- 07L – PCA, AE, K-means, Gaussian mixture model, sparse coding, and intuitive VAE
+- 07 – Unsupervised learning: autoencoding the targets
+- 08L – Self-supervised learning and variational inference
+- 08 – From LV-EBM to target prop to (vanilla, denoising, contractive, variational) autoencoder
+- 09L – Differentiable associative memories, attention, and transformers
+- 09 – AE, DAE, and VAE with PyTorch; generative adversarial networks (GAN) and code
+- 10L – Self-supervised learning in computer vision
+- 10 – Self / cross, hard / soft attention and the Transformer
+- 11L – Speech recognition and Graph Transformer Networks
+- 11 – Graph Convolutional Networks (GCNs)
+- 12L – Low resource machine translation
+- 12 – Planning and control
+- 13L – Optimisation for Deep Learning
+- 13 – The Truck Backer-Upper
+- 14L – Lagrangian backpropagation, final project winners, and Q&A session
+- 14 – Prediction and Planning Under Uncertainty
  
 ### [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
