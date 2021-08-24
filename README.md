@@ -450,6 +450,8 @@
 <details><summary>3) Yann LeCun</summary><p>
   
 ### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+- 01 – History and resources
+ 
 ### [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 </p></details>
