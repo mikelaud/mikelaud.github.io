@@ -451,7 +451,7 @@
   
 ### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 - [01 – History and resources](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=1)
-- 01L – Gradient descent and the backpropagation algorithm
+- [01L – Gradient descent and the backpropagation algorithm](https://www.youtube.com/watch?v=nTlCqaL7fCY&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=2)
 - 02 – Neural nets: rotation and squashing
 - 02L – Modules and architectures
 - 03 – Tools, classification with neural nets, PyTorch implementation
