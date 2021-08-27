@@ -450,7 +450,7 @@
 <details><summary>3) Yann LeCun</summary><p>
   
 ### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
-- 01 – History and resources
+- [01 – History and resources](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=1)
 - 01L – Gradient descent and the backpropagation algorithm
 - 02 – Neural nets: rotation and squashing
 - 02L – Modules and architectures
