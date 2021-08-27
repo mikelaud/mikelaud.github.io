@@ -583,21 +583,6 @@ class SymbolMoex(IntEnum):
         return self.name
 
 
-def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
-    """ Example:
-    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles
-    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.xml
-    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.json
-    """
-    url_template = 'https://iss.moex.com/iss/engines/{engine}/markets/{market}/boards/{board}/securities/{symbol}/candles.{data_format}'
-    return url_template.format(
-        symbol=symbol.name,
-        data_format=data_format.value,
-        engine=engine.value,
-        market=market.value,
-        board=board.name)
-
-
 def download_url(url, params={}):
     print('Download URL: {url}; params: {params}'.format(url=url, params=params))
     while True:
@@ -612,6 +597,21 @@ def download_url(url, params={}):
         except requests.exceptions.ReadTimeout:
             print('Retry after ReadTimeout...')
             continue
+
+
+def get_url(symbol, data_format=DataFormat.JSON, engine=Engine.STOCK, market=Market.SHARES, board=Board.TQBR):
+    """ Example:
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.xml
+    https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/SBER/candles.json
+    """
+    url_template = 'https://iss.moex.com/iss/engines/{engine}/markets/{market}/boards/{board}/securities/{symbol}/candles.{data_format}'
+    return url_template.format(
+        symbol=symbol.name,
+        data_format=data_format.value,
+        engine=engine.value,
+        market=market.value,
+        board=board.name)
 
 
 def get_data(symbol, from_date='2000-01-01', till_date='2030-12-31', data_interval=DataInterval.M1, cursor_start=0):
