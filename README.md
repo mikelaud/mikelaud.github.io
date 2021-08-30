@@ -454,8 +454,8 @@
 - [01L – Gradient descent and the backpropagation algorithm](https://www.youtube.com/watch?v=nTlCqaL7fCY&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=2)
 - [02 – Neural nets: rotation and squashing](https://www.youtube.com/watch?v=0TdAmZUMj2k&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=3)
 - [02L – Modules and architectures](https://www.youtube.com/watch?v=IYQN3i7dJIQ&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=4)
-- 03 – Tools, classification with neural nets, PyTorch implementation
-- 03L – Parameter sharing: recurrent and convolutional nets
+- [03 – Tools, classification with neural nets, PyTorch implementation](https://www.youtube.com/watch?v=EyKiYVwrdjE&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=5)
+- [03L – Parameter sharing: recurrent and convolutional nets](https://www.youtube.com/watch?v=7dU3TFBJl-0&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=6)
 - 04L – ConvNet in practice
 - 04.1 – Natural signals properties and the convolution
 - 04.2 – Recurrent neural networks, vanilla and gated (LSTM)
