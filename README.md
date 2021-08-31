@@ -450,8 +450,8 @@
 <details><summary>3) Yann LeCun</summary><p>
   
 ### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
-1. 01: [History and resources](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=1)
-2. 01L: [Gradient descent and the backpropagation algorithm](https://www.youtube.com/watch?v=nTlCqaL7fCY&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=2)
+1. [01 - History and resources](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=1)
+2. [01L - Gradient descent and the backpropagation algorithm](https://www.youtube.com/watch?v=nTlCqaL7fCY&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=2)
 3. 02: [Neural nets: rotation and squashing](https://www.youtube.com/watch?v=0TdAmZUMj2k&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=3)
 4. 02L: [Modules and architectures](https://www.youtube.com/watch?v=IYQN3i7dJIQ&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=4)
 5. 03: [Tools, classification with neural nets, PyTorch implementation](https://www.youtube.com/watch?v=EyKiYVwrdjE&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=5)
