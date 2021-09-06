@@ -497,6 +497,8 @@
   13. [Week 7 – Practicum: Under- and over-complete autoencoders](https://www.youtube.com/watch?v=bggWQ14DD9M&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=13)
   14. [Week 8 – Lecture: Contrastive methods and regularised latent variable models](https://www.youtube.com/watch?v=ZaVP2SY23nc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=14)
   15. [Week 8 – Practicum: Variational autoencoders](https://www.youtube.com/watch?v=7Rb4s9wNOmc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=15)
+  16. [Week 9 – Lecture: Group sparsity, world model, and generative adversarial networks (GANs)](https://www.youtube.com/watch?v=Pgct8PKV7iw&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=16)
+  17. [Week 9 – Practicum: (Energy-based) Generative adversarial networks](https://www.youtube.com/watch?v=xYc11zyZ26M&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=17)
 
 </p></details>
 <details><summary>4) Alexey Redozubov</summary><p>
