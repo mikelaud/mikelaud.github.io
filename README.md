@@ -499,6 +499,8 @@
   15. [Week 8 – Practicum: Variational autoencoders](https://www.youtube.com/watch?v=7Rb4s9wNOmc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=15)
   16. [Week 9 – Lecture: Group sparsity, world model, and generative adversarial networks (GANs)](https://www.youtube.com/watch?v=Pgct8PKV7iw&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=16)
   17. [Week 9 – Practicum: (Energy-based) Generative adversarial networks](https://www.youtube.com/watch?v=xYc11zyZ26M&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=17)
+  18. [Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)](https://www.youtube.com/watch?v=0KeR6i1_56g&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=18)
+  19. [Week 10 – Practicum: The Truck Backer-Upper](https://www.youtube.com/watch?v=A3klBqEWR-I&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=19)
 
 </p></details>
 <details><summary>4) Alexey Redozubov</summary><p>
