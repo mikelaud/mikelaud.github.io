@@ -501,6 +501,8 @@
   17. [Week 9 – Practicum: (Energy-based) Generative adversarial networks](https://www.youtube.com/watch?v=xYc11zyZ26M&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=17)
   18. [Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)](https://www.youtube.com/watch?v=0KeR6i1_56g&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=18)
   19. [Week 10 – Practicum: The Truck Backer-Upper](https://www.youtube.com/watch?v=A3klBqEWR-I&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=19)
+  20. [Week 11 – Lecture: PyTorch activation and loss functions](https://www.youtube.com/watch?v=bj1fh3BvqSU&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=20)
+  21. [Week 11 – Practicum: Prediction and Policy learning Under Uncertainty (PPUU)](https://www.youtube.com/watch?v=VcrCr-KNBHc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=21)
 
 </p></details>
 <details><summary>4) Alexey Redozubov</summary><p>
