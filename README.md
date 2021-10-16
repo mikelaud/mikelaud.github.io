@@ -66,10 +66,11 @@
 
 ## ML Intro
 1. [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook-dp-B012271YB2/dp/B012271YB2) _(Pedro Domingos)_
-2. [Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G) _(Tariq Rashid)_
-3. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-ebook/dp/B07XL53Y4C) _(Seth Weidman)_
-4. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-ebook/dp/B07TWT9VN6) _(David Foster)_
-5. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Kevin Ferguson, Max Pumperla)_
+2. [Quand la machine apprend](https://www.amazon.com/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) _(Yann Le Cun)_ [+RU](https://www.amazon.com/%D0%9A%D0%B0%D0%BA-%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0-artificiels-l%60apprentissage-ebook/dp/B09HV7RVM3/)
+3. [Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G) _(Tariq Rashid)_
+4. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-ebook/dp/B07XL53Y4C) _(Seth Weidman)_
+5. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-ebook/dp/B07TWT9VN6) _(David Foster)_
+6. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Kevin Ferguson, Max Pumperla)_
 
 ## ML Practice
 1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller, Sarah Guido)_
