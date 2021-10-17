@@ -541,6 +541,7 @@
 #### Bonus Ideas: West
   - [The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
   - [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
+  - [Kurs aktivnogo treydera (RU)](https://www.amazon.com/Kurs-aktivnogo-treydera-prodavay-zarabatyvay/dp/5961423743) _(A. Gerchik)_
 #### Bonus Ideas: East
   - [Japanese Candlestick Charting Techniques](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Contemporary-ebook-dp-B00CS74GBM/dp/B00CS74GBM) _(Steve Nison)_
   - [Candlestick Charting Explained](https://www.amazon.com/gp/product/B003WJR5PE) _(Gregory L. Morris)_
