@@ -448,7 +448,7 @@
   </p></details>
 
 </p></details>
-<details><summary>3) Yann Le Cun</summary><p>
+<details><summary>3) Yann LeCun</summary><p>
   
 ### [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
   1. [01 - History and resources](https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=1)
