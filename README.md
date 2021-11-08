@@ -14,49 +14,56 @@
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Tupaia_tana_J_Smit.jpg)
 
 </p></details>
-<details><summary>3) Python for Finance</summary><p>
+<details><summary>3) Financial Theory with Python</summary><p>
+
+## [Financial Theory with Python](https://www.amazon.com/Financial-Theory-Python-Yves-Hilpisch-ebook/dp/B09H22LXJG) _(Yves Hilpisch)_
+[![Financial Theory with Python](03-financial-theory-with-python/cover/.jpg?raw=true "Financial Theory with Python")](03-financial-theory-with-python)
+[<sub><sup>(c)</sup></sub>](https://.jpg)
+
+</p></details>
+<details><summary>4) Python for Finance</summary><p>
 
 ## [Python for Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P) _(Yves Hilpisch)_
 [![Python for Finance](03-python-for-finance/cover/solenodon_cubanus_320.jpg?raw=true "Python for Finance")](03-python-for-finance)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Abhandlungen_der_K%C3%B6niglichen_Akademie_der_Wissenschaften_in_Berlin_(1863)_(16740609846).jpg)
 
 </p></details>
-<details><summary>4) Python for Algorithmic Trading</summary><p>
+<details><summary>5) Python for Algorithmic Trading</summary><p>
 
 ## [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
 [![Python for Algorithmic Trading](04-python-for-algorithmic-trading/cover/coluber_natrix_320.jpg?raw=true "Python for Algorithmic Trading")](04-python-for-algorithmic-trading)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Die_Schlangen_W%C3%BCrttembergs_(Plate-_Coluber_Natrix)_BHL4389908.jpg)
 
 </p></details>
-<details><summary>5) Artificial Intelligence in Finance</summary><p>
+<details><summary>6) Artificial Intelligence in Finance</summary><p>
 
 ## [Artificial Intelligence in Finance](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based-Guide-ebook/dp/B08L7232B5) _(Yves Hilpisch)_
 [![Artificial Intelligence in Finance](05-artificial-intelligence-in-finance/cover/arvicola_pratensis_320.jpg?raw=true "Artificial Intelligence in Finance")](05-artificial-intelligence-in-finance)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Arvicola_pratensis_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20500125.tif)
 
 </p></details>
-<details><summary>6) Machine Learning and Data Science Blueprints for Finance</summary><p>
+<details><summary>7) Machine Learning and Data Science Blueprints for Finance</summary><p>
 
 ## [Machine Learning and Data Science Blueprints for Finance](https://www.amazon.com/Machine-Learning-Science-Blueprints-Finance-ebook/dp/B08KKDXNV4) _(Hariom Tatsat)_
 [![Machine Learning and Data Science Blueprints for Finance](06-ml-and-ds-blueprints-for-finance/cover/coturnix_coturnix_320.jpg?raw=true "Machine Learning and Data Science Blueprints for Finance")](06-ml-and-ds-blueprints-for-finance)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Coturnix_coturnix_1873.jpg)
 
 </p></details>
-<details><summary>7) Advances in Financial Machine Learning</summary><p>
+<details><summary>8) Advances in Financial Machine Learning</summary><p>
 
 ## [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 [![Advances in Financial Machine Learning](07-advances-in-financial-ml/cover/altair_320.jpg?raw=true "Advances in Financial Machine Learning")](07-advances-in-financial-ml)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:Altair_8800_(RetroMadrid_2018)_b.jpg)
 
 </p></details>
-<details><summary>8) Machine Learning for Asset Managers</summary><p>
+<details><summary>9) Machine Learning for Asset Managers</summary><p>
 
 ## [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R) _(Marcos López de Prado)_
 [![Machine Learning for Asset Managers](08-ml-for-asset-managers/cover/sombrero_320.jpg?raw=true "Machine Learning for Asset Managers")](08-ml-for-asset-managers)
 [<sub><sup>(c)</sup></sub>](https://commons.wikimedia.org/wiki/File:M104_ngc4594_sombrero_galaxy_hi-res.jpg)
 
 </p></details>
-<details><summary>9) Marcos López de Prado</summary><p>
+<details><summary>10) Marcos López de Prado</summary><p>
 
 ## [Marcos López de Prado](https://www.quantresearch.org)
 [![Marcos López de Prado](09-marcos-lopez-de-prado/cover/black_hole_320.jpg?raw=true "Marcos López de Prado")](09-marcos-lopez-de-prado)
