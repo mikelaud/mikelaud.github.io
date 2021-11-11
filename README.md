@@ -71,7 +71,7 @@
 
 </p></details>
 
-## ✅ML Intro
+## ML Intro
 1. ✅[The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook-dp-B012271YB2/dp/B012271YB2) _(Pedro Domingos)_
 2. ✅[Quand la machine apprend](https://www.amazon.com/Quand-machine-apprend-artificiels-lapprentissage-ebook/dp/B083L52K5R) _(Yann LeCun)_ [+RU](https://www.amazon.com/%D0%9A%D0%B0%D0%BA-%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0-artificiels-l%60apprentissage-ebook/dp/B09HV7RVM3/)
 3. ✅[Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G) _(Tariq Rashid)_
@@ -87,7 +87,7 @@
 
 ## ML Video Lectures
 
-<details><summary>1) Jürgen Schmidhuber</summary><p>
+<details><summary>1) ✅Jürgen Schmidhuber</summary><p>
 
 ### ✅[Jürgen Schmidhuber](http://people.idsia.ch/~juergen) [_(LSTM inventor)_](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
 1. ✅[Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) <sub><sup>[_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)</sup></sub>
@@ -513,7 +513,7 @@
   21. [Week 11 – Practicum: Prediction and Policy learning Under Uncertainty (PPUU)](https://www.youtube.com/watch?v=VcrCr-KNBHc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=21)
 
 </p></details>
-<details><summary>4) Alexey Redozubov</summary><p>
+<details><summary>4) ✅Alexey Redozubov</summary><p>
 
   
 ### ✅[Alexey Redozubov](https://www.youtube.com/user/aldrd)
@@ -527,7 +527,7 @@
 
 ## ML Feature Ideas: Technical Analysis (Trading)
 
-<details><summary>1) Trading Intro</summary><p>
+<details><summary>1) ✅Trading Intro</summary><p>
 
 ### 1) ✅Trading Intro
   - ✅[The New Trading for a Living](https://www.amazon.com/gp/product/B00MFPZAWG) _(Alexander Elder)_
@@ -535,7 +535,7 @@
   - ✅[The New Sell and Sell Short](https://www.amazon.com/gp/product/B004PGMI14) _(Alexander Elder)_
 
 </p></details>
-<details><summary>2) Trading Practice</summary><p>
+<details><summary>2) ✅Trading Practice</summary><p>
   
 ### 2) ✅Trading Practice
   - ✅[High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook-dp-B001KAM6U6/dp/B001KAM6U6) _(Robert C. Miner)_
@@ -545,7 +545,7 @@
 <details><summary>3) Bonus Ideas</summary><p>
 
 ### 3) Bonus Ideas
-#### Bonus Ideas: West
+#### ✅Bonus Ideas: West
   - ✅[The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
   - ✅[Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
   - ✅[Kurs aktivnogo treydera (RU)](https://www.amazon.com/Kurs-aktivnogo-treydera-prodavay-zarabatyvay/dp/5961423743) _(A. Gerchik)_
