@@ -71,7 +71,7 @@
 
 </p></details>
 
-## ML Intro
+## ✅ML Intro
 1. ✅[The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook-dp-B012271YB2/dp/B012271YB2) _(Pedro Domingos)_
 2. ✅[Quand la machine apprend](https://www.amazon.com/Quand-machine-apprend-artificiels-lapprentissage-ebook/dp/B083L52K5R) _(Yann LeCun)_ [+RU](https://www.amazon.com/%D0%9A%D0%B0%D0%BA-%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0-artificiels-l%60apprentissage-ebook/dp/B09HV7RVM3/)
 3. ✅[Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G) _(Tariq Rashid)_
@@ -80,7 +80,7 @@
 6. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Kevin Ferguson, Max Pumperla)_
 
 ## ML Practice
-1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller, Sarah Guido)_
+1. ✅[Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller, Sarah Guido)_
 2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87) _(Aurélien Géron)_
 3. [Python Machine Learning](https://www.amazon.com/gp/product/B07VBLX2W7) _(Sebastian Raschka)_
 4. [Machine Learning in Finance](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice-ebook/dp/B08C4WLYM2) _(Matthew F. Dixon, Igor Halperin, Paul Bilokon)_
@@ -89,13 +89,13 @@
 
 <details><summary>1) Jürgen Schmidhuber</summary><p>
 
-### [Jürgen Schmidhuber](http://people.idsia.ch/~juergen) [_(LSTM inventor)_](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
-1. [Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) <sub><sup>[_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)</sup></sub>
-2. [Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ) <sub><sup>[_(Глубокие нейросети с прямой связью)_](https://www.youtube.com/watch?v=ZJ-zT4-mIm8)</sup></sub>
-3. [Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY) <sub><sup>[_(Долгая краткосрочная память)_](https://www.youtube.com/watch?v=D2yW1UK8uC8)</sup></sub>
-4. [Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ) <sub><sup>[_(Машина Гёделя)_](https://www.youtube.com/watch?v=YNCxfFIIrB8)</sup></sub>
-5. [Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI) <sub><sup>[_(Скоростная вероятность)_](https://www.youtube.com/watch?v=xwQmrZR8K58)</sup></sub>
-6. [True Artificial Intelligence will change everything](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
+### ✅[Jürgen Schmidhuber](http://people.idsia.ch/~juergen) [_(LSTM inventor)_](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
+1. ✅[Deep Learning](https://www.youtube.com/watch?v=WgynzzThQuA) <sub><sup>[_(Глубокое обучение)_](https://www.youtube.com/watch?v=KPy3cTz4PPA)</sup></sub>
+2. ✅[Deep Feedforward Neural Networks](https://www.youtube.com/watch?v=yXGUwE-LHTQ) <sub><sup>[_(Глубокие нейросети с прямой связью)_](https://www.youtube.com/watch?v=ZJ-zT4-mIm8)</sup></sub>
+3. ✅[Long Short-Term Memory](https://www.youtube.com/watch?v=cIxlZQ5yPaY) <sub><sup>[_(Долгая краткосрочная память)_](https://www.youtube.com/watch?v=D2yW1UK8uC8)</sup></sub>
+4. ✅[Gödel Machine](https://www.youtube.com/watch?v=voczu4I3_xQ) <sub><sup>[_(Машина Гёделя)_](https://www.youtube.com/watch?v=YNCxfFIIrB8)</sup></sub>
+5. ✅[Speed Prior](https://www.youtube.com/watch?v=V2KtvlJf6fI) <sub><sup>[_(Скоростная вероятность)_](https://www.youtube.com/watch?v=xwQmrZR8K58)</sup></sub>
+6. ✅[True Artificial Intelligence will change everything](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
 
 </p></details>
 <details><summary>2) Sebastian Raschka</summary><p>
@@ -516,12 +516,12 @@
 <details><summary>4) Alexey Redozubov</summary><p>
 
   
-### [Alexey Redozubov](https://www.youtube.com/user/aldrd)
-1. [Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
-2. [Что такое сознание и какова его природа?](https://www.youtube.com/watch?v=FDYikQOKKKk)
-3. [Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
-4. [Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
-5. [Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
+### ✅[Alexey Redozubov](https://www.youtube.com/user/aldrd)
+1. ✅[Возможен ли искусственный интеллект?](https://www.youtube.com/watch?v=VJBhH299-Rs)
+2. ✅[Что такое сознание и какова его природа?](https://www.youtube.com/watch?v=FDYikQOKKKk)
+3. ✅[Возможен ли искусственный интеллект без эмоций?](https://www.youtube.com/watch?v=Pe1MYj7mceI)
+4. ✅[Как работает человеческая память?](https://www.youtube.com/watch?v=sf15hC8SuEE)
+5. ✅[Трансгуманизм](https://www.youtube.com/watch?v=93DYvd3ar0Q)
 
 </p></details>
 
@@ -529,26 +529,26 @@
 
 <details><summary>1) Trading Intro</summary><p>
 
-### 1) Trading Intro
-  - [The New Trading for a Living](https://www.amazon.com/gp/product/B00MFPZAWG) _(Alexander Elder)_
-  - [Come Into My Trading Room](https://www.amazon.com/gp/product/B000VIBV3Q) _(Alexander Elder)_
-  - [The New Sell and Sell Short](https://www.amazon.com/gp/product/B004PGMI14) _(Alexander Elder)_
+### 1) ✅Trading Intro
+  - ✅[The New Trading for a Living](https://www.amazon.com/gp/product/B00MFPZAWG) _(Alexander Elder)_
+  - ✅[Come Into My Trading Room](https://www.amazon.com/gp/product/B000VIBV3Q) _(Alexander Elder)_
+  - ✅[The New Sell and Sell Short](https://www.amazon.com/gp/product/B004PGMI14) _(Alexander Elder)_
 
 </p></details>
 <details><summary>2) Trading Practice</summary><p>
   
-### 2) Trading Practice
-  - [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook-dp-B001KAM6U6/dp/B001KAM6U6) _(Robert C. Miner)_
-  - [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
+### 2) ✅Trading Practice
+  - ✅[High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook-dp-B001KAM6U6/dp/B001KAM6U6) _(Robert C. Miner)_
+  - ✅[Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
 
 </p></details>
 <details><summary>3) Bonus Ideas</summary><p>
 
 ### 3) Bonus Ideas
 #### Bonus Ideas: West
-  - [The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
-  - [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
-  - [Kurs aktivnogo treydera (RU)](https://www.amazon.com/Kurs-aktivnogo-treydera-prodavay-zarabatyvay/dp/5961423743) _(A. Gerchik)_
+  - ✅[The New Science of Technical Analysis](https://www.amazon.com/gp/product/B000WLLWMC) _(Thomas R. DeMark)_
+  - ✅[Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
+  - ✅[Kurs aktivnogo treydera (RU)](https://www.amazon.com/Kurs-aktivnogo-treydera-prodavay-zarabatyvay/dp/5961423743) _(A. Gerchik)_
 #### Bonus Ideas: East
   - [Japanese Candlestick Charting Techniques](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Contemporary-ebook-dp-B00CS74GBM/dp/B00CS74GBM) _(Steve Nison)_
   - [Candlestick Charting Explained](https://www.amazon.com/gp/product/B003WJR5PE) _(Gregory L. Morris)_
