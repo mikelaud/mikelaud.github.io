@@ -2,18 +2,18 @@
 
 ## 1. ML Programming Language
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752) _(Matt Harrison)_
-2. [Intermediate Python Programming: Learn Decorators, Generators, Functional Programming and More](https://www.amazon.com/Treading-Python-2-Intermediate/dp/149055095X) _(Matt Harrison)_
+2. [Intermediate Python Programming](https://www.amazon.com/Treading-Python-2-Intermediate/dp/149055095X) _(Matt Harrison)_
 3. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival)_
 
 ## 2. ML Data Processing
-1. 
-2. 
-3. 
+1. [Effective Pandas: Patterns for Data Manipulation](https://www.amazon.com/gp/product/B09MYXXSFM) _(Matt Harrison)_
+2. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter-dp-109810403X/dp/109810403X) _(Wes McKinney)_
+3. [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential-dp-1098121228/dp/1098121228) _(Jake VanderPlas)_
 
 ## 3. ML Core Libraries
-1. 
-2. 
-3. 
+1. []() _()_
+2. []() _()_
+3. []() _()_
 
 
 ## BACKLOG:
