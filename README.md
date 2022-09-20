@@ -11,9 +11,9 @@
 3. [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential-dp-1098121228/dp/1098121228) _(Jake VanderPlas)_
 
 ## 3. ML Core Libraries
-1. []() _()_
-2. []() _()_
-3. []() _()_
+1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-dp-1449369413/dp/1449369413) _(Andreas C. Müller, Sarah Guido)_
+2. [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-dp-1801819319/dp/1801819319) _(Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)_
+3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975) _(Aurélien Géron)_
 
 
 ## BACKLOG:
