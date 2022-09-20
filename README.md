@@ -15,6 +15,11 @@
 2. [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-dp-1801819319/dp/1801819319) _(Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)_
 3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975) _(Aurélien Géron)_
 
+## 4. ML Mathematics
+1. [Essential Math for Data Science](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932) _(Thomas Nield)_
+2. [Data Science from Scratch](https://www.amazon.com/dp/1492041130) _(Joel Grus)_
+3. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
+
 <p/>
   
 ## BACKLOG:
