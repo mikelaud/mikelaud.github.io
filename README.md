@@ -1,4 +1,23 @@
-# [FinTech ML Notes](https://mikelaud.github.io)
+# [FinTech Machine Learning Metabook](https://mikelaud.github.io)
+
+## 1. ML Programming Language
+1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752) _(Matt Harrison)_
+2. [Intermediate Python Programming: Learn Decorators, Generators, Functional Programming and More](https://www.amazon.com/Treading-Python-2-Intermediate/dp/149055095X) _(Matt Harrison)_
+3. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival)_
+
+## 2. ML Data Processing
+1. 
+2. 
+3. 
+
+## 3. ML Core Libraries
+1. 
+2. 
+3. 
+
+
+## BACKLOG:
+1. ✅[Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller, Sarah Guido)_
 
 <details><summary>1) Quantitative Trading</summary><p>
 
