@@ -15,9 +15,11 @@
 2. [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-dp-1801819319/dp/1801819319) _(Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)_
 3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975) _(Aurélien Géron)_
 
-
+<p/>
+  
 ## BACKLOG:
 
+<p/>
 <details><summary>1) Quantitative Trading</summary><p>
 
 ## [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B097QGPVND) _(Ernest P. Chan)_
