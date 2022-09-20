@@ -17,7 +17,6 @@
 
 
 ## BACKLOG:
-1. ✅[Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller, Sarah Guido)_
 
 <details><summary>1) Quantitative Trading</summary><p>
 
