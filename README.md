@@ -25,7 +25,7 @@
 2. [Data Science from Scratch](https://www.amazon.com/dp/1492041130) _(Joel Grus)_
 3. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
 
-## 6. ML Finance
+## 7. ML Finance
 1. [Financial Theory with Python](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction-dp-1098104358/dp/1098104358) _(Yves Hilpisch)_
 2. [Python for Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-dp-1492024333/dp/1492024333) _(Yves Hilpisch)_
 3. [Artificial Intelligence in Finance](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based-Guide-dp-1492055433/dp/1492055433) _(Yves Hilpisch)_
