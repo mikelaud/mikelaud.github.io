@@ -10,12 +10,17 @@
 2. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter-dp-109810403X/dp/109810403X) _(Wes McKinney)_
 3. [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential-dp-1098121228/dp/1098121228) _(Jake VanderPlas)_
 
-## 3. ML Core Libraries
+## 3. ML Trading
+1. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Back-Testing/dp/1098120477) _(Sofien Kaabar)_
+2. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
+3. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X) _(Yves Hilpisch)_
+
+## 4. ML Core Libraries
 1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-dp-1449369413/dp/1449369413) _(Andreas C. Müller, Sarah Guido)_
 2. [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-dp-1801819319/dp/1801819319) _(Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)_
 3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975) _(Aurélien Géron)_
 
-## 4. ML Mathematics
+## 5. ML Mathematics
 1. [Essential Math for Data Science](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932) _(Thomas Nield)_
 2. [Data Science from Scratch](https://www.amazon.com/dp/1492041130) _(Joel Grus)_
 3. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
