@@ -50,5 +50,15 @@
 2. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-dp-B0076O7N2Q/dp/B0076O7N2Q) _(Thomas R. DeMark)_
 3. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Williams-dp-0470915730/dp/0470915730) _(Larry Williams)_
 
+## Appendix D: Trading Algorithms
+1. [Algorithmic Short Selling with Python](https://www.amazon.com/Algorithmic-Short-Selling-Python-consistently/dp/1801815194) _(Laurent Bernut)_
+2. [Trend Following Strategies](https://www.amazon.com/gp/product/B09KNGG1CC) _(Sofien Kaabar)_
+3. [Contrarian Trading Strategies in Python](https://www.amazon.com/gp/product/B09VG3SH2P) _(Sofien Kaabar)_
+
+## Appendix E: Trading Algorithms Bonus
+1. []() _(Sofien Kaabar)_
+2. []() _(Sofien Kaabar)_
+3. []() _(Sofien Kaabar)_
+
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
