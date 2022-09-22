@@ -40,5 +40,15 @@
 2. [Come Into My Trading Room: A Complete Guide to Trading](https://www.amazon.com/Study-Guide-Trading-Living-Wiley/dp/1118467450) _(Alexander Elder)_
 3. [The New Sell and Sell Short](https://www.amazon.com/New-Sell-Short-Profits-Declines-dp-0470632399/dp/0470632399) _(Alexander Elder)_
 
+## Appendix B: Trading Systems
+1. [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-dp-1119800064/dp/1119800064) _(Ernest P. Chan)_
+2. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-dp-1118778987/dp/1118778987) _(Kevin J. Davey)_
+3. [Kurs aktivnogo treydera](https://www.amazon.com/Kurs-aktivnogo-treydera-prodavay-zarabatyvay/dp/5961423743) _(A. Gerchik)_
+
+## Appendix C: Trading Strategies
+1. [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-dp-0470181664/dp/0470181664) _(Robert C. Miner)_
+2. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-dp-B0076O7N2Q/dp/B0076O7N2Q) _(Thomas R. DeMark)_
+3. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Williams-dp-0470915730/dp/0470915730) _(Larry Williams)_
+
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
