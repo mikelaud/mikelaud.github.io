@@ -35,5 +35,10 @@
 2. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-dp-1119482089/dp/1119482089) _(Marcos López de Prado)_
 3. [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-dp-1108792898/dp/1108792898) _(Marcos López de Prado)_
 
+## Appendix A: Trading Foundation
+1. [The New Trading for a Living](https://www.amazon.com/New-Trading-Living-Psychology-Discipline-dp-1118443926/dp/1118443926) _(Alexander Elder)_
+2. [Come Into My Trading Room: A Complete Guide to Trading](https://www.amazon.com/Study-Guide-Trading-Living-Wiley/dp/1118467450) _(Alexander Elder)_
+3. [The New Sell and Sell Short](https://www.amazon.com/New-Sell-Short-Profits-Declines-dp-0470632399/dp/0470632399) _(Alexander Elder)_
+
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
