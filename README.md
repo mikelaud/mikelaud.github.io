@@ -52,13 +52,8 @@
 
 ## Appendix D: Trading Algorithms
 1. [Algorithmic Short Selling with Python](https://www.amazon.com/Algorithmic-Short-Selling-Python-consistently/dp/1801815194) _(Laurent Bernut)_
-2. [Trend Following Strategies](https://www.amazon.com/gp/product/B09KNGG1CC) _(Sofien Kaabar)_
+2. [Trend Following Strategies in Python](https://www.amazon.com/gp/product/B09KNGG1CC) _(Sofien Kaabar)_
 3. [Contrarian Trading Strategies in Python](https://www.amazon.com/gp/product/B09VG3SH2P) _(Sofien Kaabar)_
-
-## Appendix E: Trading Algorithms Bonus
-1. []() _(Sofien Kaabar)_
-2. []() _(Sofien Kaabar)_
-3. []() _(Sofien Kaabar)_
 
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
