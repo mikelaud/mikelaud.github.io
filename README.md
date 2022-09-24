@@ -65,5 +65,7 @@
 2. [Cybernetic Analysis for Stocks and Futures](https://www.amazon.com/Cybernetic-Analysis-Stocks-Futures-Cutting-Edge-dp-0471463078/dp/0471463078) _(John F. Ehlers)_
 3. [Cycle Analytics for Traders](https://www.amazon.com/Cycle-Analytics-Traders-Downloadable-Software-dp-1118728513/dp/1118728513) _(John F. Ehlers)_
 
+## Appendix G: Deep Learning
+
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
