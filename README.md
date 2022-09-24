@@ -55,5 +55,10 @@
 2. [Trend Following Strategies in Python](https://www.amazon.com/gp/product/B09KNGG1CC) _(Sofien Kaabar)_
 3. [Contrarian Trading Strategies in Python](https://www.amazon.com/gp/product/B09VG3SH2P) _(Sofien Kaabar)_
 
+## Appendix E: Candlestick Patterns
+1. [Japanese Candlestick Charting Techniques](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Second-dp-0735201811/dp/0735201811) _(Steve Nison)_
+2. [Candlestick Charting Explained](https://www.amazon.com/Candlestick-Charting-Explained-Timeless-Techniques-dp-007146154X/dp/007146154X) _(Gregory L. Morris)_
+3. [Beyond Candlesticks](https://www.amazon.com/Beyond-Candlesticks-Japanese-Charting-Techniques-dp-047100720X/dp/047100720X) _(Steve Nison)_
+
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
