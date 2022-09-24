@@ -66,9 +66,9 @@
 3. [Cycle Analytics for Traders](https://www.amazon.com/Cycle-Analytics-Traders-Downloadable-Software-dp-1118728513/dp/1118728513) _(John F. Ehlers)_
 
 ## Appendix G: Deep Learning
-1. []() _()_
-2. []() _()_
-3. []() _()_
+1. [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) _(Tariq Rashid)_
+2. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-dp-1492041947/dp/1492041947) _(David Foster)_
+3. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Max-Pumperla-dp-1617295329/dp/1617295329) _(Kevin Ferguson, Max Pumperla)_
 
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
