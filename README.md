@@ -1,5 +1,8 @@
 # [FinTech Machine Learning Metabook](https://mikelaud.github.io)
 
+## Foreword
+* Xxx
+
 ## 1. ML Programming Language
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752) _(Matt Harrison)_
 2. [Intermediate Python Programming](https://www.amazon.com/Treading-Python-2-Intermediate/dp/149055095X) _(Matt Harrison)_
