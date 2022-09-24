@@ -66,6 +66,9 @@
 3. [Cycle Analytics for Traders](https://www.amazon.com/Cycle-Analytics-Traders-Downloadable-Software-dp-1118728513/dp/1118728513) _(John F. Ehlers)_
 
 ## Appendix G: Deep Learning
+1. []() _()_
+2. []() _()_
+3. []() _()_
 
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
