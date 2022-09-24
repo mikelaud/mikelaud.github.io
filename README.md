@@ -60,5 +60,10 @@
 2. [Candlestick Charting Explained](https://www.amazon.com/Candlestick-Charting-Explained-Timeless-Techniques-dp-007146154X/dp/007146154X) _(Gregory L. Morris)_
 3. [Beyond Candlesticks](https://www.amazon.com/Beyond-Candlesticks-Japanese-Charting-Techniques-dp-047100720X/dp/047100720X) _(Steve Nison)_
 
+## Appendix F: DSP Technics
+1. [Rocket Science for Traders](https://www.amazon.com/Rocket-Science-Traders-Processing-Applications-dp-0471405671/dp/0471405671) _(John F. Ehlers)_
+2. [Cybernetic Analysis for Stocks and Futures](https://www.amazon.com/Cybernetic-Analysis-Stocks-Futures-Cutting-Edge-dp-0471463078/dp/0471463078) _(John F. Ehlers)_
+3. [Cycle Analytics for Traders](https://www.amazon.com/Cycle-Analytics-Traders-Downloadable-Software-dp-1118728513/dp/1118728513) _(John F. Ehlers)_
+
 ## BACKLOG
 [Backlog](README_BACKLOG.md)
