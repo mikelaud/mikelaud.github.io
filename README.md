@@ -1,7 +1,7 @@
 # [FinTech Machine Learning Metabook](https://mikelaud.github.io)
 
 ## Foreword
-* [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708) _(Pedro Domingos)_ <sup><sup>0</sup></sup>
+* [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708) _(Pedro Domingos)_ <sup><sub>0</sub></sup>
 
 ## 1. ML Programming Language
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752) _(Matt Harrison)_
