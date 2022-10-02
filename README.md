@@ -18,20 +18,20 @@
 2. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 3. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X) _(Yves Hilpisch)_
 
-## 4. ML Main Libraries
+## 4. ML Finance
+1. [Financial Theory with Python](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction-dp-1098104358/dp/1098104358) _(Yves Hilpisch)_
+2. [Python for Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-dp-1492024333/dp/1492024333) _(Yves Hilpisch)_
+3. [Artificial Intelligence in Finance](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based-Guide-dp-1492055433/dp/1492055433) _(Yves Hilpisch)_
+
+## 5. ML Main Libraries
 1. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-dp-1449369413/dp/1449369413) _(Andreas C. Müller, Sarah Guido)_
 2. [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-dp-1801819319/dp/1801819319) _(Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili)_
 3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975) _(Aurélien Géron)_
 
-## 5. ML Math
-1. [Essential Math for Data Science](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932) _(Thomas Nield)_
-2. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
+## 6. ML Math
+1. [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth-dp-1108470041/dp/1108470041) _(Marc Peter Deisenroth)_
+2. [Linear Algebra and Learning from Data](https://www.amazon.com/Linear-Algebra-Learning-Gilbert-Strang/dp/0692196382) _(Gilbert Strang)_
 3. [Machine Learning in Finance](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice/dp/3030410676) _(Matthew F. Dixon, Igor Halperin, Paul Bilokon)_
-
-## 6. ML Finance
-1. [Financial Theory with Python](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction-dp-1098104358/dp/1098104358) _(Yves Hilpisch)_
-2. [Python for Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-dp-1492024333/dp/1492024333) _(Yves Hilpisch)_
-3. [Artificial Intelligence in Finance](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based-Guide-dp-1492055433/dp/1492055433) _(Yves Hilpisch)_
 
 ## 7. ML FinTech
 1. [Machine Learning and Data Science Blueprints for Finance](https://www.amazon.com/Machine-Learning-Science-Blueprints-Finance-dp-1492073059/dp/1492073059) _(Hariom Tatsat)_
@@ -69,7 +69,7 @@
 3. [Cycle Analytics for Traders](https://www.amazon.com/Cycle-Analytics-Traders-Downloadable-Software-dp-1118728513/dp/1118728513) _(John F. Ehlers)_
 
 ## Appendix G: Deep Learning
-1. [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) _(Tariq Rashid)_
+1. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
 2. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-dp-1492041947/dp/1492041947) _(David Foster)_
 3. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Max-Pumperla-dp-1617295329/dp/1617295329) _(Kevin Ferguson, Max Pumperla)_
 
