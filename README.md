@@ -25,8 +25,8 @@
 
 ## 5. ML Math
 1. [Essential Math for Data Science](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932) _(Thomas Nield)_
-2. [Data Science from Scratch](https://www.amazon.com/dp/1492041130) _(Joel Grus)_
-3. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
+2. [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-dp-1492041416/dp/1492041416) _(Seth Weidman)_
+3. [Machine Learning in Finance](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice/dp/3030410676) _(Matthew F. Dixon, Igor Halperin, Paul Bilokon)_
 
 ## 6. ML Finance
 1. [Financial Theory with Python](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction-dp-1098104358/dp/1098104358) _(Yves Hilpisch)_
