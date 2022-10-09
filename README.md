@@ -8,7 +8,7 @@
 ### 1. ML Programming Language
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752) _(Matt Harrison)_
 2. [Intermediate Python Programming](https://www.amazon.com/Treading-Python-2-Intermediate/dp/149055095X) _(Matt Harrison)_
-3. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival)_
+3. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival, Bob Gregory)_
 
 ### 2. ML Data Tools
 1. [Effective Pandas: Patterns for Data Manipulation](https://www.amazon.com/gp/product/B09MYXXSFM) _(Matt Harrison)_
