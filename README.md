@@ -1,4 +1,4 @@
-# [FinTech Machine Learning Metabook](https://mikelaud.github.io)
+# [FinTech Machine Learning Metabook](/)
 
 ## Foreword
 * [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708) _(Pedro Domingos)_
