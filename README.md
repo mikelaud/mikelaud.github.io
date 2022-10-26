@@ -77,3 +77,6 @@
 2. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-dp-1492041947/dp/1492041947) _(David Foster)_
 3. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Max-Pumperla-dp-1617295329/dp/1617295329) _(Kevin Ferguson, Max Pumperla)_
 
+---
+
+[_Software Development Metabook_](README_SOFTWARE.md)
