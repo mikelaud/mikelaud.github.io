@@ -7,4 +7,4 @@
 
 ---
 
-[_FinTech Machine Learning Metabook_](README.md)
+[_FinTech Machine Learning Metabook_](https://mikelaud.github.io)
