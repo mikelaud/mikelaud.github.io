@@ -25,10 +25,14 @@
 2. [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894) _(Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani)_
 3. [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) _(Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage)_
 
+## 6. Domain-Driven Design
+1. [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) _(Eric Evans)_
+2. [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) _(Vaughn Vernon)_
+3. [Balancing Coupling in Software Design](https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-wesley/dp/0137353480) _(Vlad Khononov)_
+
 ## Appendix
 1. [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189) _(Catalin Tudose)_
 2. [Mastering API Architecture](https://www.amazon.com/dp/1492090638) _(James Gough, Daniel Bryant, Matthew Auburn)_
-3. [Balancing Coupling in Software Design](https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-wesley/dp/0137353480) _(Vlad Khononov)_
 
 ---
 
