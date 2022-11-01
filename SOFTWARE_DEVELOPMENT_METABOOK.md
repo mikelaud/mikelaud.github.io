@@ -7,15 +7,15 @@
 2. [Building Event-Driven Microservices](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894) _(Adam Bellemare)_
 3. [Learning Domain-Driven Design](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131) _(Vlad Khononov)_
 
-### 2. Software Architecture
-1. [Fundamentals of Software Architecture](https://www.amazon.com/dp/1492043451) _(Mark Richards, Neal Ford)_
-2. [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894) _(Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani)_
-3. [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) _(Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage)_
-
-### 3. Domain-Driven Design
+### 2. Domain-Driven Design
 1. [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) _(Eric Evans)_
 2. [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) _(Vaughn Vernon)_
 3. [Balancing Coupling in Software Design](https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-wesley/dp/0137353480) _(Vlad Khononov)_
+
+### 3. Software Architecture
+1. [Fundamentals of Software Architecture](https://www.amazon.com/dp/1492043451) _(Mark Richards, Neal Ford)_
+2. [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894) _(Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani)_
+3. [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) _(Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage)_
 
 ## Part II. Software Patterns
 
