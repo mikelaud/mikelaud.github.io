@@ -1,6 +1,6 @@
 # [Software Development Metabook](README_SOFTWARE.md)
 
-## Part I. Software Architecture
+## Part I. Software Design
 
 ### 1. Architecture Patterns
 1. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival, Bob Gregory)_
