@@ -15,6 +15,7 @@
 ### 3. Microservices Design
 1. [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029) _(Sam Newman)_
 2. [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848) _(Sam Newman)_
+3. [Mastering API Architecture](https://www.amazon.com/dp/1492090638) _(James Gough, Daniel Bryant, Matthew Auburn)_
 
 ### 4. Software Architecture
 1. [Fundamentals of Software Architecture](https://www.amazon.com/dp/1492043451) _(Mark Richards, Neal Ford)_
@@ -39,8 +40,7 @@
 3. [Kubernetes Patterns](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288) _(Bilgin Ibryam, Roland Huß)_
 
 ## Appendix
-1. [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189) _(Catalin Tudose)_
-2. [Mastering API Architecture](https://www.amazon.com/dp/1492090638) _(James Gough, Daniel Bryant, Matthew Auburn)_
+* [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189) _(Catalin Tudose)_
 
 ---
 
