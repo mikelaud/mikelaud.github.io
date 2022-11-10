@@ -52,8 +52,8 @@
 3. [Real-Life BPMN](https://www.amazon.com/Real-Life-BPMN-4th-introduction-DMN/dp/1086302095) _(Jakob Freund, Bernd Rücker)_
 
 ## Appendix
-1 [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189) _(Catalin Tudose)_
-2 [Kafka: The Definitive Guide](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087) _(Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty)_
+1. [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189) _(Catalin Tudose)_
+2. [Kafka: The Definitive Guide](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087) _(Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty)_
 
 ---
 
