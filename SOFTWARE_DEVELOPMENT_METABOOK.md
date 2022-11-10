@@ -36,7 +36,7 @@
 
 ## Part III. Software Architecture
 
-### 7. Software Architecture
+### 7. Architecture
 1. [Fundamentals of Software Architecture](https://www.amazon.com/dp/1492043451) _(Mark Richards, Neal Ford)_
 2. [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894) _(Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani)_
 3. [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) _(Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage)_
