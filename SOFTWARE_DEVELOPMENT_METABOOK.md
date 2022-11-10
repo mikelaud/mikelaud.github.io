@@ -36,17 +36,17 @@
 
 ## Part III. Software Architecture
 
-### 7. Architecture
+### 7. Mastering Architecture
 1. [Fundamentals of Software Architecture](https://www.amazon.com/dp/1492043451) _(Mark Richards, Neal Ford)_
 2. [Software Architecture: The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894) _(Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani)_
 3. [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) _(Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage)_
 
-### 8. Data Mesh
+### 8. Mastering Data Mesh
 1. [The Enterprise Big Data Lake](https://www.amazon.com/Enterprise-Big-Data-Lake-Delivering/dp/1491931558) _(Alex Gorelik)_
 2. [Data Mesh](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398) _(Zhamak Dehghani)_
 3. [Building an Event-Driven Data Mesh](https://www.oreilly.com/library/view/building-an-event-driven/9781098127596) _(Adam Bellemare)_
 
-### 7. Integration
+### 7. Mastering Integration
 1. [Flow Architectures](https://www.amazon.com/Flow-Architectures-Streaming-Event-Driven-Integration/dp/1492075892) _(James Urquhart)_
 2. [Practical Process Automation](https://www.amazon.com/Practical-Process-Automation-Orchestration-Microservices/dp/149206145X) _(Bernd Ruecker)_
 3. [Real-Life BPMN](https://www.amazon.com/Real-Life-BPMN-4th-introduction-DMN/dp/1086302095) _(Jakob Freund, Bernd Rücker)_
