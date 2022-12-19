@@ -1,4 +1,4 @@
-# [Trading Notes](https://mikelaud.github.io)
+# [Trading Notes](https://mikelaud.github.io/TRADING_NOTES)
 
 ## Trading Platforms
 1. [InteractiveBrokers](https://www.interactivebrokers.com)
