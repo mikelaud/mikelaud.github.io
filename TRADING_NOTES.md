@@ -6,5 +6,9 @@
 
 ## Trading Libraries
 1. [binance-exchange/python-binance](https://github.com/binance-exchange/python-binance)
-2. [sammchardy/python-binance](https://github.com/sammchardy/python-binance)
-3. [sammchardy/python-kucoin](https://github.com/sammchardy/python-kucoin)
+3. [sammchardy/python-binance](https://github.com/sammchardy/python-binance)
+4. [sammchardy/python-kucoin](https://github.com/sammchardy/python-kucoin)
+
+## Trading Libraries Documentation
+1. [Documentation: python-binance](https://python-binance.readthedocs.io)
+2. [Documentation: python-kucoin](https://python-kucoin.readthedocs.io)
