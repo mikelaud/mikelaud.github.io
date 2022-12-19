@@ -12,3 +12,4 @@
 ## Trading Libraries Documentation
 1. [Documentation: python-binance](https://python-binance.readthedocs.io)
 2. [Documentation: python-kucoin](https://python-kucoin.readthedocs.io)
+3. [Book: Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337) _(Caleb Hattingh)_
