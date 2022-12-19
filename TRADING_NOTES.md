@@ -1,8 +1,9 @@
 # [Trading Notes](https://mikelaud.github.io)
 
 ## Trading Platforms
-1. [Binance](https://www.binance.com)
-2. [KuCoin](https://www.kucoin.com)
+1. [InteractiveBrokers](https://www.interactivebrokers.com)
+2. [Binance](https://www.binance.com)
+3. [KuCoin](https://www.kucoin.com)
 
 ## Trading Libraries
 1. [binance-exchange/python-binance](https://github.com/binance-exchange/python-binance)
