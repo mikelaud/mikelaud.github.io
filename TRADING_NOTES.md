@@ -17,23 +17,23 @@
 
 ## Trading Libraries Examples
 ### asyncio
-* [Async basics for Binance]() _(01 May 2021)_
+* [Async basics for Binance](https://sammchardy.github.io/async-binance-basics) _(01 May 2021)_
 ### backtesting
-* [Save Historical data from Kucoin]() _(14 Jan 2018)_
-* [Save Historical data from Binance]() _(08 Jan 2018)_
+* [Save Historical data from Kucoin](https://sammchardy.github.io/historical-data-download-kucoin) _(14 Jan 2018)_
+* [Save Historical data from Binance](https://sammchardy.github.io/historical-data-download-binance) _(08 Jan 2018)_
 ### balance
-* [Calculate Kucoin Balance in your Currency]() _(12 Jan 2018)_
+* [Calculate Kucoin Balance in your Currency](https://sammchardy.github.io/kucoin-balance-in-your-currency) _(12 Jan 2018)_
 ### binance
-* [Binance Order Filters]() _(03 May 2021)_
-* [Async basics for Binance]() _(01 May 2021)_
-* [Save Historical data from Binance]() _(08 Jan 2018)_
+* [Binance Order Filters](https://sammchardy.github.io/binance-order-filters) _(03 May 2021)_
+* [Async basics for Binance](https://sammchardy.github.io/async-binance-basics) _(01 May 2021)_
+* [Save Historical data from Binance](https://sammchardy.github.io/historical-data-download-binance) _(08 Jan 2018)_
 ### filters
-* [Binance Order Filters]() _(03 May 2021)_
+* [Binance Order Filters](https://sammchardy.github.io/binance-order-filters) _(03 May 2021)_
 ### klines
-* [Save Historical data from Kucoin]() _(14 Jan 2018)_
-* [Save Historical data from Binance]() _(08 Jan 2018)_
+* [Save Historical data from Kucoin](https://sammchardy.github.io/historical-data-download-kucoin) _(14 Jan 2018)_
+* [Save Historical data from Binance](https://sammchardy.github.io/historical-data-download-binance) _(08 Jan 2018)_
 ### kucoin
-* [Save Historical data from Kucoin]() _(14 Jan 2018)_
-* [Calculate Kucoin Balance in your Currency]() _(12 Jan 2018)_
+* [Save Historical data from Kucoin](https://sammchardy.github.io/historical-data-download-kucoin) _(14 Jan 2018)_
+* [Calculate Kucoin Balance in your Currency](https://sammchardy.github.io/kucoin-balance-in-your-currency) _(12 Jan 2018)_
 ### spot
-* [Binance Order Filters]() _(03 May 2021)_
+* [Binance Order Filters](https://sammchardy.github.io/binance-order-filters) _(03 May 2021)_
