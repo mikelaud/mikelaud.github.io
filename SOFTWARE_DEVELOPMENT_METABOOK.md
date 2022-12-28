@@ -54,6 +54,7 @@
 ## Appendix
 1. [Java Persistence with Spring Data and Hibernate](https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate/dp/1617299189) _(Catalin Tudose)_
 2. [Kafka: The Definitive Guide](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087) _(Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty)_
+3. [Data Visualization with Python and JavaScript](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform/dp/1098111877) _(Kyran Dale)_
 
 ---
 
