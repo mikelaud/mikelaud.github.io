@@ -11,8 +11,8 @@
 3. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival, Bob Gregory)_
 
 ### 2. ML Data Tools
-1. [Effective Pandas: Patterns for Data Manipulation](https://www.amazon.com/gp/product/B09MYXXSFM) _(Matt Harrison)_
-2. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter-dp-109810403X/dp/109810403X) _(Wes McKinney)_
+1. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter-dp-109810403X/dp/109810403X) _(Wes McKinney)_
+2. [Effective Pandas: Patterns for Data Manipulation](https://www.amazon.com/gp/product/B09MYXXSFM) _(Matt Harrison)_
 3. [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential-dp-1098121228/dp/1098121228) _(Jake VanderPlas)_
 
 ### 3. ML Trading Platform
