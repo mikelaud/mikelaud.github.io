@@ -7,8 +7,8 @@
 
 ### 1. ML Programming Language
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752) / [Intermediate Python Programming](https://www.amazon.com/Treading-Python-2-Intermediate/dp/149055095X) _(Matt Harrison)_
-2. [Data Visualization with Python and JavaScript](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform/dp/1098111877) _(Kyran Dale)_
-3. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival, Bob Gregory)_
+2. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival, Bob Gregory)_
+3. [Data Visualization with Python and JavaScript](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform/dp/1098111877) _(Kyran Dale)_
 
 ### 2. ML Data Tools
 1. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter-dp-109810403X/dp/109810403X) _(Wes McKinney)_
