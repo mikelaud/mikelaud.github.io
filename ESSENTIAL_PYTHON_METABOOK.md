@@ -5,3 +5,8 @@
 3. [Essential SQLAlchemy](https://www.amazon.com/Essential-SQLAlchemy-Mapping-Python-Databases/dp/149191646X) _(Jason Myers, Rick Copeland)_
 4. [Flask Web Development](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739) _(Miguel Grinberg)_
 5. [Architecture Patterns with Python](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739) _(Harry Percival, Bob Gregory)_
+
+---
+
+* [_FinTech Machine Learning Metabook_](https://mikelaud.github.io)
+* [_Software Development Metabook_](SOFTWARE_DEVELOPMENT_METABOOK.md)
