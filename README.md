@@ -79,5 +79,5 @@
 
 ---
 
-[_Software Development Metabook_](SOFTWARE_DEVELOPMENT_METABOOK.md)
-[_Essential Python Metabook_](ESSENTIAL_PYTHON_METABOOK.md)
+* [_Software Development Metabook_](SOFTWARE_DEVELOPMENT_METABOOK.md)
+* [_Essential Python Metabook_](ESSENTIAL_PYTHON_METABOOK.md)
