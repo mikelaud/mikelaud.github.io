@@ -57,5 +57,5 @@
 
 ---
 
-* [_Essential Python Metabook_](ESSENTIAL_PYTHON_METABOOK.md)
 * [_FinTech Machine Learning Metabook_](https://mikelaud.github.io)
+* [_Essential Python Metabook_](ESSENTIAL_PYTHON_METABOOK.md)
