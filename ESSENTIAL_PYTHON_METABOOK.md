@@ -12,7 +12,7 @@
 5. [Essential SQLAlchemy](https://www.amazon.com/Essential-SQLAlchemy-Mapping-Python-Databases/dp/149191646X) _(Jason Myers, Rick Copeland)_
 6. [Flask Web Development](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739) _(Miguel Grinberg)_
 
-## Part III. Cloud
+## Part III. Architecture
 
 7. [Architecture Patterns with Python](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) _(Harry Percival, Bob Gregory)_
 8. [Microservice APIs](https://www.amazon.com/Microservice-APIs-Jose-Haro-Peralta/dp/1617298417) _(Jose Haro Peralta)_
