@@ -18,7 +18,7 @@
 8. [Microservice APIs](https://www.amazon.com/Microservice-APIs-Jose-Haro-Peralta/dp/1617298417) _(Jose Haro Peralta)_
 9. [Data Visualization with Python and JavaScript](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform/dp/1098111877) _(Kyran Dale)_
 
-_## Next Steps_
+## _Next Steps_
 
 * [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Back-Testing/dp/1098120477) _(Sofien Kaabar)_
 
