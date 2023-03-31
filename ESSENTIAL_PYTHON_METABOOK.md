@@ -18,9 +18,11 @@
 8. [Microservice APIs](https://www.amazon.com/Microservice-APIs-Jose-Haro-Peralta/dp/1617298417) _(Jose Haro Peralta)_
 9. [Data Visualization with Python and JavaScript](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform/dp/1098111877) _(Kyran Dale)_
 
-## _Next Steps_
+## Part IV. Forecasting
 
 * [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Back-Testing/dp/1098120477) _(Sofien Kaabar)_
+* [Time Series Forecasting using Deep Learning](https://www.amazon.com/Time-Forecasting-using-Deep-Learning/dp/9391392571) _(Ivan Gridin)_
+* [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319) _(Sebastian Raschka)_
 
 ---
 
