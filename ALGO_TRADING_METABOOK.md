@@ -15,7 +15,8 @@
 ## Part III. Algo Coding
 
 7. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
-8. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
+8. [Algorithmic Short Selling with Python](https://www.amazon.com/Algorithmic-Short-Selling-Python-consistently-ebook/dp/B09B82BHDW) _(Laurent Bernut)_
+9. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 
 ---
 
