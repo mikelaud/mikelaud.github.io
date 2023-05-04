@@ -27,7 +27,7 @@
 
 ### 6. Master Classes by Robert Carver
 
-## Appendix
+## Part III. In Search of the Grail
 
 ---
 
