@@ -27,7 +27,7 @@
 
 ### 6. Master Classes by Robert Carver
 
-## Part III. In Search of the Grail
+## Epilogue: In Search of the Grail
 
 19. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
 
