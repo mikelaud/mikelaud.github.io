@@ -24,8 +24,9 @@
 ### 4. Master Classes by Kevin Davey 
 
 10. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
-11. [Entry and Exit Confessions of a Champion Trader](https://www.amazon.com/Entry-Exit-Confessions-Champion-Trader-ebook/dp/B07R8LZ4Z2) _(Kevin J. Davey)_
-12. [Algo Trading Cheat Codes](https://www.amazon.com/ALGO-TRADING-CHEAT-CODES-Efficiently-ebook/dp/B094DKZL61) _(Kevin J. Davey)_
+    * Bonus "chapter": [Introduction To Algo Trading](https://www.amazon.com/Introduction-Algo-Trading-Successfully-Professional-ebook/dp/B07CX8KXS3)
+12. [Entry and Exit Confessions of a Champion Trader](https://www.amazon.com/Entry-Exit-Confessions-Champion-Trader-ebook/dp/B07R8LZ4Z2) _(Kevin J. Davey)_
+13. [Algo Trading Cheat Codes](https://www.amazon.com/ALGO-TRADING-CHEAT-CODES-Efficiently-ebook/dp/B094DKZL61) _(Kevin J. Davey)_
 
 ### 5. Master Classes by Ernest P. Chan
 
