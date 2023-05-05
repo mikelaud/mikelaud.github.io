@@ -25,6 +25,8 @@
 
 ### 5. Master Classes by Ernest P. Chan
 
+14. [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-dp-1119800064/dp/1119800064) _(Ernest P. Chan)_
+
 ### 6. Master Classes by Robert Carver
 
 ## Part III. In Search of the Grail
