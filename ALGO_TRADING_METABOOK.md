@@ -23,6 +23,10 @@
 
 ### 4. Master Classes by Kevin Davey 
 
+10. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-dp-1118778987/dp/1118778987) _(Kevin J. Davey)_
+11. [Entry and Exit Confessions of a Champion Trader](https://www.amazon.com/Entry-Exit-Confessions-Champion-Trader-ebook/dp/B07R8LZ4Z2) _(Kevin J. Davey)_
+12. [Algo Trading Cheat Codes](https://www.amazon.com/ALGO-TRADING-CHEAT-CODES-Efficiently-ebook/dp/B094DKZL61) _(Kevin J. Davey)_
+
 ### 5. Master Classes by Ernest P. Chan
 
 13. [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B097QGPVND) _(Ernest P. Chan)_
@@ -30,6 +34,10 @@
 15. [Machine Trading](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms-ebook/dp/B01N7NKVG0) _(Ernest P. Chan)_
 
 ### 6. Master Classes by Robert Carver
+
+16. []() _()_
+17. []() _()_
+18. []() _()_
 
 ## Part III. In Search of the Grail
 
