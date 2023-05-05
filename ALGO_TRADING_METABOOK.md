@@ -32,8 +32,8 @@
 ### 7. Trading Ideas
 
 19. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
-20. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-dp-B0076O7N2Q/dp/B0076O7N2Q) _(Thomas R. DeMark)_
-21. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Williams-dp-0470915730/dp/0470915730) _(Larry Williams)_
+20. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas R. DeMark)_
+21. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
 
 ---
 
