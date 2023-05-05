@@ -23,7 +23,7 @@
 
 ### 4. Master Classes by Kevin Davey 
 
-10. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-dp-1118778987/dp/1118778987) _(Kevin J. Davey)_
+10. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2E) _(Kevin J. Davey)_
 11. [Entry and Exit Confessions of a Champion Trader](https://www.amazon.com/Entry-Exit-Confessions-Champion-Trader-ebook/dp/B07R8LZ4Z2) _(Kevin J. Davey)_
 12. [Algo Trading Cheat Codes](https://www.amazon.com/ALGO-TRADING-CHEAT-CODES-Efficiently-ebook/dp/B094DKZL61) _(Kevin J. Davey)_
 
@@ -35,9 +35,9 @@
 
 ### 6. Master Classes by Robert Carver
 
-16. []() _()_
-17. []() _()_
-18. []() _()_
+16. [Leveraged Trading](https://www.amazon.com/Leveraged-Trading-professional-approach-trading-ebook/dp/B07Z81R6WL) _(Robert Carver)_
+17. [Systematic Trading](https://www.amazon.com/Systematic-Trading-designing-trading-investing-ebook/dp/B014J5LNSY) _(Robert Carver)_
+18. [Advanced Futures Trading Strategies](https://www.amazon.com/Advanced-Futures-Trading-Strategies-strategies-ebook/dp/B0BCKP2ZK9) _(Robert Carver)_
 
 ## Part III. In Search of the Grail
 
