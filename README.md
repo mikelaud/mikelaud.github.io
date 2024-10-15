@@ -33,8 +33,3 @@
 15. [Deep Learning with JAX](https://www.amazon.com/Deep-Learning-JAX-Grigory-Sapunov-ebook/dp/B0DH57LVXY) _(Grigory Sapunov)_
 
 ---
-
-* [_Algo Trading Metabook_](ALGO_TRADING_METABOOK.md)
-* [_Essential Python Metabook_](ESSENTIAL_PYTHON_METABOOK.md)
-* [_FinTech Metabook_](FINTECH_METABOOK.md)
-* [_Software Development Metabook_](SOFTWARE_DEVELOPMENT_METABOOK.md)
