@@ -1,5 +1,7 @@
 # [Mastering Artificial Intelligence](https://mikelaud.github.io)
 
+![cover](mastering_ai.png)
+
 ## Part I. Intro
 
 1. [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook/dp/B012271YB2) _(Pedro Domingos)_
