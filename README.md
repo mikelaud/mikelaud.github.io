@@ -12,11 +12,13 @@
 5. [Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet-ebook/dp/B09K81XLN1) _(François Chollet)_
 6. [Deep Learning and the Game of Go](https://www.amazon.com/Deep-Learning-Game-Kevin-Ferguson-ebook/dp/B097821929) _(Max Pumperla)_
 
+## Part III.
+
 7. [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-David-Foster-ebook/dp/B0C3WVJWBF) _(David Foster)_
 8. [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding-ebook/dp/B0DGZ46G88) _(Jay Alammar)_
 9. [Build a Large Language Model (From Scratch)](https://www.amazon.com/Build-Large-Language-Model-Scratch-ebook/dp/B0DGQXVK62) _(Sebastian Raschka)_
 
-## Part III.
+## Part IV.
 
 10. [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C) _(Andreas C. Müller)_
 11. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0BHCFNY9Q) _(Aurélien Géron)_
