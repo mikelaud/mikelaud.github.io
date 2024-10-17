@@ -1,10 +1,10 @@
-# [Mastering Artificial Intelligence](https://mikelaud.github.io)
+# [Mastering Artificial Intelligence](mastering_ai)
 
 ![cover](mastering_ai.png)
 
 ---
 
-# [Mastering Trading Systems](https://mikelaud.github.io)
+# [Mastering Trading Systems](mastering_ai.md)
 
 ![cover](mastering_ts.png)
 
