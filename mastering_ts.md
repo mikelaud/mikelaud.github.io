@@ -26,5 +26,7 @@
 11. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
 12. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
 
+## Part V. Mindset
+
 ---
 %%
