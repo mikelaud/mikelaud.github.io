@@ -20,5 +20,11 @@
 8. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 9. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 
+## Part IV. Toolbox
+
+10. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas R. DeMark)_
+11. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
+12. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
+
 ---
 %%
