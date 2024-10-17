@@ -4,7 +4,7 @@
 
 ---
 
-# [Mastering Trading Systems](mastering_ai.md)
+# [Mastering Trading Systems](mastering_ts.md)
 
 ![cover](mastering_ts.png)
 
