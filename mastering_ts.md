@@ -1,6 +1,5 @@
-# [Mastering Trading Systems](https://mikelaud.github.io)
-
-![cover](mastering_ts.png)
+# [Mastering Trading Systems](/)
+[![Mastering Trading Systems](mastering_ts.png?raw=true "Mastering Trading Systems")](/)
 
 ## Part I. Intro
 
