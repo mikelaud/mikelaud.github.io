@@ -1,12 +1,10 @@
 # [Mastering Artificial Intelligence](mastering_ai)
-
-![cover](mastering_ai.png)
+[<img src="mastering_ai.png">](mastering_ai)
 
 ---
 
-# [Mastering Trading Systems](mastering_ts.md)
-
-![cover](mastering_ts.png)
+# [Mastering Trading Systems](mastering_ts)
+[<img src="mastering_ts.png">](mastering_ts)
 
 ---
 %%
