@@ -30,9 +30,7 @@
 
 13. [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W) _(Nassim Nicholas Taleb)_
 14. [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily-ebook/dp/B075HYVP7C) _(Nassim Nicholas Taleb)_
-15. [The Black Swan](https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4) _(Nassim Nicholas Taleb)_
-    * [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO) _(Nassim Nicholas Taleb)_
-      * [Statistical Consequences of Fat Tails](https://www.amazon.com/Statistical-Consequences-Fat-Tails-Preasymptotics/dp/1544508050) _(Nassim Nicholas Taleb)_
+15. [The Black Swan](https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4) => [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO) => [Fat Tails](https://www.amazon.com/Statistical-Consequences-Fat-Tails-Preasymptotics/dp/1544508050) _(Nassim Nicholas Taleb)_
 
 ---
 %%
