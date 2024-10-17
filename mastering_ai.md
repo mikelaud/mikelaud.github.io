@@ -1,6 +1,5 @@
-# [Mastering Artificial Intelligence](https://mikelaud.github.io)
-
-![cover](mastering_ai.png)
+# [Mastering Artificial Intelligence](/)
+[![Mastering Artificial Intelligence](mastering_ai.png?raw=true "Mastering Artificial Intelligence")](/)
 
 ## Part I. Intro
 
