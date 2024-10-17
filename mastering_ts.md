@@ -10,9 +10,15 @@
 
 ## Part II. Foundation
 
-4. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
-5. [Trading Systems: A new approach to system development and portfolio optimisation](https://www.amazon.com/gp/product/B081Z8YLKT) _(Urban Jaekle, Emilio Tomasini)_
-6. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
+4. [Market Beaters](https://www.amazon.com/Market-Beaters-Art-Collins-ebook/dp/B07NBX7T45) _(Art Collins)_
+5. [Trading Systems: A new approach to system development](https://www.amazon.com/gp/product/B081Z8YLKT) _(Urban Jaekle, Emilio Tomasini)_
+6. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
+
+## Part III. Advanced
+
+7. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
+8. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
+9. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 
 ---
 %%
