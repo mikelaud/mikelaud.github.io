@@ -29,7 +29,7 @@
 
 13. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wes-McKinney-ebook/dp/B0B9HY3WX7) _(Wes McKinney)_
 14. [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-VanderPlas-ebook/dp/B0BP8XD42X) _(Jake VanderPlas)_
-15. [Deep Learning with JAX](https://www.amazon.com/Deep-Learning-JAX-Grigory-Sapunov-ebook/dp/B0DH57LVXY) _(Grigory Sapunov)_
+15. [Modern Time Series Forecasting with Python](https://www.amazon.com/Modern-Time-Forecasting-Python-Industry-ready-ebook/dp/B0D5C165R2) _(Manu Joseph)_
 
 ---
 %%
