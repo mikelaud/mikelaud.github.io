@@ -12,5 +12,6 @@
 * 2023: ChatGPT Rising
 * 2022: Generative AI Boom => Stable Diffusion, Midjourney, DALL-E
 * 2021: Open AlphaFold in Nature
+* 201x: AI in Game => AlphaGo, AlphaGo Zero, AlphaZero, MuZero
 
 %%
