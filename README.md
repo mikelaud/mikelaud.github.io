@@ -7,8 +7,8 @@
 [![Mastering Trading Systems](mastering_ts.png?raw=true "Mastering Trading Systems")](mastering_ts)
 
 ---
-* __2025__: _$500B for AI "Stargate"_
-* __2024__: _Noble Prize in Physics for AI_
-* __2023__: _ChatGPT Rising_
+* 2025: $500B for AI "Stargate"
+* 2024: Noble Prize in Physics for AI
+* 2023: ChatGPT Rising
 
 %%
