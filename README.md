@@ -7,7 +7,7 @@
 [![Mastering Trading Systems](mastering_ts.png?raw=true "Mastering Trading Systems")](mastering_ts)
 
 ---
-* 2025: $500B for AI "Stargate"
+* 2025: $500B for AI "Stargate" vs DeepSeek
 * 2024: Noble Prize in Physics and Chemistry for AI
 * 2023: ChatGPT Rising
 * 2022: Generative AI Boom => Stable Diffusion, Midjourney, DALL-E
