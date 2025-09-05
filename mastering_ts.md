@@ -21,9 +21,9 @@
 
 ## Part IV. Scientific Trading
 
-10. [Evidence-Based Technical Analysis](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical-ebook/dp/B0086KQ3UW) _David Aronson_
-11. [Testing and Tuning Market Trading Systems](https://www.amazon.com/Testing-Tuning-Market-Trading-Systems-ebook/dp/B07JVKW1BT) _Timothy Masters_
-12. [Permutation and Randomization Tests for Trading System Development](https://www.amazon.com/Permutation-Randomization-Trading-System-Development/dp/B084QLXFKW) _Timothy Masters_
+10. [Evidence-Based Technical Analysis](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical-ebook/dp/B0086KQ3UW) _(David Aronson)_
+11. [Testing and Tuning Market Trading Systems](https://www.amazon.com/Testing-Tuning-Market-Trading-Systems-ebook/dp/B07JVKW1BT) _(Timothy Masters)_
+12. [Permutation and Randomization Tests for Trading System Development](https://www.amazon.com/Permutation-Randomization-Trading-System-Development/dp/B084QLXFKW) _(Timothy Masters)_
 
 ## Part II. Foundation
 
