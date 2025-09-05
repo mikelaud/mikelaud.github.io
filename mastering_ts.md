@@ -5,7 +5,7 @@
 
 1. [The New Trading for a Living](https://www.amazon.com/New-Trading-Living-Psychology-Discipline-ebook/dp/B00MFPZAWG) _(Alexander Elder)_
 2. [The New Sell and Sell Short](https://www.amazon.com/New-Sell-Short-Profits-Declines-ebook/dp/B004PGMI14) _(Alexander Elder)_
-3. [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook/dp/B001KAM6U6) _(Robert C. Miner)_
+3. [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook/dp/B001KAM6U6) _(Robert Miner)_
 
 ## Part II. Futures Trading
 
@@ -25,14 +25,16 @@
 11. [Testing and Tuning Market Trading Systems](https://www.amazon.com/Testing-Tuning-Market-Trading-Systems-ebook/dp/B07JVKW1BT) _(Timothy Masters)_
 12. [Permutation and Randomization Tests for Trading System Development](https://www.amazon.com/Permutation-Randomization-Trading-System-Development/dp/B084QLXFKW) _(Timothy Masters)_
 
+## Part V. Advanced Trading
+
+13. [Cybernetic Trading Indicators](https://www.amazon.com/Cybernetic-Trading-Indicators-John-Ehlers/dp/B0F79TYDNW) _(John Ehlers)_
+14. [Statistically Sound Indicators For Financial Market Prediction](https://www.amazon.com/Statistically-Indicators-Financial-Market-Prediction/dp/1698339992) _(Timothy Masters)_
+15. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
+
 ## Part II. Foundation
 
 [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
-
-## Part III. Advanced
-
-8. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
-9. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
+[Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 
 ## Part IV. Toolbox
 
