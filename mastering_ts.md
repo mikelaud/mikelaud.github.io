@@ -7,6 +7,12 @@
 2. [The New Sell and Sell Short](https://www.amazon.com/New-Sell-Short-Profits-Declines-ebook/dp/B004PGMI14) _(Alexander Elder)_
 3. [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook/dp/B001KAM6U6) _(Robert C. Miner)_
 
+## Part II. Futures Trading
+
+4. [Leveraged Trading](https://www.amazon.com/Leveraged-Trading-professional-approach-trading-ebook/dp/B07Z81R6WL) _(Robert Carver)_
+5. [Advanced Futures Trading Strategies](https://www.amazon.com/dp/B0BCKP2ZK9) _(Robert Carver)_
+6. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
+
 ## Part II. Foundation
 
 4. [Market Beaters](https://www.amazon.com/Market-Beaters-Art-Collins-ebook/dp/B07NBX7T45) _(Art Collins)_
