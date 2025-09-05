@@ -13,6 +13,12 @@
 5. [Advanced Futures Trading Strategies](https://www.amazon.com/dp/B0BCKP2ZK9) _(Robert Carver)_
 6. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
 
+## Part III. Systematic Trading
+
+7. [Market Beaters](https://www.amazon.com/Market-Beaters-Art-Collins-ebook/dp/B07NBX7T45) _(Art Collins)_
+8. [Trading Systems: A new approach to system development](https://www.amazon.com/gp/product/B081Z8YLKT) _(Urban Jaekle, Emilio Tomasini)_
+9. [Systematic Trading](https://www.amazon.com/dp/B014J5LNSY) _(Robert Carver)_
+
 ## Part II. Foundation
 
 4. [Market Beaters](https://www.amazon.com/Market-Beaters-Art-Collins-ebook/dp/B07NBX7T45) _(Art Collins)_
