@@ -16,18 +16,21 @@
 ## Part III. Systematic Trading
 
 7. [Market Beaters](https://www.amazon.com/Market-Beaters-Art-Collins-ebook/dp/B07NBX7T45) _(Art Collins)_
-8. [Trading Systems: A new approach to system development](https://www.amazon.com/gp/product/B081Z8YLKT) _(Urban Jaekle, Emilio Tomasini)_
+8. [Trading Systems](https://www.amazon.com/gp/product/B081Z8YLKT) _(Urban Jaekle, Emilio Tomasini)_
 9. [Systematic Trading](https://www.amazon.com/dp/B014J5LNSY) _(Robert Carver)_
+
+## Part IV. Scientific Trading
+
+10. [Evidence-Based Technical Analysis](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical-ebook/dp/B0086KQ3UW) _David Aronson_
+11. [Testing and Tuning Market Trading Systems](https://www.amazon.com/Testing-Tuning-Market-Trading-Systems-ebook/dp/B07JVKW1BT) _Timothy Masters_
+12. [Permutation and Randomization Tests for Trading System Development](https://www.amazon.com/Permutation-Randomization-Trading-System-Development/dp/B084QLXFKW) _Timothy Masters_
 
 ## Part II. Foundation
 
-4. [Market Beaters](https://www.amazon.com/Market-Beaters-Art-Collins-ebook/dp/B07NBX7T45) _(Art Collins)_
-5. [Trading Systems: A new approach to system development](https://www.amazon.com/gp/product/B081Z8YLKT) _(Urban Jaekle, Emilio Tomasini)_
-6. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
+[Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
 
 ## Part III. Advanced
 
-7. [Beating the Financial Futures Market](https://www.amazon.com/Beating-FINANCIAL-FUTURES-MARKET-Strategies-ebook/dp/B01N3SG6TI) _(Art Collins)_
 8. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 9. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 
