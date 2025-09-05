@@ -1,7 +1,7 @@
 # [Mastering Trading Systems](/)
 [![Mastering Trading Systems](mastering_ts.png?raw=true "Mastering Trading Systems")](/)
 
-## Part I. Intro
+## Part I. Stock Trading
 
 1. [The New Trading for a Living](https://www.amazon.com/New-Trading-Living-Psychology-Discipline-ebook/dp/B00MFPZAWG) _(Alexander Elder)_
 2. [The New Sell and Sell Short](https://www.amazon.com/New-Sell-Short-Profits-Declines-ebook/dp/B004PGMI14) _(Alexander Elder)_
