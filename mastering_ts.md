@@ -43,5 +43,11 @@
 20. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
 21. [Trading Systems and Methods](https://www.amazon.com/Trading-Systems-Methods-Wiley-ebook/dp/B08141BBXR) _(Perry Kaufman)_
 
+## Epilogue
+
+22. [Wall Street](https://en.wikipedia.org/wiki/Wall_Street_(1987_film)) _(1987)_
+23. [Wall Street: Money Never Sleeps](https://en.wikipedia.org/wiki/Wall_Street:_Money_Never_Sleeps) _(2010)_
+24. [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film)) _(2015)_
+
 ---
 %%
