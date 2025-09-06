@@ -31,22 +31,17 @@
 14. [Statistically Sound Indicators For Financial Market Prediction](https://www.amazon.com/Statistically-Indicators-Financial-Market-Prediction/dp/1698339992) _(Timothy Masters)_
 15. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 
-## Part VI. Programming Trading from Scratch
+## Part VI. Back to Software Trading
 
 16. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
 17. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
 18. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
 
-## Part IV. Toolbox
+## Part VII. Back to Classic Trading
 
-10. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas R. DeMark)_
-11. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
-
-## Part V. Mindset
-
-13. [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W) _(Nassim Nicholas Taleb)_
-14. [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily-ebook/dp/B075HYVP7C) _(Nassim Nicholas Taleb)_
-15. [The Black Swan](https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4) => [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO) => [Fat Tails](https://www.amazon.com/Statistical-Consequences-Fat-Tails-Preasymptotics/dp/1544508050) _(Nassim Nicholas Taleb)_
+19. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas R. DeMark)_
+20. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
+21. [Trading Systems and Methods](https://www.amazon.com/Trading-Systems-Methods-Wiley-ebook/dp/B08141BBXR) _(Perry Kaufman)_
 
 ---
 %%
