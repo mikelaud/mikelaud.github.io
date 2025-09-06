@@ -33,15 +33,21 @@
 
 ## Part VI. Algorithmic Trading
 
-16. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
-17. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
-18. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
+16. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2) / [Introduction To Algo Trading](https://www.amazon.com/dp/B07CX8KXS3) _(Kevin Davey)_
+17. Xxx
+18. Xxx
 
-## Part VII. Classic Trading
+## Part VII. Algorithmic Trading Coding
 
-19. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas DeMark)_
-20. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
-21. [Trading Systems and Methods](https://www.amazon.com/Trading-Systems-Methods-Wiley-ebook/dp/B08141BBXR) _(Perry Kaufman)_
+19. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
+20. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
+21. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
+
+## Part VIII. Classic Trading
+
+22. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas DeMark)_
+23. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
+24. [Trading Systems and Methods](https://www.amazon.com/Trading-Systems-Methods-Wiley-ebook/dp/B08141BBXR) _(Perry Kaufman)_
 
 ## Epilogue
 
