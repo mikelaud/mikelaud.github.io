@@ -7,7 +7,7 @@
 2. [The New Sell and Sell Short](https://www.amazon.com/New-Sell-Short-Profits-Declines-ebook/dp/B004PGMI14) _(Alexander Elder)_
 3. [High Probability Trading Strategies](https://www.amazon.com/High-Probability-Trading-Strategies-Tactics-ebook/dp/B001KAM6U6) _(Robert Miner)_
 
-## Part II. Futures Trading
+## Part II. Margin Trading
 
 4. [Leveraged Trading](https://www.amazon.com/Leveraged-Trading-professional-approach-trading-ebook/dp/B07Z81R6WL) _(Robert Carver)_
 5. [Advanced Futures Trading Strategies](https://www.amazon.com/dp/B0BCKP2ZK9) _(Robert Carver)_
