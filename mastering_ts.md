@@ -39,7 +39,7 @@
 
 ## Part VII. Classic Trading
 
-19. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas R. DeMark)_
+19. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas DeMark)_
 20. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
 21. [Trading Systems and Methods](https://www.amazon.com/Trading-Systems-Methods-Wiley-ebook/dp/B08141BBXR) _(Perry Kaufman)_
 
