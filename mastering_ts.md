@@ -33,8 +33,8 @@
 
 ## Part VI. Algorithmic Trading
 
-16. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2) / [Introduction To Algo Trading](https://www.amazon.com/dp/B07CX8KXS3) _(Kevin Davey)_
-17. Xxx
+16. [Introduction To Algo Trading](https://www.amazon.com/dp/B07CX8KXS3) / [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems-ebook/dp/B00JUUZU2) _(Kevin Davey)_
+17. [Algo Trading Cheat Codes](https://www.amazon.com/ALGO-TRADING-CHEAT-CODES-Efficiently-ebook/dp/B094DKZL61) / [Entry and Exit Confessions of a Champion Trader](https://www.amazon.com/Entry-Exit-Confessions-Champion-Trader-ebook/dp/B07R8LZ4Z2) _(Kevin Davey)_
 18. Xxx
 
 ## Part VII. Algorithmic Trading Coding
