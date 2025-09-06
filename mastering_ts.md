@@ -57,9 +57,9 @@
 
 ## Epilogue (movies)
 
-* [Wall Street](https://en.wikipedia.org/wiki/Wall_Street_(1987_film)) _(1987)_
-* [Wall Street: Money Never Sleeps](https://en.wikipedia.org/wiki/Wall_Street:_Money_Never_Sleeps) _(2010)_
-* [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film)) _(2015)_
+* [Wall Street](https://en.wikipedia.org/wiki/Wall_Street_(1987_film))
+* [Wall Street: Money Never Sleeps](https://en.wikipedia.org/wiki/Wall_Street:_Money_Never_Sleeps)
+* [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film))
 
 ---
 %%
