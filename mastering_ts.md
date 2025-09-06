@@ -31,16 +31,16 @@
 14. [Statistically Sound Indicators For Financial Market Prediction](https://www.amazon.com/Statistically-Indicators-Financial-Market-Prediction/dp/1698339992) _(Timothy Masters)_
 15. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 
-## Part II. Foundation
+## Part VI. Programming Trading from Scratch
 
-[Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
-[Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
+16. [Mastering Financial Pattern Recognition](https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Sofien-ebook/dp/B0BJNQ13QN) _(Sofien Kaabar)_
+17. [Algorithmic Trading with Python](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG) _(Chris Conlan)_
+18. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
 
 ## Part IV. Toolbox
 
 10. [The New Science of Technical Analysis](https://www.amazon.com/Science-Technical-Analysis-Wiley-Finance-ebook/dp/B000WLLWMC) _(Thomas R. DeMark)_
 11. [Long-Term Secrets to Short-Term Trading](https://www.amazon.com/Long-Term-Secrets-Short-Term-Trading-Wiley-ebook/dp/B0062ZNIHO) _(Larry Williams)_
-12. [Python for Algorithmic Trading](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment-ebook/dp/B08NC8F1WV) _(Yves Hilpisch)_
 
 ## Part V. Mindset
 
