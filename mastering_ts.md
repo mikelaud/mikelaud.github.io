@@ -31,8 +31,8 @@
 
 ### Section 5. Advanced Trading
 
-13. [Cybernetic Trading Indicators](https://www.amazon.com/Cybernetic-Trading-Indicators-John-Ehlers/dp/B0F79TYDNW) _(John Ehlers)_
-14. [Statistically Sound Indicators For Financial Market Prediction](https://www.amazon.com/Statistically-Indicators-Financial-Market-Prediction/dp/1698339992) _(Timothy Masters)_
+13. [Statistically Sound Indicators For Financial Market Prediction](https://www.amazon.com/Statistically-Indicators-Financial-Market-Prediction/dp/1698339992) _(Timothy Masters)_
+14. [Cybernetic Trading Indicators](https://www.amazon.com/Cybernetic-Trading-Indicators-John-Ehlers/dp/B0F79TYDNW) _(John Ehlers)_
 15. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21) _(Marcos López de Prado)_
 
 ## Part III. Algorithmic Ideas
