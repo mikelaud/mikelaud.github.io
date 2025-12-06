@@ -6,4 +6,9 @@
 4. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) _(Jake VanderPlas)_
 5. [Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/) _(Rob J Hyndman)_
 
+# [Bonus Books]
+
+1. [DuckDB in Action](https://www.amazon.com/DuckDB-Action-Mark-Needham-ebook/dp/B0DB2T4XS2) _(Mark Needham, Michael Hunger, Michael Simons)_
+2. [Streamlit for Data Science](https://www.amazon.com/Streamlit-Data-Science-Create-interactive-ebook/dp/B0BTHRBC2W) _(Tyler Richards)_
+
 ---
