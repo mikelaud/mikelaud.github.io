@@ -17,4 +17,10 @@
 1. [DuckDB in Action](https://www.amazon.com/DuckDB-Action-Mark-Needham-ebook/dp/B0DB2T4XS2) _(Mark Needham, Michael Hunger, Michael Simons)_
 2. [Streamlit for Data Science](https://www.amazon.com/Streamlit-Data-Science-Create-interactive-ebook/dp/B0BTHRBC2W) _(Tyler Richards)_
 
+# Bonus Books (Kubernetes)
+
+1. [Cloud Native Spring in Action](https://www.amazon.com/Cloud-Native-Spring-Action-Kubernetes-ebook/dp/B0BV15YCLQ) _(Thomas Vitale)_
+2. [Platform Engineering on Kubernetes](https://www.amazon.com/Platform-Engineering-Kubernetes-Mauricio-Salatino-ebook/dp/B0CLKZMQKG) _(Mauricio Salatino)_
+3. [Developer Experience on Kubernetes](https://www.manning.com/books/developer-experience-on-kubernetes) _(Mauricio Salatino, Thomas Vitale)_
+
 ---
