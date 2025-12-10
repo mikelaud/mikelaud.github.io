@@ -32,6 +32,10 @@
 15. [Modern Time Series Forecasting with Python](https://www.amazon.com/Modern-Time-Forecasting-Python-Industry-ready-ebook/dp/B0D5C165R2) _(Manu Joseph)_
 
 ---
-* [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
+
+## Articles
+
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762) _(Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin)_
+* [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234) _(Haoran Wei, Yaofeng Sun, Yukun Li)_
 ---
 %%
