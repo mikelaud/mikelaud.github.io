@@ -37,8 +37,12 @@
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
+
+## Articles (Titans)
+
 * [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
-  * [It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://arxiv.org/abs/2504.13173)
-    * [Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model](https://arxiv.org/abs/2510.09551)
+* [It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://arxiv.org/abs/2504.13173)
+* [Nested Learning: The Illusion of Deep Learning Architectures](https://neurips.cc/virtual/2025/loc/san-diego/poster/116123)
+* [Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model](https://arxiv.org/abs/2510.09551)
 ---
 %%
