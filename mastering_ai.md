@@ -39,5 +39,6 @@
 * [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234) _<sup>(Haoran Wei, Yaofeng Sun, Yukun Li)</sup>_
 * [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) _<sup>(Ali Behrouz, Peilin Zhong, Vahab Mirrokni)</sup>_
   * [It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://arxiv.org/abs/2504.13173) _<sup>(Ali Behrouz, Meisam Razaviyayn, Peilin Zhong, Vahab Mirrokni)</sup>_
+    * [Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model](https://arxiv.org/abs/2510.09551) _<sup>(Gavriel Di Nepi, Federico Siciliano, Fabrizio Silvestri)</sup>_
 ---
 %%
