@@ -35,7 +35,7 @@
 
 ## Articles
 
-* [Attention Is All You Need](https://arxiv.org/abs/1706.03762) _(Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin)_
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762) _<sup>(Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin)</sup>_
 * [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234) _(Haoran Wei, Yaofeng Sun, Yukun Li)_
 ---
 %%
