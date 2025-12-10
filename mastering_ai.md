@@ -32,4 +32,6 @@
 15. [Modern Time Series Forecasting with Python](https://www.amazon.com/Modern-Time-Forecasting-Python-Industry-ready-ebook/dp/B0D5C165R2) _(Manu Joseph)_
 
 ---
+* [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
+---
 %%
