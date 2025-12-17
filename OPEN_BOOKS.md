@@ -16,6 +16,7 @@
 
 1. [DuckDB in Action](https://www.amazon.com/DuckDB-Action-Mark-Needham-ebook/dp/B0DB2T4XS2) _(Mark Needham, Michael Hunger, Michael Simons)_
 2. [Streamlit for Data Science](https://www.amazon.com/Streamlit-Data-Science-Create-interactive-ebook/dp/B0BTHRBC2W) _(Tyler Richards)_
+3. [Modern Time Series Forecasting with Python](https://www.amazon.com/Modern-Time-Forecasting-Python-Industry-ready-ebook/dp/B0D5C165R2) _Manu Joseph_
 
 # Bonus Books (Kubernetes)
 
