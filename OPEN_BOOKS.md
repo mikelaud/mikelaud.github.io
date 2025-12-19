@@ -12,13 +12,13 @@
 2. [Real-time Forecasting of Time Series in Financial Markets Using LSTMs](https://arxiv.org/abs/2205.04678) _(Kelum Gajamannage, Yonggi Park)_
 3. [Hydra: Dual Exponentiated Memory for Multivariate Time Series Analysis](https://arxiv.org/abs/2511.00989) _(Asal Meskin, Alireza Mirrokni, Ali Najar, Ali Behrouz)_
 
-# Data
+# Data Analysis
 
 1. [DuckDB in Action](https://www.amazon.com/DuckDB-Action-Mark-Needham-ebook/dp/B0DB2T4XS2) _(Mark Needham, Michael Hunger, Michael Simons)_
 2. [Python Polars: The Definitive Guide](https://www.amazon.com/Python-Polars-Definitive-Transforming-Visualizing-ebook/dp/B0DXXZYRX2) _(Jeroen Janssens, Thijs Nieuwdorp)_
 3. [Streamlit for Data Science](https://www.amazon.com/Streamlit-Data-Science-Create-interactive-ebook/dp/B0BTHRBC2W) _(Tyler Richards)_
 
-# LLM
+# Large Language Model
 
 1. [Hands-On Large Language Models: Language Understanding and Generation](https://www.amazon.com/Hands-Large-Language-Models-Understanding-ebook/dp/B0DGZ46G88) _(Jay Alammar)_
 2. [Build a Large Language Model (From Scratch)](https://www.amazon.com/Build-Large-Language-Model-Scratch-ebook/dp/B0DGQXVK62) _(Sebastian Raschka)_
